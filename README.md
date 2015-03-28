@@ -3,12 +3,16 @@
 Data collected from the annual Tempe Bike Count and supporting code are
 contained in here.
 
-Full reports with analysis of this data are available from http://biketempe.org.
+Full reports with analysis of this data are available in the form of the
+annual Bike Count Report from http://biketempe.org.
 
-https://github.com/biketempe/BikeCount contains the code for the count volunteer
+`https://github.com/biketempe/BikeCount` contains the code for the count volunteer
 signup up and the admin.
 
-##
+The `raw-count-data` directory contains the actual raw bike count data.
+
+The `crash-plot` directory contains summary crash data from ADOT's "Crash Mart" CD
+and code to prepare the crash plot published in the published Bike Count report.
 
 ## License
 
@@ -20,9 +24,9 @@ is made to Tempe Bicycle Action Group and this license is retained with distribu
 Tempe Bicycle Action Group and its affiliates and members are not responsible for special
 or incidental damages resulting from the use or misuse of this data and any errors in it.
 
-License summary:  https://creativecommons.org/licenses/by-sa/2.5/
+License summary:  `https://creativecommons.org/licenses/by-sa/2.5/`
 
-See the file 'LICENSE' for the full text of this license.
+See the file `LICENSE` for the full text of this license.
 
 Some of the data contained in here (particularly things other than raw bike count data)
 is owned by other organizations:  ADOT, MAG, Tempe, and so forth.  Please contact the
