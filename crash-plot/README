@@ -1,0 +1,26 @@
+This contains the data and code related to the accident rate plot in the published Bike Count document.
+
+accident_rate.sql -- query used to fetch the CSV data from the crash database operated by azbikelaw.org
+and loaded with "Crash Mart" data from ADOT (Arizona Department of Transportation).
+
+accident_rate.csv -- summary data containing number of associated (near by) crashes, the location_id
+matching the location_id in count_sites.csv, and the average (across all years) of the total number of
+bicycles counted during both shifts (4 hours total, 2 hours AM and 2 hours PM) for each year it was
+counted.
+
+associate.pl -- reads count_sites.csv and bikeaccident_2009_to_2013.csv, and adds
+nearest_count_site and distance_to_nearest_count_site columns to bikeaccident_2009_to_2013.csv
+
+bikeaccident_2009.csv -- output of the accident_rate.sql query when run for various years
+bikeaccident_2010.csv
+bikeaccident_2011.csv
+bikeaccident_2012.csv
+bikeaccident_2013.csv
+
+bikeaccident_2009_to_2013.csv -- all of the above files combined
+
+bikeaccident_2009_to_2013_associated_tempe.csv -- the above file after each record has been
+associated with a location using associate.pl
+
+vis.R -- R ggmap visualization; takes accident_rate.csv and count_sites.csv as input
+
