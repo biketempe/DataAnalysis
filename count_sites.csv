@@ -24,7 +24,7 @@ location_id,location_W_E,location_N_S,priority,vols_needed,latitude,longitude,au
 123,"Western Canal","Rural Rd",23,1,33.35663,-111.92854,0,Geo::Coder::Geocoder::US,,1,2014,,-,
 124,"Western Canal","McClintock Dr",86,1,33.35677,-111.91153,0,Geo::Coder::Geocoder::US,,0,2014,"go light on canals this year",,
 125,"Western Canal","Lakeshore Dr",39,0,33.367337,-111.940682,0,hand,"skip for 2014",0,2011,"go light on canals this year","do not count sidewalk riding all multiuse path",
-126,"Baseline Rd","Western Canal",31,1,33.377958,-111.945448,0,Geo::Coder::Geocoder::US,,0,2014,"go light on canals this year","count 'jaywalkers?' city recommended path is wrongway westbound/eastbound to/from Kyrene traffic light",
+126,"Baseline Rd","Western Canal",31,2,33.377958,-111.945448,0,Geo::Coder::Geocoder::US,,0,2014,"go light on canals this year","count 'jaywalkers?' city recommended path is wrongway westbound/eastbound to/from Kyrene traffic light",
 127,"Elliot Rd","McClintock Dr",86,0,33.349147,-111.911297,0,Geo::Coder::Geocoder::US,"very slow; skip for 2014; not surprised this one is dead with respect to bikes",1,2011,optional,-,
 128,"Alameda Dr","McClintock Dr",29,1,33.400146,-111.908998,0,Geo::Coder::Geocoder::US,,,2014,"Alameda project",-,
 129,"Alameda Dr","S Rural Rd",50,2,33.400246,-111.926098,0,Geo::Coder::Geocoder::US,,,2014,"Alameda project",-,
