@@ -7,7 +7,11 @@ See the published Bike Count Report on `biketempe.org` for the study methodology
 
 Count data is for hours of 7am-9am in the morning and 4pm-6pm in the evening.
 
-"cliff out" refers to the data having been converted form the form we get it back from
+Files in here are at one of two stages of processing:
+
+### Stage 1, "cliff out"
+
+Refers to the data having been converted form the form we get it back from
 Amazon Mechanical Turk (and that our own fake-turk continues to use as volunteers
 check and correct the data) to the format that we use internally (specifically, that
 Cliff Anderson's xlsx spreadsheet wants).
@@ -18,7 +22,22 @@ Page number agrees with the hour.
 AM/PM agrees with the hour.
 Location ID (which ends in 'A' or 'P') agrees with AM/PM checkbox.
 
-Definitions:
+### Stage 2, "post cliff"
+
+Cliff has checked the data for impossible attribute numbers (any attribute having
+a higher number than the total number of riders in that block) and fixed it from the
+original count sheet scan or rejected the assignment (the data from that shift at that location).
+More garbage from entry is found and tidied up.
+
+### Files
+
+* 2011_bikecount_data.csv -- unknown stage
+* 2012_combined_spot_checked_cliff_out.csv -- stage 1
+* 2013_cliff_out.csv -- stage 1
+* 2014_post_turk_post_volunteer_entry_checking_post_scotts_sanity_checks_post_cliff_conversion.csv -- stage 1
+* 2015.csv -- stage 2
+
+### Definitions
 
 ```
 	Page			
