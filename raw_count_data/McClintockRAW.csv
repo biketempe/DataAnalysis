@@ -1,0 +1,737 @@
+Location ID,Code,Year,Time,Hour,Recorder,Rec Count,Page,Segment,Direction,Count,Gender ,Helmet,Wrong way,Sidewalk
+104,RMD,2016,AM,7,Nicole Guest,1,1,1,1,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,1,2,3,1,1,1,2
+104,RMD,2016,AM,7,Nicole Guest,1,1,1,3,1,0,0,0,1
+104,RMD,2016,AM,7,Nicole Guest,1,1,1,4,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,2,1,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,2,2,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,2,3,2,1,0,1,1
+104,RMD,2016,AM,7,Nicole Guest,1,1,2,4,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,3,1,2,0,1,0,2
+104,RMD,2016,AM,7,Nicole Guest,1,1,3,2,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,3,3,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,3,4,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,4,1,0,0,0,0,0
+104,RMD,2016,AM,7,Nicole Guest,1,1,4,2,2,1,1,0,1
+104,RMD,2016,AM,7,Nicole Guest,1,1,4,3,1,0,1,0,1
+104,RMD,2016,AM,7,Nicole Guest,1,1,4,4,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,1,1,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,1,2,2,1,0,0,2
+104,RMD,2016,AM,8,Nicole Guest,1,2,1,3,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,1,4,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,2,1,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,2,2,4,1,1,0,2
+104,RMD,2016,AM,8,Nicole Guest,1,2,2,3,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,2,4,1,0,1,0,1
+104,RMD,2016,AM,8,Nicole Guest,1,2,3,1,1,0,0,0,1
+104,RMD,2016,AM,8,Nicole Guest,1,2,3,2,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,3,3,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,3,4,2,0,1,0,1
+104,RMD,2016,AM,8,Nicole Guest,1,2,4,1,2,1,0,1,2
+104,RMD,2016,AM,8,Nicole Guest,1,2,4,2,0,0,0,0,0
+104,RMD,2016,AM,8,Nicole Guest,1,2,4,3,1,0,0,1,1
+104,RMD,2016,AM,8,Nicole Guest,1,2,4,4,2,1,0,1,2
+104,RMD,2016,PM,4,Nicole Guest,1,1,1,1,2,0,0,2,2
+104,RMD,2016,PM,4,Nicole Guest,1,1,1,2,3,0,1,1,3
+104,RMD,2016,PM,4,Nicole Guest,1,1,1,3,0,0,0,0,0
+104,RMD,2016,PM,4,Nicole Guest,1,1,1,4,2,0,0,0,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,2,1,4,0,0,0,4
+104,RMD,2016,PM,4,Nicole Guest,1,1,2,2,1,0,0,1,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,2,3,3,1,1,1,2
+104,RMD,2016,PM,4,Nicole Guest,1,1,2,4,2,0,1,0,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,3,1,2,1,0,2,2
+104,RMD,2016,PM,4,Nicole Guest,1,1,3,2,1,0,1,0,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,3,3,3,0,0,2,3
+104,RMD,2016,PM,4,Nicole Guest,1,1,3,4,1,0,0,0,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,4,1,1,1,0,0,1
+104,RMD,2016,PM,4,Nicole Guest,1,1,4,2,4,1,0,3,3
+104,RMD,2016,PM,4,Nicole Guest,1,1,4,3,1,0,0,0,0
+104,RMD,2016,PM,4,Nicole Guest,1,1,4,4,2,0,1,0,1
+104,RMD,2016,PM,5,Nicole Guest,1,2,1,1,3,2,1,3,3
+104,RMD,2016,PM,5,Nicole Guest,1,2,1,2,3,0,1,1,3
+104,RMD,2016,PM,5,Nicole Guest,1,2,1,3,0,0,0,0,0
+104,RMD,2016,PM,5,Nicole Guest,1,2,1,4,2,1,0,1,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,2,1,3,0,2,0,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,2,2,2,0,0,1,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,2,3,2,0,0,1,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,2,4,1,0,0,0,1
+104,RMD,2016,PM,5,Nicole Guest,1,2,3,1,0,0,0,0,0
+104,RMD,2016,PM,5,Nicole Guest,1,2,3,2,2,0,1,1,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,3,3,2,1,0,0,2
+104,RMD,2016,PM,5,Nicole Guest,1,2,3,4,1,0,0,0,1
+104,RMD,2016,PM,5,Nicole Guest,1,2,4,1,5,0,1,5,5
+104,RMD,2016,PM,5,Nicole Guest,1,2,4,2,10,2,2,1,10
+104,RMD,2016,PM,5,Nicole Guest,1,2,4,3,4,1,0,2,4
+104,RMD,2016,PM,5,Nicole Guest,1,2,4,4,1,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,1,1,2,1,1,1,1
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,1,2,0,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,1,3,1,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,1,4,1,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,2,1,2,1,1,1,1
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,2,2,1,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,2,3,2,0,1,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,2,4,2,1,2,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,3,1,1,1,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,3,2,2,1,2,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,3,3,4,1,2,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,3,4,4,0,2,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,4,1,0,0,0,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,4,2,1,0,0,0,1
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,4,3,3,0,3,0,0
+124,WCMD,2016,AM,7,Shereen Lerner,1,1,4,4,7,2,7,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,1,1,2,0,2,0,1
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,1,2,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,1,3,1,1,1,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,1,4,2,1,2,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,2,1,1,1,0,0,1
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,2,2,1,0,0,0,1
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,2,3,3,0,2,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,2,4,1,0,1,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,3,1,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,3,2,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,3,3,1,0,1,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,3,4,2,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,4,1,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,4,2,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,4,3,0,0,0,0,0
+124,WCMD,2016,AM,8,Shereen Lerner,1,2,4,4,2,0,2,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,1,1,1,0,0,0,1
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,1,2,4,0,1,1,2
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,1,3,3,0,3,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,1,4,0,0,0,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,2,1,2,0,0,1,2
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,2,2,1,0,0,0,1
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,2,3,6,1,4,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,2,4,3,0,2,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,3,1,2,0,0,0,2
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,3,2,1,0,0,0,1
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,3,3,3,0,1,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,3,4,6,0,1,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,4,1,0,0,0,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,4,2,3,1,0,2,2
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,4,3,2,1,2,0,0
+124,WCMD,2016,PM,4,Mark Eastwood,1,1,4,4,3,1,2,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,1,1,5,1,2,1,2
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,1,2,0,0,0,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,1,3,6,0,2,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,1,4,5,0,1,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,2,1,1,0,0,1,1
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,2,2,1,1,1,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,2,3,4,0,0,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,2,4,4,1,2,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,3,1,2,1,2,2,2
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,3,2,1,0,1,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,3,3,6,1,5,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,3,4,2,0,2,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,4,1,4,2,0,1,4
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,4,2,0,0,0,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,4,3,0,0,0,0,0
+124,WCMD,2016,PM,5,Mark Eastwood,1,2,4,4,2,1,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,1,1,1,0,0,0,1
+127,EMD,2016,AM,7,Lora Dalbo,1,1,1,2,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,1,3,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,1,4,1,0,0,0,1
+127,EMD,2016,AM,7,Lora Dalbo,1,1,2,1,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,2,2,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,2,3,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,2,4,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,3,1,1,0,0,0,1
+127,EMD,2016,AM,7,Lora Dalbo,1,1,3,2,1,0,0,0,1
+127,EMD,2016,AM,7,Lora Dalbo,1,1,3,3,2,0,0,0,2
+127,EMD,2016,AM,7,Lora Dalbo,1,1,3,4,2,1,0,0,2
+127,EMD,2016,AM,7,Lora Dalbo,1,1,4,1,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,4,2,0,0,0,0,0
+127,EMD,2016,AM,7,Lora Dalbo,1,1,4,3,1,0,0,0,1
+127,EMD,2016,AM,7,Lora Dalbo,1,1,4,4,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,1,1,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,1,2,1,0,0,0,1
+127,EMD,2016,AM,8,Lora Dalbo,1,2,1,3,2,0,0,1,2
+127,EMD,2016,AM,8,Lora Dalbo,1,2,1,4,2,0,0,0,2
+127,EMD,2016,AM,8,Lora Dalbo,1,2,2,1,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,2,2,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,2,3,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,2,4,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,3,1,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,3,2,1,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,3,3,1,0,0,0,1
+127,EMD,2016,AM,8,Lora Dalbo,1,2,3,4,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,4,1,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,4,2,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,4,3,0,0,0,0,0
+127,EMD,2016,AM,8,Lora Dalbo,1,2,4,4,1,0,0,1,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,1,1,1,0,0,1,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,1,2,0,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,1,3,0,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,1,4,1,0,0,1,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,2,1,1,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,2,2,1,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,2,3,1,0,0,0,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,2,4,0,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,3,1,1,0,0,0,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,3,2,4,0,0,1,4
+127,EMD,2016,PM,4,Lora Dalbo,1,1,3,3,0,0,0,0,0
+127,EMD,2016,PM,4,Lora Dalbo,1,1,3,4,6,5,0,1,6
+127,EMD,2016,PM,4,Lora Dalbo,1,1,4,1,4,0,1,1,4
+127,EMD,2016,PM,4,Lora Dalbo,1,1,4,2,1,0,0,1,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,4,3,1,0,0,1,1
+127,EMD,2016,PM,4,Lora Dalbo,1,1,4,4,3,0,0,2,3
+127,EMD,2016,PM,5,Lora Dalbo,1,2,1,1,1,0,0,1,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,1,2,1,0,0,1,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,1,3,1,0,0,1,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,1,4,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,2,1,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,2,2,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,2,3,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,2,4,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,3,1,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,3,2,2,1,1,0,2
+127,EMD,2016,PM,5,Lora Dalbo,1,2,3,3,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,3,4,1,0,0,0,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,4,1,1,0,0,1,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,4,2,0,0,0,0,0
+127,EMD,2016,PM,5,Lora Dalbo,1,2,4,3,1,0,0,0,1
+127,EMD,2016,PM,5,Lora Dalbo,1,2,4,4,1,0,0,0,1
+128,AdMD,2016,AM,7,Kathy Runck,1,1,1,1,5,0,3,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,1,2,2,0,0,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,1,3,4,1,1,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,1,4,2,1,2,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,2,1,3,3,2,1,1
+128,AdMD,2016,AM,7,Kathy Runck,1,1,2,2,3,0,2,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,2,3,0,0,0,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,2,4,2,1,2,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,3,1,3,2,2,0,1
+128,AdMD,2016,AM,7,Kathy Runck,1,1,3,2,1,0,1,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,3,3,0,0,0,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,3,4,0,0,0,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,4,1,2,0,1,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,4,2,3,2,2,1,2
+128,AdMD,2016,AM,7,Kathy Runck,1,1,4,3,1,1,0,0,0
+128,AdMD,2016,AM,7,Kathy Runck,1,1,4,4,3,2,1,1,1
+128,AdMD,2016,AM,8,Kathy Runck,1,2,1,1,3,0,2,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,1,2,1,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,1,3,2,0,1,0,1
+128,AdMD,2016,AM,8,Kathy Runck,1,2,1,4,1,0,1,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,2,1,3,0,2,0,1
+128,AdMD,2016,AM,8,Kathy Runck,1,2,2,2,1,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,2,3,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,2,4,2,0,1,1,1
+128,AdMD,2016,AM,8,Kathy Runck,1,2,3,1,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,3,2,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,3,3,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,3,4,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,4,1,1,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,4,2,1,1,0,0,1
+128,AdMD,2016,AM,8,Kathy Runck,1,2,4,3,0,0,0,0,0
+128,AdMD,2016,AM,8,Kathy Runck,1,2,4,4,4,1,2,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,1,1,1,0,0,1,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,1,2,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,1,3,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,1,4,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,2,1,2,1,0,1,1
+128,AdMD,2016,PM,4,Angie Fretz,1,1,2,2,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,2,3,2,1,2,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,2,4,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,3,1,3,1,0,1,1
+128,AdMD,2016,PM,4,Angie Fretz,1,1,3,2,7,2,3,1,1
+128,AdMD,2016,PM,4,Angie Fretz,1,1,3,3,4,2,1,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,3,4,0,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,4,1,1,0,0,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,4,2,1,0,1,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,4,3,2,0,2,0,0
+128,AdMD,2016,PM,4,Angie Fretz,1,1,4,4,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,1,1,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,1,2,3,0,2,0,1
+128,AdMD,2016,PM,5,Angie Fretz,1,2,1,3,2,2,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,1,4,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,2,1,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,2,2,6,0,1,0,2
+128,AdMD,2016,PM,5,Angie Fretz,1,2,2,3,2,0,2,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,2,4,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,3,1,4,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,3,2,5,0,1,0,1
+128,AdMD,2016,PM,5,Angie Fretz,1,2,3,3,2,0,0,1,1
+128,AdMD,2016,PM,5,Angie Fretz,1,2,3,4,0,0,0,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,4,1,1,0,1,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,4,2,2,1,1,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,4,3,3,2,2,0,0
+128,AdMD,2016,PM,5,Angie Fretz,1,2,4,4,0,0,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,1,1,1,1,0,0,1
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,1,2,0,0,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,1,3,3,0,0,0,3
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,1,4,3,1,2,2,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,2,1,3,1,1,0,3
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,2,2,0,0,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,2,3,3,1,3,0,3
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,2,4,3,0,0,0,3
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,3,1,4,0,0,0,4
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,3,2,0,0,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,3,3,3,0,0,0,2
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,3,4,1,0,0,0,1
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,4,1,1,0,0,1,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,4,2,2,1,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,4,3,0,0,0,0,0
+155,UMD,2016,AM,7,Mariangela Does La Silva,1,1,4,4,2,1,0,1,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,1,1,1,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,1,2,0,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,1,3,3,0,1,1,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,1,4,2,1,2,5,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,2,1,0,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,2,2,0,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,2,3,4,1,1,1,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,2,4,7,0,2,5,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,3,1,3,1,0,0,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,3,2,0,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,3,3,1,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,3,4,7,1,0,2,1
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,4,1,2,1,1,1,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,4,2,0,0,0,0,0
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,4,3,2,0,1,0,2
+155,UMD,2016,AM,8,Mariangela Does La Silva,1,2,4,4,6,2,0,5,6
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,1,1,1,1,0,0,1
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,1,2,0,0,0,0,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,1,3,3,0,0,0,3
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,1,4,3,1,2,2,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,2,1,3,1,1,0,3
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,2,2,0,0,0,0,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,2,3,3,1,3,0,4
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,2,4,3,0,0,0,3
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,3,1,4,0,0,0,4
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,3,2,0,0,0,0,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,3,3,3,0,0,0,2
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,3,4,1,0,0,0,1
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,4,1,1,0,0,1,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,4,2,2,1,0,0,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,4,3,0,0,0,0,0
+155,UMD,2016,PM,4,Mariangela Does La Silva,1,1,4,4,2,1,0,1,2
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,1,1,1,0,0,1,1
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,1,2,0,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,1,3,3,0,0,0,3
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,1,4,2,1,0,1,1
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,2,1,0,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,2,2,0,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,2,3,4,1,1,1,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,2,4,7,0,2,5,2
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,3,1,3,1,0,0,2
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,3,2,0,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,3,3,1,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,3,4,7,1,0,2,1
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,4,1,2,1,1,1,2
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,4,2,0,0,0,0,0
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,4,3,2,0,1,0,2
+155,UMD,2016,PM,5,Mariangela Does La Silva,1,2,4,4,6,2,0,5,6
+159,BMD,2016,AM,7,Allen Bergen,1,1,1,1,5,0,3,0,0
+159,BMD,2016,AM,7,Allen Bergen,1,1,1,2,2,0,2,0,0
+159,BMD,2016,AM,7,Allen Bergen,1,1,1,3,3,1,0,1,3
+159,BMD,2016,AM,7,Allen Bergen,1,1,1,4,8,1,1,2,7
+159,BMD,2016,AM,7,Allen Bergen,1,1,2,1,4,3,1,2,3
+159,BMD,2016,AM,7,Allen Bergen,1,1,2,2,0,0,0,0,0
+159,BMD,2016,AM,7,Allen Bergen,1,1,2,3,3,1,0,1,3
+159,BMD,2016,AM,7,Allen Bergen,1,1,2,4,1,0,0,1,1
+159,BMD,2016,AM,7,Allen Bergen,1,1,3,1,4,1,1,0,2
+159,BMD,2016,AM,7,Allen Bergen,1,1,3,2,3,1,1,2,2
+159,BMD,2016,AM,7,Allen Bergen,1,1,3,3,1,0,0,0,1
+159,BMD,2016,AM,7,Allen Bergen,1,1,3,4,2,0,1,0,2
+159,BMD,2016,AM,7,Allen Bergen,1,1,4,1,1,1,0,0,0
+159,BMD,2016,AM,7,Allen Bergen,1,1,4,2,1,1,0,0,1
+159,BMD,2016,AM,7,Allen Bergen,1,1,4,3,2,2,2,0,1
+159,BMD,2016,AM,7,Allen Bergen,1,1,4,4,1,0,0,0,1
+159,BMD,2016,AM,8,Allen Bergen,1,2,1,1,0,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,1,2,1,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,1,3,1,0,0,0,1
+159,BMD,2016,AM,8,Allen Bergen,1,2,1,4,1,0,0,0,1
+159,BMD,2016,AM,8,Allen Bergen,1,2,2,1,4,0,3,1,2
+159,BMD,2016,AM,8,Allen Bergen,1,2,2,2,1,1,0,0,1
+159,BMD,2016,AM,8,Allen Bergen,1,2,2,3,2,2,0,1,2
+159,BMD,2016,AM,8,Allen Bergen,1,2,2,4,3,0,0,1,3
+159,BMD,2016,AM,8,Allen Bergen,1,2,3,1,2,0,1,1,1
+159,BMD,2016,AM,8,Allen Bergen,1,2,3,2,0,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,3,3,0,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,3,4,3,0,0,1,3
+159,BMD,2016,AM,8,Allen Bergen,1,2,4,1,2,0,0,0,2
+159,BMD,2016,AM,8,Allen Bergen,1,2,4,2,0,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,4,3,0,0,0,0,0
+159,BMD,2016,AM,8,Allen Bergen,1,2,4,4,2,1,1,0,1
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,1,1,2,0,1,0,1
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,1,2,4,0,2,3,3
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,1,3,3,0,0,1,1
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,1,4,1,0,0,0,1
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,2,1,8,2,2,2,6
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,2,2,0,0,0,0,0
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,2,3,3,0,0,1,3
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,2,4,2,0,0,0,2
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,3,1,2,0,0,0,2
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,3,2,3,0,2,0,0
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,3,3,0,0,0,0,0
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,3,4,4,0,3,0,4
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,4,1,2,0,2,0,2
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,4,2,5,0,3,0,2
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,4,3,2,0,0,0,2
+159,BMD,2016,PM,5,Muhammed Suleman,1,2,4,4,0,0,0,0,0
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,1,1,5,1,2,2,3
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,1,2,1,0,0,1,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,1,3,2,1,0,1,2
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,1,4,2,0,1,0,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,2,1,7,3,1,2,3
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,2,2,1,1,1,0,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,2,3,3,1,2,1,2
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,2,4,2,0,0,0,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,3,1,2,0,1,0,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,3,2,5,1,1,2,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,3,3,3,0,2,0,2
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,3,4,3,0,0,0,2
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,4,1,4,0,1,0,1
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,4,2,1,0,0,0,0
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,4,3,3,1,0,2,2
+159,BMD,2016,PM,6,Muhammed Suleman,1,1,4,4,2,0,1,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,1,1,4,0,2,1,2
+164,SMD,2016,AM,7,Shirley Phan,1,1,1,2,1,0,1,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,1,3,3,0,1,1,3
+164,SMD,2016,AM,7,Shirley Phan,1,1,1,4,2,0,0,1,2
+164,SMD,2016,AM,7,Shirley Phan,1,1,2,1,3,0,1,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,2,2,2,1,0,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,2,3,3,1,0,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,2,4,0,0,0,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,3,1,2,1,1,0,1
+164,SMD,2016,AM,7,Shirley Phan,1,1,3,2,0,0,0,0,0
+164,SMD,2016,AM,7,Shirley Phan,1,1,3,3,3,2,0,1,1
+164,SMD,2016,AM,7,Shirley Phan,1,1,3,4,1,0,0,0,1
+164,SMD,2016,AM,7,Shirley Phan,1,1,4,1,3,1,0,2,2
+164,SMD,2016,AM,7,Shirley Phan,1,1,4,2,1,0,0,0,1
+164,SMD,2016,AM,7,Shirley Phan,1,1,4,3,2,2,0,1,1
+164,SMD,2016,AM,7,Shirley Phan,1,1,4,4,3,2,0,1,2
+164,SMD,2016,AM,8,Shirley Phan,1,2,1,1,0,0,0,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,1,2,1,0,0,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,1,3,0,0,0,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,1,4,0,0,0,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,2,1,1,0,1,0,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,2,2,2,0,0,0,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,2,3,2,0,0,1,2
+164,SMD,2016,AM,8,Shirley Phan,1,2,2,4,1,1,0,1,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,3,1,2,0,1,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,3,2,4,0,2,1,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,3,3,2,0,2,0,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,3,4,1,0,0,0,0
+164,SMD,2016,AM,8,Shirley Phan,1,2,4,1,2,0,1,2,2
+164,SMD,2016,AM,8,Shirley Phan,1,2,4,2,4,1,0,0,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,4,3,2,1,0,1,1
+164,SMD,2016,AM,8,Shirley Phan,1,2,4,4,4,2,0,2,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,1,1,3,0,2,0,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,1,2,1,0,0,1,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,1,3,1,0,0,1,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,1,4,1,0,0,0,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,2,1,3,0,0,1,3
+164,SMD,2016,PM,4,Jeff Caslake,1,1,2,2,0,0,0,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,2,3,3,0,0,0,3
+164,SMD,2016,PM,4,Jeff Caslake,1,1,2,4,0,0,0,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,3,1,0,0,0,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,3,2,3,1,3,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,3,3,0,0,0,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,3,4,3,0,1,1,2
+164,SMD,2016,PM,4,Jeff Caslake,1,1,4,1,1,0,0,1,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,4,2,2,0,1,0,1
+164,SMD,2016,PM,4,Jeff Caslake,1,1,4,3,0,0,0,0,0
+164,SMD,2016,PM,4,Jeff Caslake,1,1,4,4,4,3,1,0,4
+164,SMD,2016,PM,5,Jeff Caslake,1,2,1,1,1,0,1,0,0
+164,SMD,2016,PM,5,Jeff Caslake,1,2,1,2,2,0,1,0,1
+164,SMD,2016,PM,5,Jeff Caslake,1,2,1,3,4,1,2,1,2
+164,SMD,2016,PM,5,Jeff Caslake,1,2,1,4,2,2,1,0,2
+164,SMD,2016,PM,5,Jeff Caslake,1,2,2,1,2,0,0,0,0
+164,SMD,2016,PM,5,Jeff Caslake,1,2,2,2,6,1,2,0,4
+164,SMD,2016,PM,5,Jeff Caslake,1,2,2,3,3,1,1,0,3
+164,SMD,2016,PM,5,Jeff Caslake,1,2,2,4,0,0,0,0,0
+164,SMD,2016,PM,5,Jeff Caslake,1,2,3,1,5,0,0,0,4
+164,SMD,2016,PM,5,Jeff Caslake,1,2,3,2,3,1,1,0,1
+164,SMD,2016,PM,5,Jeff Caslake,1,2,3,3,3,0,1,2,3
+164,SMD,2016,PM,5,Jeff Caslake,1,2,3,4,1,0,0,0,1
+164,SMD,2016,PM,5,Jeff Caslake,1,2,4,1,1,0,1,0,0
+164,SMD,2016,PM,5,Jeff Caslake,1,2,4,2,2,0,1,0,0
+164,SMD,2016,PM,5,Jeff Caslake,1,2,4,3,4,1,0,3,4
+164,SMD,2016,PM,5,Jeff Caslake,1,2,4,4,4,1,1,0,4
+173,ApMD,2016,PM,4,ALRPA,1,1,1,1,3,1,0,1,1
+173,ApMD,2016,PM,4,ALRPA,1,1,1,2,3,0,0,0,3
+173,ApMD,2016,PM,4,ALRPA,1,1,1,3,4,0,0,0,1
+173,ApMD,2016,PM,4,ALRPA,1,1,1,4,7,1,1,3,4
+173,ApMD,2016,PM,4,ALRPA,1,1,2,1,3,1,0,2,3
+173,ApMD,2016,PM,4,ALRPA,1,1,2,2,2,0,0,0,2
+173,ApMD,2016,PM,4,ALRPA,1,1,2,3,5,1,1,0,2
+173,ApMD,2016,PM,4,ALRPA,1,1,2,4,8,1,2,6,5
+173,ApMD,2016,PM,4,ALRPA,1,1,3,1,7,2,0,1,7
+173,ApMD,2016,PM,4,ALRPA,1,1,3,2,4,1,1,0,4
+173,ApMD,2016,PM,4,ALRPA,1,1,3,3,2,0,0,1,2
+173,ApMD,2016,PM,4,ALRPA,1,1,3,4,14,4,2,4,8
+173,ApMD,2016,PM,4,ALRPA,1,1,4,1,7,3,2,2,4
+173,ApMD,2016,PM,4,ALRPA,1,1,4,2,2,0,1,1,1
+173,ApMD,2016,PM,4,ALRPA,1,1,4,3,5,2,0,3,5
+173,ApMD,2016,PM,4,ALRPA,1,1,4,4,7,0,1,3,2
+173,ApMD,2016,PM,5,ALRPA,1,2,1,1,3,0,0,1,3
+173,ApMD,2016,PM,5,ALRPA,1,2,1,2,5,1,1,1,4
+173,ApMD,2016,PM,5,ALRPA,1,2,1,3,6,1,1,2,5
+173,ApMD,2016,PM,5,ALRPA,1,2,1,4,8,2,3,0,1
+173,ApMD,2016,PM,5,ALRPA,1,2,2,1,3,0,1,0,2
+173,ApMD,2016,PM,5,ALRPA,1,2,2,2,6,0,0,3,4
+173,ApMD,2016,PM,5,ALRPA,1,2,2,3,2,1,0,0,2
+173,ApMD,2016,PM,5,ALRPA,1,2,2,4,5,2,1,0,2
+173,ApMD,2016,PM,5,ALRPA,1,2,3,1,5,0,2,0,1
+173,ApMD,2016,PM,5,ALRPA,1,2,3,2,2,1,0,0,1
+173,ApMD,2016,PM,5,ALRPA,1,2,3,3,7,1,0,3,3
+173,ApMD,2016,PM,5,ALRPA,1,2,3,4,5,1,2,3,3
+173,ApMD,2016,PM,5,ALRPA,1,2,4,1,4,0,2,2,3
+173,ApMD,2016,PM,5,ALRPA,1,2,4,2,2,0,0,0,1
+173,ApMD,2016,PM,5,ALRPA,1,2,4,3,2,1,0,1,1
+173,ApMD,2016,PM,5,ALRPA,1,2,4,4,2,1,0,2,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,1,1,2,1,0,0,0
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,1,2,3,0,0,0,1
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,1,3,4,0,0,0,1
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,1,4,7,1,0,1,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,2,1,3,1,1,1,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,2,2,3,1,0,0,1
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,2,3,2,0,0,0,1
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,2,4,3,0,0,1,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,3,1,4,1,0,1,1
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,3,2,6,2,0,0,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,3,3,11,3,2,2,0
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,3,4,4,0,0,3,2
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,4,1,0,0,0,0,0
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,4,2,6,1,2,1,4
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,4,3,7,0,1,0,0
+173,ApMD,2016,PM,4,Jiayi Peng,1,1,4,4,2,1,0,2,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,1,1,3,0,1,0,2
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,1,2,1,1,0,0,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,1,3,11,2,4,1,1
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,1,4,7,2,1,1,1
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,2,1,6,0,0,0,3
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,2,2,6,1,1,2,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,2,3,6,2,2,0,1
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,2,4,3,2,0,1,1
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,3,1,3,2,0,1,3
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,3,2,4,0,2,1,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,3,3,7,0,1,3,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,3,4,5,1,0,2,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,4,1,2,0,0,1,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,4,2,3,1,0,0,1
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,4,3,2,1,0,0,0
+173,ApMD,2016,PM,5,Jiayi Peng,1,2,4,4,3,2,0,1,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,1,1,3,0,3,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,1,2,1,0,1,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,1,3,1,1,0,0,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,1,4,0,0,0,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,2,1,3,0,1,0,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,2,2,1,0,0,1,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,2,3,0,0,0,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,2,4,3,0,1,2,2
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,3,1,1,0,1,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,3,2,1,0,1,0,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,3,3,0,0,0,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,3,4,0,0,0,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,4,1,0,0,0,0,0
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,4,2,1,0,0,0,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,4,3,1,0,0,0,1
+174,BaMD,2016,AM,7,Mark Eastwood,1,1,4,4,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,1,1,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,1,2,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,1,3,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,1,4,1,0,0,0,1
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,2,1,1,0,1,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,2,2,2,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,2,3,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,2,4,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,3,1,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,3,2,1,0,0,0,1
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,3,3,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,3,4,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,4,1,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,4,2,1,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,4,3,0,0,0,0,0
+174,BaMD,2016,AM,8,Mark Eastwood,1,2,4,4,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,1,1,2,0,0,1,2
+174,BaMD,2016,PM,4,Zina Alam,1,1,1,2,2,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,1,3,1,0,0,0,1
+174,BaMD,2016,PM,4,Zina Alam,1,1,1,4,2,0,0,1,2
+174,BaMD,2016,PM,4,Zina Alam,1,1,2,1,1,0,0,0,1
+174,BaMD,2016,PM,4,Zina Alam,1,1,2,2,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,2,3,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,2,4,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,3,1,1,0,0,0,1
+174,BaMD,2016,PM,4,Zina Alam,1,1,3,2,2,0,0,0,1
+174,BaMD,2016,PM,4,Zina Alam,1,1,3,3,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,3,4,1,0,0,1,1
+174,BaMD,2016,PM,4,Zina Alam,1,1,4,1,2,0,0,0,2
+174,BaMD,2016,PM,4,Zina Alam,1,1,4,2,0,0,0,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,4,3,1,0,1,0,0
+174,BaMD,2016,PM,4,Zina Alam,1,1,4,4,3,0,0,0,3
+174,BaMD,2016,PM,5,Zina Alam,1,2,1,1,2,0,0,1,2
+174,BaMD,2016,PM,5,Zina Alam,1,2,1,2,2,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,1,3,1,0,0,0,1
+174,BaMD,2016,PM,5,Zina Alam,1,2,1,4,2,0,0,1,2
+174,BaMD,2016,PM,5,Zina Alam,1,2,2,1,1,0,0,0,1
+174,BaMD,2016,PM,5,Zina Alam,1,2,2,2,0,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,2,3,0,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,2,4,0,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,3,1,1,0,0,0,1
+174,BaMD,2016,PM,5,Zina Alam,1,2,3,2,2,0,0,0,1
+174,BaMD,2016,PM,5,Zina Alam,1,2,3,3,0,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,3,4,1,0,0,1,1
+174,BaMD,2016,PM,5,Zina Alam,1,2,4,1,2,0,0,0,2
+174,BaMD,2016,PM,5,Zina Alam,1,2,4,2,0,0,0,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,4,3,1,0,1,0,0
+174,BaMD,2016,PM,5,Zina Alam,1,2,4,4,3,0,0,0,3
+175,GMD,2016,AM,7,Travis Goodson,1,1,1,1,2,1,1,1,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,1,2,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,1,3,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,1,4,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,2,1,2,1,1,1,2
+175,GMD,2016,AM,7,Travis Goodson,1,1,2,2,1,0,0,0,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,2,3,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,2,4,2,0,2,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,3,1,1,0,0,1,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,3,2,1,1,0,0,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,3,3,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,3,4,2,0,1,0,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,4,1,1,1,0,0,1
+175,GMD,2016,AM,7,Travis Goodson,1,1,4,2,1,0,1,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,4,3,0,0,0,0,0
+175,GMD,2016,AM,7,Travis Goodson,1,1,4,4,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,1,1,1,0,1,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,1,2,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,1,3,1,0,0,1,1
+175,GMD,2016,AM,8,Travis Goodson,1,2,1,4,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,2,1,1,0,0,0,1
+175,GMD,2016,AM,8,Travis Goodson,1,2,2,2,4,0,1,2,3
+175,GMD,2016,AM,8,Travis Goodson,1,2,2,3,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,2,4,1,0,1,1,1
+175,GMD,2016,AM,8,Travis Goodson,1,2,3,1,1,0,0,0,1
+175,GMD,2016,AM,8,Travis Goodson,1,2,3,2,1,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,3,3,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,3,4,1,0,0,0,1
+175,GMD,2016,AM,8,Travis Goodson,1,2,4,1,0,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,4,2,1,0,0,0,0
+175,GMD,2016,AM,8,Travis Goodson,1,2,4,3,2,1,0,1,2
+175,GMD,2016,AM,8,Travis Goodson,1,2,4,4,1,0,0,0,1
+176,WaMD,2016,AM,7,Zina Alam,1,1,1,1,4,1,1,2,4
+176,WaMD,2016,AM,7,Zina Alam,1,1,1,2,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,1,3,1,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,1,4,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,2,1,4,2,4,0,3
+176,WaMD,2016,AM,7,Zina Alam,1,1,2,2,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,2,3,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,2,4,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,3,1,2,2,2,0,2
+176,WaMD,2016,AM,7,Zina Alam,1,1,3,2,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,3,3,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,3,4,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,4,1,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,4,2,1,0,1,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,4,3,0,0,0,0,0
+176,WaMD,2016,AM,7,Zina Alam,1,1,4,4,1,0,1,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,1,1,1,0,0,0,1
+176,WaMD,2016,AM,8,Zina Alam,1,2,1,2,1,1,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,1,3,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,1,4,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,2,1,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,2,2,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,2,3,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,2,4,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,3,1,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,3,2,1,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,3,3,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,3,4,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,4,1,1,0,1,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,4,2,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,4,3,0,0,0,0,0
+176,WaMD,2016,AM,8,Zina Alam,1,2,4,4,2,0,2,0,1
+176,WaMD,2016,PM,4,Zina Alam,1,1,1,1,1,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,1,2,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,1,3,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,1,4,1,1,0,0,1
+176,WaMD,2016,PM,4,Zina Alam,1,1,2,1,2,0,0,0,1
+176,WaMD,2016,PM,4,Zina Alam,1,1,2,2,2,0,0,1,1
+176,WaMD,2016,PM,4,Zina Alam,1,1,2,3,2,0,0,0,1
+176,WaMD,2016,PM,4,Zina Alam,1,1,2,4,1,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,3,1,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,3,2,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,3,3,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,3,4,0,0,0,0,0
+176,WaMD,2016,PM,4,Zina Alam,1,1,4,1,3,0,2,2,3
+176,WaMD,2016,PM,4,Zina Alam,1,1,4,2,2,0,0,0,2
+176,WaMD,2016,PM,4,Zina Alam,1,1,4,3,3,0,1,0,2
+176,WaMD,2016,PM,4,Zina Alam,1,1,4,4,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,1,1,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,1,2,1,0,0,1,1
+176,WaMD,2016,PM,5,Zina Alam,1,2,1,3,1,0,1,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,1,4,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,2,1,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,2,2,4,2,0,4,4
+176,WaMD,2016,PM,5,Zina Alam,1,2,2,3,3,0,0,3,3
+176,WaMD,2016,PM,5,Zina Alam,1,2,2,4,1,0,0,1,1
+176,WaMD,2016,PM,5,Zina Alam,1,2,3,1,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,3,2,1,1,0,1,1
+176,WaMD,2016,PM,5,Zina Alam,1,2,3,3,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,3,4,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,4,1,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,4,2,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,4,3,0,0,0,0,0
+176,WaMD,2016,PM,5,Zina Alam,1,2,4,4,1,0,1,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,1,1,1,1,0,0,1
+177,LVLMD,2016,AM,7,Zina Alam,1,1,1,2,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,1,3,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,1,4,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,2,1,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,2,2,1,0,0,0,1
+177,LVLMD,2016,AM,7,Zina Alam,1,1,2,3,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,2,4,1,1,1,0,1
+177,LVLMD,2016,AM,7,Zina Alam,1,1,3,1,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,3,2,3,2,2,0,1
+177,LVLMD,2016,AM,7,Zina Alam,1,1,3,3,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,3,4,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,4,1,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,4,2,3,0,2,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,4,3,0,0,0,0,0
+177,LVLMD,2016,AM,7,Zina Alam,1,1,4,4,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,1,1,1,1,0,1,1
+177,LVLMD,2016,AM,8,Zina Alam,1,2,1,2,1,0,1,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,1,3,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,1,4,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,2,1,1,0,0,0,1
+177,LVLMD,2016,AM,8,Zina Alam,1,2,2,2,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,2,3,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,2,4,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,3,1,1,1,1,0,1
+177,LVLMD,2016,AM,8,Zina Alam,1,2,3,2,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,3,3,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,3,4,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,4,1,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,4,2,1,1,0,1,1
+177,LVLMD,2016,AM,8,Zina Alam,1,2,4,3,0,0,0,0,0
+177,LVLMD,2016,AM,8,Zina Alam,1,2,4,4,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,1,1,1,0,0,1,1
+177,LVLMD,2016,PM,4,Zina Alam,1,1,1,2,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,1,3,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,1,4,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,2,1,1,0,0,0,1
+177,LVLMD,2016,PM,4,Zina Alam,1,1,2,2,1,0,0,0,1
+177,LVLMD,2016,PM,4,Zina Alam,1,1,2,3,2,0,0,1,1
+177,LVLMD,2016,PM,4,Zina Alam,1,1,2,4,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,3,1,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,3,2,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,3,3,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,3,4,1,0,1,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,4,1,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,4,2,1,1,0,0,1
+177,LVLMD,2016,PM,4,Zina Alam,1,1,4,3,0,0,0,0,0
+177,LVLMD,2016,PM,4,Zina Alam,1,1,4,4,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,1,1,3,1,0,0,3
+177,LVLMD,2016,PM,5,Zina Alam,1,2,1,2,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,1,3,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,1,4,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,2,1,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,2,2,1,0,0,1,1
+177,LVLMD,2016,PM,5,Zina Alam,1,2,2,3,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,2,4,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,3,1,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,3,2,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,3,3,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,3,4,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,4,1,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,4,2,3,1,1,2,2
+177,LVLMD,2016,PM,5,Zina Alam,1,2,4,3,0,0,0,0,0
+177,LVLMD,2016,PM,5,Zina Alam,1,2,4,4,0,0,0,0,0

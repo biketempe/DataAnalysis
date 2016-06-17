@@ -1,0 +1,12 @@
+Query and output from the copy of data in the Postgres database (loaded from the CazBike copy of the "CrashMart" data).  This is superceded by the code in the above directory.
+
+crash_rate.csv -- summary data containing number of associated (near by) crashes, the location_id
+matching the location_id in count_sites.csv, and the average (across all years) of the total number of
+bicycles counted during both shifts (4 hours total, 2 hours AM and 2 hours PM) for each year it was
+counted.
+
+crash_rate.csv -- summary data containing number of associated (near by) crashes, the location_id
+matching the location_id in count_sites.csv, and the average (across all years) of the total number of
+bicycles counted during both shifts (4 hours total, 2 hours AM and 2 hours PM) for each year it was
+counted.
+

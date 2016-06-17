@@ -14,6 +14,9 @@ The `raw-count-data` directory contains the actual raw bike count data.
 The `crash-plot` directory contains summary crash data from ADOT's "Crash Mart" CD
 and code to prepare the crash plot published in the published Bike Count report.
 
+See the `README.md` in `raw_count_data` for a description of the `count_sites.csv` file,
+as well as the raw count data.
+
 ## License
 
 This data, code, and text is licensed under a creative commons Attribute-ShareAlike license.
