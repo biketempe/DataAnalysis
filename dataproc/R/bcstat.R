@@ -4,9 +4,13 @@
 require(graphics)
 library(stringr) # interface to common string operations
 setwd("C:/DataAnalysis/dataproc/R")
-rawfile <- "BCdata2014.csv"
-locfile <- "LocID2014.csv"
-divbyfile <- "DivBy2014.csv"
+year <- "2014"
+rawfile <- paste0("BCdata",year,".csv") #e.g., "BCdata2014.csv"
+locfile <- paste0("LocID",year,".csv") #e.g., "LocID2014.csv"
+divbyfile <- paste0("DivBy",year,".csv") #e.g., "DivBy2014.csv"
+#CHECK IF FILE EXISTS
+stopifnot(file.exists(rawfile) & file.exists(locfile) & file.exists(divbyfile))
+#
 rawdata <- read.csv(rawfile)
 #rawdata fields: LocID	Time	Recorder  Page	Segment	Direction	Count	Gender 	Helmet	Wrongway	Sidewalk Seg SegSeq
 #locdata has a row for every location ever counted, but not all locations are counted every year.
@@ -18,29 +22,76 @@ divby <- read.csv(divbyfile)
 #divby fields: LocID	Time	Invalid	DivBy
 
 #Stats
-nCount <- sum(rawdata$Count)
+nCountRaw <- sum(rawdata$Count)
 nLoc <- length(unique(rawdata$LocID))
 
-#This doesn't work (gives a single column):
-#cordon<-data.frame(count=rawdata$Count,crdn=locdata[match(rawdata$LocID,locid$Cordon),0])
 #Merge rawdata with locdata; coerces cordon, traffic, collisions, etc. into rawdata sequence
-bkdata<-merge(rawdata,locdata,by.x="LocID",by.y="LocID")
-#gives error:
-#cordonAM<-aggregate(mrg,by=list(Count,Cordon),FUN=sum,na.rm=TRUE)
-#cordonAM<-colSums(mrg[,sum(Count,na.rm=TRUE),by=Cordon])
+bkdata<-merge(rawdata,locdata,by="LocID")
+#divby is the vector of duplicate divide-by numbers
+bkdata<-merge(bkdata,divby,by=c("LocID","Time"))
+
+#correct for duplicates NEEDS WORK - DOES NOT WORK AS INTENDED
+bkdata<-transform(bkdata,
+  tCount=prod(Count,DivBy), 
+  tGender=prod(Gender,DivBy),
+  tHelmet=prod(Helmet,DivBy),
+  tWrongway=prod(Wrongway,DivBy),
+  tSidewalk=prod(Sidewalk,DivBy)
+)
+
+#Corrected total count, used for fractional attribute calc
+nCount <- sum(rawdata$tCount)
+#fractional attributes, corrected for duplicates
+GenderF <- sum(rawdata$tGender)/nCount
+HelmetF <- sum(rawdata$tHelmet)/nCount
+WrongwayF <- sum(rawdata$tWrongway)/nCount
+SidewalkF <- sum(rawdata$tSidewalk)/nCount
+
+#count tally by location, divided by nTime to get "per hour"
+#attribute tallies by location
+LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #sum is meaningless
+#this gives a data frame with column names Group.1, Group.2
+colnames(LocCounted)<-c("LocID","Time") #reassign column names
+LocCounted$AM <- LocCounted$Time == "AM"
+LocCounted$PM <- LocCounted$Time == "PM"
+#LocID contains 2 concatenated lists of unique LocID's in bkdata (not likely a complete list of all LocID's ever)
+#Time is AM for the first set of LocID's, and PM for the 2nd set.
+#the number of members in the AM set is not necessarily the same as that in the PM set
 #
+###NEEDS WORK - need to split LocCounted into two separate data frames: LocCountAM, LocCountPM
+if(FALSE)
+{
+locdata<-merge(locdata,LocCountAM,by=c("LocID","Time"))
+locdata<-merge(locdata,LocCountPM,by=c("LocID","Time"))
+locdata[,year] <- locdata$AM & locdata$PM 
+}
+#identify which Loc & time are counted
+###NEEDS WORK:
+if(FALSE)
+{
+#add nTime column to locdata: 1 if Time=AM or PM; 2 if AM & PM; else 0)
+locdata<-transform(locdata,nTime=switch(Time+1,0,1,2))
+
+#another way to get there:
+for(j in 1:LocAll) #for each location
+{
+  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == locvec[j])
+  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == locvec[j])
+  #  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == as.integer(substr(colnames(countAM[j]),2,4)))
+  #  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == as.integer(substr(colnames(countPM[j]),2,4)))
+  #
+}
+#NEED TO OUTPUT VALID
+}
+###
+
+
 #Logical indexing
 bTime <- bkdata$Time == "AM" #convert to boolean; "AM" = TRUE
 bCordon <- bkdata$Cordon == 1 #convert to boolean; 1 = TRUE
-#Cordon
+#Cordon; Column1: row1=False, row2=true; column2: "x" which is Count
 cordonAM <- with(bkdata,aggregate(bkdata$Count, by=list(bTime & bCordon), FUN=sum, na.rm=TRUE)[2,2])
 cordonPM <- with(bkdata,aggregate(bkdata$Count, by=list(!bTime & bCordon), FUN=sum, na.rm=TRUE)[2,2])
-
-### delete this:
-# timesum <- aggregate(bkdata$Count, by=list(Time), FUN=sum, na.rm=TRUE)
-# cordonAM <- timesum[timesum$Group.1=="AM","x"] #Group.1 is Time because it's 1st in the by list
-# cordonPM <- timesum[timesum$Group.1=="PM","x"] #x is assigned by default
-###
 
 #Calc number of recorders
 rectemp <- tolower(rawdata$Recorder)
@@ -65,80 +116,6 @@ nteam<-length(rteam) #need to get user input on real team count
 nRec <- length(Recorder) + nteam -ntypo
 # END OF RECORDER CODE
 ###
-
-#Set up data frame with tallies for each segment (not sure this needs to be done)
-LocAll <- nrow(locdata) # number of locations ever counted
-CountSeg <- data.frame(matrix(ncol = LocAll*2, nrow = 8)) # 1 row for each 15-minute segment
-GenderSeg <- data.frame(matrix(ncol = LocAll*2, nrow = 8)) 
-HelmetSeg <- data.frame(matrix(ncol = LocAll*2, nrow = 8)) 
-WrongwaySeg <- data.frame(matrix(ncol = LocAll*2, nrow = 8)) 
-SidewalkSeg <- data.frame(matrix(ncol = LocAll*2, nrow = 8)) 
-AMPM <- c("AM","PM")
-valid <- data.frame(matrix(ncol = LocAll, nrow = 2)) 
-# Seg 1:8 AM, 9:16 PM
-# SegSeq 1:8
-locvec <-locdata[,1]
-#Append "A" or "P" to LocID (numbers), e.g., 101A, 102A, etc. for data frame column names (can't use numbers)
-locnames <- c(paste(locvec,"A",sep=""),paste(locvec,"P",sep=""))
-colnames(CountSeg) <- locnames
-colnames(GenderSeg) <- locnames
-colnames(HelmetSeg) <- locnames
-colnames(WrongwaySeg) <- locnames
-colnames(SidewalkSeg) <- locnames
-# sum data for each segment and put in a data frame
-for(j in 1:LocAll) #for each location
-{
-#identify which Loc & time are counted
-  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == locvec[j])
-  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == locvec[j])
-#  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == as.integer(substr(colnames(countAM[j]),2,4)))
-#  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == as.integer(substr(colnames(countPM[j]),2,4)))
-#
-# THIS COULD BE MUCH SIMPLER IF DATA WAS COUNTED INSTEAD OF PUT INTO BIG DATA FRAMES AND THEN COUNTED.
-#
-for(t in 1:2) #AM, PM
-  {
-    for(i in 1:8) #for each segment
-    {
-      if(valid[t,j])
-      {
-        CountSeg[i,j+(t-1)*LocAll] <- 
-          sum(rawdata$Count[rawdata$SegSeq == i & rawdata$LocID == locvec[j] & rawdata$Time == AMPM[t]])/divby$DivBy[j+(t-1)*LocAll]
-        GenderSeg[i,j+(t-1)*LocAll] <- 
-          sum(rawdata$Gender[rawdata$SegSeq == i & rawdata$LocID == locvec[j] & rawdata$Time == AMPM[t]])/divby$DivBy[j+(t-1)*LocAll]
-        HelmetSeg[i,j+(t-1)*LocAll] <- 
-          sum(rawdata$Helmet[rawdata$SegSeq == i & rawdata$LocID == locvec[j] & rawdata$Time == AMPM[t]])/divby$DivBy[j+(t-1)*LocAll]
-        WrongwaySeg[i,j+(t-1)*LocAll] <- 
-          sum(rawdata$Wrongway[rawdata$SegSeq == i & rawdata$LocID == locvec[j] & rawdata$Time == AMPM[t]])/divby$DivBy[j+(t-1)*LocAll]
-        SidewalkSeg[i,j+(t-1)*LocAll] <- 
-          sum(rawdata$Sidewalk[rawdata$SegSeq == i & rawdata$LocID == locvec[j] & rawdata$Time == AMPM[t]])/divby$DivBy[j+(t-1)*LocAll]
-      }
-    }
-  }    
-}
-#combine AM & PM
-Count <- colSums(CountSeg)
-Gender <- colSums(GenderSeg)
-Helmet <- colSums(HelmetSeg)
-Wrongway <- colSums(WrongwaySeg)
-Sidewalk <- colSums(SidewalkSeg)
-
-GenderF <- Gender/Count
-HelmetF <- Helmet/Count
-WrongwayF <- Wrongway/Count
-SidewalkF <- Sidewalk/Count
-#
-for(i in 1:LocAll)
-{
-  CountT[i]<-Count[i]+Count[i+LocAll]
-}
-#display the data frames
-Count
-Gender
-Helmet
-Wrongway
-Sidewalk
-
 
 #Report Summary = Table 1
 repsumm <- data.frame(TotalCount,Locations,nRecorder) #NEEDS WORK: ,Wrongway,Sidewalk,Helmet,Female,CordonIn,CordOut
