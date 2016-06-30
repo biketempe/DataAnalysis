@@ -3,23 +3,31 @@
 #assumes data errors have been corrected
 require(graphics)
 library(stringr) # interface to common string operations
-setwd("C:/DataAnalysis/dataproc/R")
-year <- "2014"
-rawfile <- paste0("BCdata",year,".csv") #e.g., "BCdata2014.csv"
-locfile <- paste0("LocID",year,".csv") #e.g., "LocID2014.csv"
-divbyfile <- paste0("DivBy",year,".csv") #e.g., "DivBy2014.csv"
+#set the working directory before launching this code, e.g.:
+# setwd("C:/DataAnalysis/dataproc/R")
+dataPrefix <- "2014"
+rawfile <- paste0(dataPrefix, "_BCdata.csv") #e.g., "2014_BCdata.csv"
+locfile <- paste0(dataPrefix, "_LocID.csv") #e.g., "2014_LocID.csv"
+divbyfile <- paste0(dataPrefix, "_DivBy.csv") #e.g., "2014_DivBy.csv"
 #CHECK IF FILE EXISTS
-stopifnot(file.exists(rawfile) & file.exists(locfile) & file.exists(divbyfile))
+stopifnot(file.exists(rawfile) & file.exists(locfile))
 #
 rawdata <- read.csv(rawfile)
 #rawdata fields: LocID	Time	Recorder  Page	Segment	Direction	Count	Gender 	Helmet	Wrongway	Sidewalk Seg SegSeq
 #locdata has a row for every location ever counted, but not all locations are counted every year.
 locdata <- read.csv(locfile)
 #locdata fields: LocID	LocEW	LocNS	Cordon	NS_Lane	EW_Lane	DistToASU	Traffic	latitude	longitude	Crash_2009_2013
-#divby handles multiple recorders for the same location
-#needs work: can divby be a partial list? Then just apply if a LocID is present
-divby <- read.csv(divbyfile)
+#divby contains data on duplicate recorders for the same location
+#DivBy should be 
+# 1 for a single recorder
+# 1 for multiple recorders who split a count (no overlap)
+# n for n recorders taking complete data for the same location and time (same or different day)
+#divby can be a partial list; default value of DivBy is 1
+if(file.exists(file.exists(divbyfile))) {
 #divby fields: LocID	Time	Invalid	DivBy
+  divby <- read.csv(divbyfile)
+  bdivby = TRUE
+} else bdivby <- false
 
 #Stats
 nCountRaw <- sum(rawdata$Count)
@@ -28,16 +36,18 @@ nLoc <- length(unique(rawdata$LocID))
 #Merge rawdata with locdata; coerces cordon, traffic, collisions, etc. into rawdata sequence
 bkdata<-merge(rawdata,locdata,by="LocID")
 #divby is the vector of duplicate divide-by numbers
+# CAUTION: a partial divby list will eliminate rows not in divby
+#needs work: figure out a way to use a partial divby list.
+if (bdivby) {
 bkdata<-merge(bkdata,divby,by=c("LocID","Time"))
-
 #correct for duplicates NEEDS WORK - DOES NOT WORK AS INTENDED
 bkdata<-transform(bkdata,
-  tCount=prod(Count,DivBy), 
-  tGender=prod(Gender,DivBy),
-  tHelmet=prod(Helmet,DivBy),
-  tWrongway=prod(Wrongway,DivBy),
-  tSidewalk=prod(Sidewalk,DivBy)
-)
+                  tCount=prod(Count,DivBy), 
+                  tGender=prod(Gender,DivBy),
+                  tHelmet=prod(Helmet,DivBy),
+                  tWrongway=prod(Wrongway,DivBy),
+                  tSidewalk=prod(Sidewalk,DivBy))
+} else bkdata$DivBy <- 1 #divide by 1, i.e., assume there are no duplicates
 
 #Corrected total count, used for fractional attribute calc
 nCount <- sum(rawdata$tCount)
