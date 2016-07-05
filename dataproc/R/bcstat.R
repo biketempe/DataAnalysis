@@ -4,11 +4,14 @@
 require(graphics)
 library(stringr) # interface to common string operations
 #set the working directory before launching this code, e.g.:
-# setwd("C:/DataAnalysis/dataproc/R")
+#need to avoid setwd; not robust to different users
+setwd("C:/DataAnalysis/dataproc/R")
 dataPrefix <- "2014"
-rawfile <- paste0(dataPrefix, "_BCdata.csv") #e.g., "2014_BCdata.csv"
-locfile <- paste0(dataPrefix, "_LocID.csv") #e.g., "2014_LocID.csv"
-divbyfile <- paste0(dataPrefix, "_DivBy.csv") #e.g., "2014_DivBy.csv"
+inPath <- "DataIn/"
+outPath <- "DataOut/"
+rawfile <- paste0(inPath, dataPrefix, "_BCdata.csv", collapse="") #e.g., "2014_BCdata.csv"
+locfile <- paste0(inPath, dataPrefix, "_LocID.csv", collapse="") #e.g., "2014_LocID.csv"
+divbyfile <- paste0(inPath, dataPrefix, "_DivBy.csv", collapse="") #e.g., "2014_DivBy.csv"
 #CHECK IF FILE EXISTS
 stopifnot(file.exists(rawfile) & file.exists(locfile))
 #
@@ -23,7 +26,7 @@ locdata <- read.csv(locfile)
 # 1 for multiple recorders who split a count (no overlap)
 # n for n recorders taking complete data for the same location and time (same or different day)
 #divby can be a partial list; default value of DivBy is 1
-if(file.exists(file.exists(divbyfile))) {
+if(file.exists(divbyfile)) {
 #divby fields: LocID	Time	Invalid	DivBy
   divby <- read.csv(divbyfile)
   bdivby = TRUE
@@ -37,25 +40,48 @@ nLoc <- length(unique(rawdata$LocID))
 bkdata<-merge(rawdata,locdata,by="LocID")
 #divby is the vector of duplicate divide-by numbers
 # CAUTION: a partial divby list will eliminate rows not in divby
-#needs work: figure out a way to use a partial divby list.
+#needs work: allow a partial divby list
 if (bdivby) {
-bkdata<-merge(bkdata,divby,by=c("LocID","Time"))
-#correct for duplicates NEEDS WORK - DOES NOT WORK AS INTENDED
-bkdata<-transform(bkdata,
-                  tCount=prod(Count,DivBy), 
-                  tGender=prod(Gender,DivBy),
-                  tHelmet=prod(Helmet,DivBy),
-                  tWrongway=prod(Wrongway,DivBy),
-                  tSidewalk=prod(Sidewalk,DivBy))
-} else bkdata$DivBy <- 1 #divide by 1, i.e., assume there are no duplicates
+# missing LocId's from divby list will be assigned DivBy=1, Invalid=FALSE
+# all.x=TRUE keeps missing LocID's from divby from eliminating data; get NA
+  bkdata<-merge(bkdata,divby,by=c("LocID","Time"),all.x=TRUE,sort=FALSE)
+  bkdata$DivBy[is.na(bkdata$DivBy)]<-1 #change from NA to 1
+  bkdata$Invalid[is.na(bkdata$Invalid)]<-FALSE #change from NA to FALSE
+} else {
+  bkdata$DivBy <- 1 #no divby file; set divby=1, i.e., assume there are no duplicates
+  bkdata$Invalid <- FALSE #note: Invalid is not currently used
+}
+#FLAG MISSING DATA IN Count and attributes
+bkdata$naDetect <- FALSE
+bkdata$naDetect[is.na(bkdata$Count) | 
+                  is.na(bkdata$Gender) |
+                  is.na(bkdata$Helmet) |
+                  is.na(bkdata$Wrongway) |
+                  is.na(bkdata$Sidewalk)] <- TRUE
+# replace NA with 0
+bkdata$Count[is.na(bkdata$Count)] <- 0
+bkdata$Gender[is.na(bkdata$Gender)] <- 0
+bkdata$Helmet[is.na(bkdata$Helmet)] <- 0
+bkdata$Wrongway[is.na(bkdata$Wrongway)] <- 0
+bkdata$Sidewalk[is.na(bkdata$Sidewalk)] <- 0
 
+#print("NA detected in input data; replaced with 0")
+print("NA replaced with 0 for the following LocID")
+print(bkdata$LocID[bkdata$naDetect == TRUE])
+#
+#account for duplicates
+bkdata$tCount<-bkdata$Count/bkdata$DivBy
+bkdata$tGender<-bkdata$Gender/bkdata$DivBy
+bkdata$tHelmet<-bkdata$Helmet/bkdata$DivBy
+bkdata$tWrongway<-bkdata$Wrongway/bkdata$DivBy
+bkdata$tSidewalk<-bkdata$Sidewalk/bkdata$DivBy
 #Corrected total count, used for fractional attribute calc
-nCount <- sum(rawdata$tCount)
+nCount <- sum(bkdata$tCount)
 #fractional attributes, corrected for duplicates
-GenderF <- sum(rawdata$tGender)/nCount
-HelmetF <- sum(rawdata$tHelmet)/nCount
-WrongwayF <- sum(rawdata$tWrongway)/nCount
-SidewalkF <- sum(rawdata$tSidewalk)/nCount
+GenderF <- sum(bkdata$tGender)/nCount
+HelmetF <- sum(bkdata$tHelmet)/nCount
+WrongwayF <- sum(bkdata$tWrongway)/nCount
+SidewalkF <- sum(bkdata$tSidewalk)/nCount
 
 #count tally by location, divided by nTime to get "per hour"
 #attribute tallies by location
