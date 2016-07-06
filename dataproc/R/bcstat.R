@@ -9,11 +9,15 @@ setwd("C:/DataAnalysis/dataproc/R")
 dataPrefix <- "2014"
 inPath <- "DataIn/"
 outPath <- "DataOut/"
+#input files
 rawfile <- paste0(inPath, dataPrefix, "_BCdata.csv", collapse="") #e.g., "2014_BCdata.csv"
 locfile <- paste0(inPath, dataPrefix, "_LocID.csv", collapse="") #e.g., "2014_LocID.csv"
 divbyfile <- paste0(inPath, dataPrefix, "_DivBy.csv", collapse="") #e.g., "2014_DivBy.csv"
 #CHECK IF FILE EXISTS
 stopifnot(file.exists(rawfile) & file.exists(locfile))
+#
+#output files
+repsummfile <- paste0(outPath, dataPrefix, "_repsumm.csv", collapse="") #e.g., "2014_repsumm.csv"
 #
 rawdata <- read.csv(rawfile)
 #rawdata fields: LocID	Time	Recorder  Page	Segment	Direction	Count	Gender 	Helmet	Wrongway	Sidewalk Seg SegSeq
@@ -121,7 +125,6 @@ for(j in 1:LocAll) #for each location
 }
 ###
 
-
 #Logical indexing
 bTime <- bkdata$Time == "AM" #convert to boolean; "AM" = TRUE
 bCordon <- bkdata$Cordon == 1 #convert to boolean; 1 = TRUE
@@ -130,6 +133,8 @@ cordonAM <- with(bkdata,aggregate(bkdata$Count, by=list(bTime & bCordon), FUN=su
 cordonPM <- with(bkdata,aggregate(bkdata$Count, by=list(!bTime & bCordon), FUN=sum, na.rm=TRUE)[2,2])
 
 #Calc number of recorders
+#bypass for now - NEED TO DELETE if(FALSE) statement
+if(FALSE){
 rectemp <- tolower(rawdata$Recorder)
 Recorders <- sort(unique(unlist(rectemp, use.names=FALSE)),decreasing=FALSE)
 rtypo1 <- character(0)
@@ -150,9 +155,11 @@ print("Here are potential team counts")
 rteam
 nteam<-length(rteam) #need to get user input on real team count
 nRec <- length(Recorder) + nteam -ntypo
+} else {nRecorder = 78} #NEED TO REMOVE - PLACEHOLDER (2014 VALUE)
 # END OF RECORDER CODE
 ###
 
 #Report Summary = Table 1
-repsumm <- data.frame(TotalCount,Locations,nRecorder) #NEEDS WORK: ,Wrongway,Sidewalk,Helmet,Female,CordonIn,CordOut
-write.csv(repsumm,file="repsumm.csv")
+repsumm <- data.frame(
+  nCountRaw,nLoc,nRecorder,WrongwayF,SidewalkF,HelmetF,GenderF,cordonAM,cordonPM)
+write.csv(repsumm,file=repsummfile)
