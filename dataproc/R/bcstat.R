@@ -3,10 +3,10 @@
 #assumes data errors have been corrected
 require(graphics)
 library(stringr) # interface to common string operations
-#set the working directory before launching this code, e.g.:
-#need to avoid setwd; not robust to different users
-setwd("C:/DataAnalysis/dataproc/R")
-dataPrefix <- "2014"
+#Note: start R in the correct directory
+#setwd("C:/DataAnalysis/dataproc/R") #need to avoid setwd; not robust to different users
+source("recorders.R")
+dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
 inPath <- "DataIn/"
 outPath <- "DataOut/"
 #input files
@@ -39,18 +39,18 @@ if(file.exists(divbyfile)) {
 #Stats
 nCountRaw <- sum(rawdata$Count)
 nLoc <- length(unique(rawdata$LocID))
-
+#
 #Merge rawdata with locdata; coerces cordon, traffic, collisions, etc. into rawdata sequence
-bkdata<-merge(rawdata,locdata,by="LocID")
+bkdata <- merge(rawdata,locdata,by="LocID")
 #divby is the vector of duplicate divide-by numbers
 # CAUTION: a partial divby list will eliminate rows not in divby
 #needs work: allow a partial divby list
 if (bdivby) {
 # missing LocId's from divby list will be assigned DivBy=1, Invalid=FALSE
 # all.x=TRUE keeps missing LocID's from divby from eliminating data; get NA
-  bkdata<-merge(bkdata,divby,by=c("LocID","Time"),all.x=TRUE,sort=FALSE)
-  bkdata$DivBy[is.na(bkdata$DivBy)]<-1 #change from NA to 1
-  bkdata$Invalid[is.na(bkdata$Invalid)]<-FALSE #change from NA to FALSE
+  bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all.x=TRUE, sort=FALSE)
+  bkdata$DivBy[is.na(bkdata$DivBy)] <- 1 #change from NA to 1
+  bkdata$Invalid[is.na(bkdata$Invalid)] <- FALSE #change from NA to FALSE
 } else {
   bkdata$DivBy <- 1 #no divby file; set divby=1, i.e., assume there are no duplicates
   bkdata$Invalid <- FALSE #note: Invalid is not currently used
@@ -68,98 +68,83 @@ bkdata$Gender[is.na(bkdata$Gender)] <- 0
 bkdata$Helmet[is.na(bkdata$Helmet)] <- 0
 bkdata$Wrongway[is.na(bkdata$Wrongway)] <- 0
 bkdata$Sidewalk[is.na(bkdata$Sidewalk)] <- 0
-
+#
 #print("NA detected in input data; replaced with 0")
 print("NA replaced with 0 for the following LocID")
 print(bkdata$LocID[bkdata$naDetect == TRUE])
 #
-#account for duplicates
+#account for duplicates (t for transformed, e.g., corrected for duplicates)
 bkdata$tCount<-bkdata$Count/bkdata$DivBy
 bkdata$tGender<-bkdata$Gender/bkdata$DivBy
 bkdata$tHelmet<-bkdata$Helmet/bkdata$DivBy
 bkdata$tWrongway<-bkdata$Wrongway/bkdata$DivBy
 bkdata$tSidewalk<-bkdata$Sidewalk/bkdata$DivBy
+# Define directions; combine north & south as NS; combine east and west as EW
+bkdata$Dir <- ifelse(bkdata$Direction == 1 | bkdata$Direction == 2, "NS", "EW")
+# create sums by location, split by NS and EW directions (Table in Appendix)
+summdir <- aggregate(cbind(tCount,tGender,tHelmet,tWrongway,tSidewalk) ~ LocID + Dir, sum, data = bkdata)
+#total transformed count by location and time of day (AM or PM)
+timeTot <- aggregate(tCount ~ LocID + Dir + Time, sum, data = bkdata)
+#
+AMcount <- timeTot[timeTot$Time == "AM",]
+PMcount <- timeTot[timeTot$Time == "PM",]
+colnames(AMcount)[4] <- "AMtot" #was tCount; set name for upcoming merge
+colnames(PMcount)[4] <- "PMtot" #was tCount; set name for upcoming merge
+# all=TRUE keeps LocIDs from getting culled (e.g., AM but not PM); sort is not in final form
+summdir <- merge(summdir, AMcount, by=c("LocID", "Dir"), all=TRUE)
+summdir <- summdir[ , !(names(summdir) %in% "Time")] #remove unwanted "Time" column
+summdir <- merge(summdir, PMcount, by=c("LocID", "Dir"), all=TRUE)
+summdir <- summdir[ , !(names(summdir) %in% "Time")] #remove unwanted "Time" column
+#
+summdir$Count <- summdir$tCount
+summdir$Female <- summdir$tGender/summdir$tCount
+summdir$Helmet <- summdir$tHelmet/summdir$tCount
+summdir$Wrongway <- summdir$tWrongway/summdir$tCount
+summdir$Sidewalk <- summdir$tSidewalk/summdir$tCount
+#note: if tCount==0 then result is NaN which is fine, e.g., LocID 112 EW
 #Corrected total count, used for fractional attribute calc
-nCount <- sum(bkdata$tCount)
+nCount <- round(sum(bkdata$tCount),0) #R rounds half to even
 #fractional attributes, corrected for duplicates
-GenderF <- sum(bkdata$tGender)/nCount
+FemaleF <- sum(bkdata$tGender)/nCount
 HelmetF <- sum(bkdata$tHelmet)/nCount
 WrongwayF <- sum(bkdata$tWrongway)/nCount
 SidewalkF <- sum(bkdata$tSidewalk)/nCount
 
 #count tally by location, divided by nTime to get "per hour"
 #attribute tallies by location
-LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #sum is meaningless
+LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #FUN=sum is meaningless
 #this gives a data frame with column names Group.1, Group.2
-colnames(LocCounted)<-c("LocID","Time") #reassign column names
+colnames(LocCounted) <- c("LocID","Time") #reassign column names
 LocCounted$AM <- LocCounted$Time == "AM"
 LocCounted$PM <- LocCounted$Time == "PM"
 #LocID contains 2 concatenated lists of unique LocID's in bkdata (not likely a complete list of all LocID's ever)
 #Time is AM for the first set of LocID's, and PM for the 2nd set.
 #the number of members in the AM set is not necessarily the same as that in the PM set
+#Count the number of times each location was counted (either 1 or 2); not 0 because then the LocID is not present
+LocTimes <- with(LocCounted,aggregate(LocID, by=list(LocID), FUN=length)) 
+colnames(LocTimes)<-c("LocID","nTime") #reassign column names
+# merge this data to enable total per hour
+summdir <- merge(summdir, LocTimes,by="LocID")
+summdir$TotPerHr <- round(summdir$Count / summdir$nTime / 2, digits = 0)#R rounds half to even
+summdir$AMPerHr <- round(summdir$AMtot / 2, digits = 0) #R rounds half to even
+summdir$PMPerHr <- round(summdir$PMtot / 2, digits = 0) #R rounds half to even
+# pull in locdata (traffic, etc.)
+summdir <- merge(summdir, locdata, by=c("LocID"))
+# sort with NS first
+summdir <- with(summdir, summdir[order(-xtfrm(Dir), LocID),]) #xtfrm is needed for reverse order of character vector
+# output
+write.csv(summdir, file = paste0(outPath, dataPrefix, "_summdir.csv", collapse = ""), row.names = FALSE)
 #
-###NEEDS WORK - need to split LocCounted into two separate data frames: LocCountAM, LocCountPM
-if(FALSE)
-{
-locdata<-merge(locdata,LocCountAM,by=c("LocID","Time"))
-locdata<-merge(locdata,LocCountPM,by=c("LocID","Time"))
-locdata[,year] <- locdata$AM & locdata$PM 
-}
-#identify which Loc & time are counted
-###NEEDS WORK:
-if(FALSE)
-{
-#add nTime column to locdata: 1 if Time=AM or PM; 2 if AM & PM; else 0)
-locdata<-transform(locdata,nTime=switch(Time+1,0,1,2))
-
-#another way to get there:
-for(j in 1:LocAll) #for each location
-{
-  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == locvec[j])
-  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == locvec[j])
-  #  valid[1,j] <- 0 < sum(rawdata$Time == "AM" & rawdata$LocID == as.integer(substr(colnames(countAM[j]),2,4)))
-  #  valid[2,j] <- 0 < sum(rawdata$Time == "PM" & rawdata$LocID == as.integer(substr(colnames(countPM[j]),2,4)))
-  #
-}
-#NEED TO OUTPUT VALID
-}
-###
-
 #Logical indexing
 bTime <- bkdata$Time == "AM" #convert to boolean; "AM" = TRUE
 bCordon <- bkdata$Cordon == 1 #convert to boolean; 1 = TRUE
 #Cordon; Column1: row1=False, row2=true; column2: "x" which is Count
 cordonAM <- with(bkdata,aggregate(bkdata$Count, by=list(bTime & bCordon), FUN=sum, na.rm=TRUE)[2,2])
 cordonPM <- with(bkdata,aggregate(bkdata$Count, by=list(!bTime & bCordon), FUN=sum, na.rm=TRUE)[2,2])
-
-#Calc number of recorders
-#bypass for now - NEED TO DELETE if(FALSE) statement
-if(FALSE){
-rectemp <- tolower(rawdata$Recorder)
-Recorders <- sort(unique(unlist(rectemp, use.names=FALSE)),decreasing=FALSE)
-rtypo1 <- character(0)
-grepdist <- 0.2
-for(r in 1:length(Recorders))
-{
-  if(length(agrep(Recorders[r],Recorders,max.distance=grepdist))>1)
-  {
-    rtypo1 <- c(rtypo1,paste(agrep(Recorders[r],Recorders,max.distance=grepdist,value=TRUE),collapse=", "))
-  }
-}
-rtypo <- unique(unlist(rtypo1, use.names=FALSE))
-print("Here are potential typos in recorder names")
-rtypo
-ntypo<-length(rtypo) #need to get user input on real typo count
-rteam <- c(grep("&",Recorders,value=TRUE),grep(" and ",Recorders,value=TRUE))
-print("Here are potential team counts")
-rteam
-nteam<-length(rteam) #need to get user input on real team count
-nRec <- length(Recorder) + nteam -ntypo
-} else {nRecorder = 78} #NEED TO REMOVE - PLACEHOLDER (2014 VALUE)
-# END OF RECORDER CODE
-###
-
+# get the number of recorders and output special cases
+nRecorder <- nRecorders(rawdata, dataPrefix, outPath)
 #Report Summary = Table 1
 repsumm <- data.frame(
-  nCountRaw,nLoc,nRecorder,WrongwayF,SidewalkF,HelmetF,GenderF,cordonAM,cordonPM)
+  nCountRaw,nLoc,nRecorder,WrongwayF,SidewalkF,HelmetF,FemaleF,cordonAM,cordonPM,nCount)
 write.csv(repsumm,file=repsummfile)
+#END OF CODE
