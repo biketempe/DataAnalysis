@@ -3,8 +3,9 @@
 #assumes data errors have been corrected
 require(graphics)
 library(stringr) # interface to common string operations
+library(plyr)
 #Note: start R in the correct directory
-#setwd("C:/DataAnalysis/dataproc/R") #need to avoid setwd; not robust to different users
+#setwd("C:/DataAnalysis/dataproc/R") #better to avoid setwd; not robust to different users
 source("recorders.R")
 dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
 inPath <- "DataIn/"
@@ -34,7 +35,7 @@ if(file.exists(divbyfile)) {
 #divby fields: LocID	Time	Invalid	DivBy
   divby <- read.csv(divbyfile)
   bdivby = TRUE
-} else bdivby <- false
+} else bdivby <- FALSE
 
 #Stats
 nCountRaw <- sum(rawdata$Count)
