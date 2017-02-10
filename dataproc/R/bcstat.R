@@ -148,4 +148,10 @@ nRecorder <- nRecorders(rawdata, dataPrefix, outPath)
 repsumm <- data.frame(
   nCountRaw,nLoc,nRecorder,WrongwayF,SidewalkF,HelmetF,FemaleF,cordonAM,cordonPM,nCount)
 write.csv(repsumm,file=repsummfile)
+#Figure 1
+###initiate summ
+#summ$Wrongway <- with(summdir,aggregate(summdir$Wrongway, by=list(dir), FUN=sum)[,1:2])
+#wrongway20 <- 
+#summ[order(Wrongway),]
+
 #END OF CODE
