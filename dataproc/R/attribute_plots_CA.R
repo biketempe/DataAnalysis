@@ -34,12 +34,21 @@ infile <- "2016_Geoplot.csv"
 #setwd("C:/RWD/BikeCount")
 count_data <- read.csv(paste0(inPath,infile))
 #count_data <- read.csv(infile)[,c("LocID", "Total_per_hr", "Female", "Helmet", "Wrongway", "Sidewalk", "latitude", "longitude")]
-
+lat_limit <- c(33.32725, 33.45128)
+lon_limit <- c(-111.9631, -111.900497)
+# these are min, max of latitude and longitude
+lat_limit <- lat_limit + c(0.0036, -0.0036) #0.25 mile extra in each direction
+lon_limit <- lon_limit + (c(-0.0043, 0.0043) * 6.28) #0.25 * factor to make it square, mile extra in each direction
+#for use with zoom = 12
+#
 geo_plot <- function(color, title, filename, data, field) {
     data$data_field <- data[, field]
-    map <- get_map(location = c( lon = -111.9295916, lat = 33.4015448), zoom = 13, filename = "ggmapTemp", scale=1)
+    map <- get_map(location = c( lon = -111.9295916, lat = 33.4015448), zoom = 12, filename = "ggmapTemp", scale=1)
     map <- ggmap(map) + geom_point(aes(x = Longitude, y = Latitude, size = data_field), data = data, colour = color)
-    map <- map + scale_size_area(name=title)
+#    map <- map + coord_fixed(xlim = lon_limit, ylim = lat_limit)
+# the problem is that Google logo is clipped off. Required to show google logo and copyright
+# therefore, keep zoom=13 and accept that fringe locations are clipped
+    map <- map + scale_size_area(name=title) #size of the dots
     map <- map + theme(legend.justification=c(0,0), legend.position=c(0.02,0.02),
                        axis.text.x=element_blank(), axis.text.y=element_blank(),
                        axis.ticks=element_blank(),
