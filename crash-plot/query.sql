@@ -33,4 +33,7 @@
         select IncidentID from 2014_unit where 2014_unit.eUnitType = 'DRIVER'
     )
     group by 2014_incident.IncidentID
-
+    into outfile 'bikecrash_2014.csv'
+    fields terminated by ','
+    enclosed by '"'
+    lines terminated by '\n';
