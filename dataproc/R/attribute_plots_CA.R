@@ -30,10 +30,11 @@ library(ggmap)
 rm(list=ls())
 inPath <- "DataIn/"
 outPath <- "DataOut/"
-infile <- "2016_Geoplot.csv"
+infile <- "2016_Geoplot.csv" #NOTE: subsequent variable "bcyear" uses year as first 4 characters of this file
+bcyear <- substr(infile,1,4)
 #setwd("C:/RWD/BikeCount")
 count_data <- read.csv(paste0(inPath,infile))
-count_data$unity = 1 #equal markers just to show the locations
+count_data$unity = 0.2 #equal markers just to show the locations
 lat_limit <- c(33.32725, 33.45128)
 lon_limit <- c(-111.9631, -111.900497)
 # these are min, max of latitude and longitude, for use with zoom = 12
@@ -61,25 +62,39 @@ geo_plot <- function(color, title, filename, data, field, locctr, ggzoom) {
     ggsave(filename=filename, plot=map)
 }
 # per hour
-geo_plot("black", "Total Count\nper Hour", paste0(outPath,"per_hour.png"), count_data, "Total_per_hr", locctr, ggzoomAttrib)
+titleAry <- c("Total Count\nper Hour",
+              "Fraction of Wrongway\nRiders",
+              "Fraction of\nRiders Using\nSidewalk",
+              "Fraction of\nRiders Wearing\nHelmets",
+              "All Locations")
+titleAry <- paste0(titleAry, " (", bcyear, ")")
+fileAry <- c("per_hour",
+             "wrongway",
+             "sidewalk",
+             "helmet",
+             "AllLoc")
+fileAry <- paste0(fileAry, "_", bcyear, ".png")
+#
+geo_plot("black", titleAry[1], paste0(outPath, fileAry[1]), count_data, "Total_per_hr", locctr, ggzoomAttrib)
 
 # wrong way
-geo_plot("red", "Fraction of\nWrongway Riders", paste0(outPath,"wrongway.png"), count_data, "Wrongway", locctr, ggzoomAttrib)
+geo_plot("red", titleAry[2], paste0(outPath, fileAry[2]), count_data, "Wrongway", locctr, ggzoomAttrib)
 
 # sidewalk
-geo_plot("purple", "Fraction of\nRiders Using\nSidewalk", paste0(outPath,"sidewalk.png"), count_data, "Sidewalk", locctr, ggzoomAttrib)
+geo_plot("purple", titleAry[3], paste0(outPath, fileAry[3]), count_data, "Sidewalk", locctr, ggzoomAttrib)
 
 # helmet
-geo_plot("green", "Fraction of\nRiders Wearing\nHelmets", paste0(outPath,"helmet.png"), count_data, "Helmet", locctr, ggzoomAttrib)
+geo_plot("green", titleAry[4], paste0(outPath, fileAry[4]), count_data, "Helmet", locctr, ggzoomAttrib)
 
 #zoom out to show all locations
 #not working well enough - big black circles, but want maybe "x"
 #optional plot: uncomment to include it
-#geo_plot("black", "All Locations", paste0(outPath,"AllLoc.png"), count_data, "unity", locctr, ggzoomAttrib)
+#geo_plot("black", titleAry[5], paste0(outPath, fileAry[5]), count_data, "unity", locctr, ggzoomAll)
 #
 #alternate method to plot all locations as equal "x" spots
-if(1 = 0) {
+if(1 == 0) {
   #zoom out to show all locations
+  #DOES NOT WORK:  Error: Data function must return a data.frame 
   #count_data$data_field <- count_data[, unity]
   map <- get_map(location = locctr, zoom = ggzoomAll, filename = "ggmapTemp", scale=1)
   map <- ggmap(map) + geom_point(aes(x = Longitude, y = Latitude, size = count_data$unity), data = data, colour = "black")
