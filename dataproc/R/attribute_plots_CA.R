@@ -1,38 +1,32 @@
 library(ggmap)
 
-# run this with eg:
-
-#  R -f attribute_plots.R --args CountSummary2015_for_Geoplot.csv
-
 # plots:
-
 # total bicycle count per hour
 # Fraction of wrong way riders
 # Fraction of riders using sidewalk
 # Fraction of riders wearing helmets
 
-#args <- commandArgs(trailingOnly = T)
-#count_data_fn = args[1]
-
-###NOTE: ## designates lines from Scott's code that Cliff commented out
-###Cliff's added lines
-###if needed, run this (only needed once):
+###if needed, run this (only needed once for each computer R installation):
 ###install.packages("ggmap")
 ###if you get this error message:
 ### "Removed [n] rows containing missing values (geom_point)."
 ### then the longitude and/or latitude value is out of range for the given map size.
 
-##print("Reading data from file:")
-##print(count_data_fn)
-
-##count_data <- read.csv(count_data_fn)[,c("LocID", "Total_per_hr", "Female.", "Helmet.", "Wrongway.", "Sidewalk.", "Accidents.per.100.hr", "latitude", "longitude")]
-### this is Cliff's new line
 rm(list=ls())
 inPath <- "DataIn/"
 outPath <- "DataOut/"
 infile <- "2016_Geoplot.csv" #NOTE: subsequent variable "bcyear" uses year as first 4 characters of this file
 bcyear <- substr(infile,1,4)
 #setwd("C:/RWD/BikeCount")
+
+# alternative: execute and read filename from command line:
+#  R -f attribute_plots.R --args 2016_Geoplot.csv
+# if using this, uncomment the following 4 lines:
+#args <- commandArgs(trailingOnly = T)
+#inFile <- args[1]
+#print("Reading data from file:")
+#print(inFile)
+
 count_data <- read.csv(paste0(inPath,infile))
 count_data$unity = 0.2 #equal markers just to show the locations
 lat_limit <- c(33.32725, 33.45128)
@@ -47,19 +41,19 @@ ggzoomAll = 12
 #
 geo_plot <- function(color, title, filename, data, field, locctr, ggzoom) {
     data$data_field <- data[, field]
-    map <- get_map(location = locctr, zoom = ggzoom, filename = "ggmapTemp", scale=1)
+    map <- get_map(location = locctr, zoom = ggzoom, filename = "ggmapTemp", scale=2)
     map <- ggmap(map) + geom_point(aes(x = Longitude, y = Latitude, size = data_field), data = data, colour = color)
 #    map <- map + coord_fixed(xlim = lon_limit, ylim = lat_limit)
 # the problem is that Google logo is clipped off. Required to show google logo and copyright
 # therefore, keep zoom=13 and accept that fringe locations are clipped
     map <- map + scale_size_area(name=title) 
-    #scale_size_area if you want 0 values to be mapped to points with size 0
-    #Value mapped to area of circle 
+#When scale_size_area is used, the default behavior is to scale the area of points 
+#  to be proportional to the value.
     map <- map + theme(legend.justification=c(0,0), legend.position=c(0.02,0.02),
                        axis.text.x=element_blank(), axis.text.y=element_blank(),
                        axis.ticks=element_blank(),
                        axis.title.x=element_blank(), axis.title.y=element_blank())
-    ggsave(filename=filename, plot=map)
+    ggsave(filename=filename, plot=map, width=5, height=5)
 }
 # per hour
 titleAry <- c("Total Count\nper Hour",
@@ -91,21 +85,6 @@ geo_plot("green", titleAry[4], paste0(outPath, fileAry[4]), count_data, "Helmet"
 #optional plot: uncomment to include it
 #geo_plot("black", titleAry[5], paste0(outPath, fileAry[5]), count_data, "unity", locctr, ggzoomAll)
 #
-#alternate method to plot all locations as equal "x" spots
-if(1 == 0) {
-  #zoom out to show all locations
-  #DOES NOT WORK:  Error: Data function must return a data.frame 
-  #count_data$data_field <- count_data[, unity]
-  map <- get_map(location = locctr, zoom = ggzoomAll, filename = "ggmapTemp", scale=1)
-  map <- ggmap(map) + geom_point(aes(x = Longitude, y = Latitude, size = count_data$unity), data = data, colour = "black")
-  map <- map + scale_size_area(name=title) 
-  map <- map + theme(legend.justification=c(0,0), legend.position=c(0.02,0.02),
-                     axis.text.x=element_blank(), axis.text.y=element_blank(),
-                     axis.ticks=element_blank(),
-                     axis.title.x=element_blank(), axis.title.y=element_blank())
-  #element_blank to hide axes
-  ggsave(filename="AllLoc.png", plot=map)
-}
 # code example for specifying breaks in the legend (instead of R doing it automatically):
 # map <- map +
 #    scale_size_area(breaks = sqrt(c(1, 5, 10, 50, 100, 500)), labels = c(1, 5, 10, 50, 100, 500), name = "avg total\nbikes counted\nor\ntotal collisions\n2009-2013")
