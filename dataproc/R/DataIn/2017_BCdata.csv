@@ -1,0 +1,2401 @@
+LocID,Time,Recorder,Date,Page,Segment,Direction,Count,Gender ,Helmet,Wrongway,Sidewalk,Notes,Construction,Year,Code,Hour,RecCount,wsName
+102,PM,Mick Darcey,,1,1,1,2,0,0,2,2,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,1,2,1,0,1,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,1,3,1,0,0,1,1,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,1,4,2,0,0,1,2,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,2,1,4,0,0,1,1,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,2,2,5,0,2,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,2,3,1,0,0,1,1,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,2,4,0,0,0,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,3,1,4,1,0,1,3,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,3,2,2,0,0,1,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,3,3,3,0,0,2,2,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,3,4,1,0,1,0,1,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,4,1,2,0,1,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,4,2,4,0,2,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,4,3,2,0,2,0,2,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,1,4,4,1,0,0,0,0,,,2017,RMA,4,1,102 WMA_17
+102,PM,Mick Darcey,,2,1,1,4,0,2,0,0,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,1,2,8,0,6,1,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,1,3,2,0,0,1,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,1,4,2,1,0,0,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,2,1,4,0,2,2,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,2,2,5,0,1,1,2,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,2,3,2,0,1,1,2,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,2,4,1,0,0,0,0,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,3,1,4,0,2,1,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,3,2,5,0,5,0,0,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,3,3,2,1,1,2,2,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,3,4,0,0,0,0,0,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,4,1,7,1,3,0,0,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,4,2,4,0,1,0,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,4,3,1,0,1,1,1,,,2017,RMA,5,1,102 WMA_17
+102,PM,Mick Darcey,,2,4,4,0,0,0,0,0,,,2017,RMA,5,1,102 WMA_17
+103,AM,Kristian Doak,,1,1,1,0,0,0,0,0,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,1,2,6,0,2,2,6,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,1,3,0,0,0,0,0,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,1,4,1,0,0,1,1,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,2,1,2,0,1,1,1,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,2,2,3,1,0,0,3,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,2,3,1,0,1,0,0,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,2,4,2,0,1,0,0,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,3,1,2,0,0,0,1,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,3,2,7,2,1,3,7,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,3,3,2,0,0,0,2,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,3,4,1,0,0,1,1,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,4,1,3,2,0,1,3,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,4,2,3,1,2,2,3,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,4,3,0,0,0,0,0,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,1,4,4,1,0,0,1,1,,,2017,RRR,7,1,103 RRR_17
+103,AM,Kristian Doak,,2,1,1,1,0,0,1,1,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,1,2,5,1,2,1,5,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,1,3,0,0,0,0,0,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,1,4,1,0,0,1,1,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,2,1,1,0,0,0,1,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,2,2,9,2,2,0,9,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,2,3,0,0,0,0,0,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,2,4,3,0,0,2,3,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,3,1,5,1,1,2,5,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,3,2,10,2,3,2,10,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,3,3,4,1,1,1,3,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,3,4,1,0,0,0,1,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,4,1,0,0,0,0,0,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,4,2,18,4,3,3,18,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,4,3,0,0,0,0,0,,,2017,RRR,8,1,103 RRR_17
+103,AM,Kristian Doak,,2,4,4,2,0,1,0,0,,,2017,RRR,8,1,103 RRR_17
+103,PM,Kristian Doak,,1,1,1,5,1,0,3,5,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,1,2,5,1,1,3,4,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,1,3,2,0,1,0,1,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,1,4,2,0,0,1,2,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,2,1,14,2,3,8,14,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,2,2,9,3,2,1,9,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,2,3,4,0,2,1,4,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,2,4,1,1,0,1,1,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,3,1,8,2,2,4,7,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,3,2,1,0,0,1,1,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,3,3,5,2,3,2,4,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,3,4,0,0,0,0,0,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,4,1,2,0,1,1,2,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,4,2,6,1,0,2,6,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,4,3,1,0,0,1,1,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,1,4,4,0,0,0,0,0,,,2017,RRR,4,1,103 RRR_17
+103,PM,Kristian Doak,,2,1,1,4,1,2,4,4,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,1,2,2,0,1,0,2,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,1,3,5,1,2,2,3,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,1,4,1,0,0,0,0,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,2,1,10,2,4,2,10,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,2,2,4,0,0,2,4,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,2,3,3,1,0,1,3,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,2,4,0,0,0,0,0,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,3,1,6,2,2,4,6,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,3,2,6,1,0,1,6,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,3,3,7,4,3,5,6,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,3,4,1,0,0,0,1,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,4,1,11,3,0,6,11,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,4,2,8,1,0,2,8,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,4,3,6,0,3,3,4,,,2017,RRR,5,1,103 RRR_17
+103,PM,Kristian Doak,,2,4,4,1,0,0,0,1,,,2017,RRR,5,1,103 RRR_17
+104,AM,Ariel Briscoe,,1,1,1,2,0,0,1,2,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,1,2,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,1,3,1,0,0,1,1,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,1,4,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,2,1,1,0,0,1,1,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,2,2,3,0,1,1,3,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,2,3,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,2,4,1,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,3,1,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,3,2,2,1,1,1,2,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,3,3,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,3,4,3,0,1,2,3,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,4,1,2,0,2,1,2,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,4,2,1,0,0,0,1,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,4,3,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,1,4,4,0,0,0,0,0,,,2017,RMD,7,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,1,1,2,0,1,1,2,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,1,2,2,0,1,0,2,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,1,3,0,0,0,0,0,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,1,4,0,0,0,0,0,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,2,1,1,1,1,0,1,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,2,2,1,0,0,0,1,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,2,3,0,0,0,0,0,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,2,4,1,0,0,0,1,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,3,1,1,1,0,0,1,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,3,2,2,0,0,0,2,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,3,3,0,0,0,0,0,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,3,4,1,0,1,0,1,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,4,1,2,0,0,0,2,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,4,2,3,1,1,0,2,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,4,3,0,0,0,0,0,,,2017,RMD,8,1,104 RMD_17
+104,AM,Ariel Briscoe,,2,4,4,2,1,0,0,2,,,2017,RMD,8,1,104 RMD_17
+104,PM,Brian Perkins,,1,1,1,2,0,0,1,2,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,1,2,4,0,0,1,3,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,1,3,3,1,0,1,2,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,1,4,1,1,0,0,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,2,1,3,0,1,1,2,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,2,2,2,0,1,0,2,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,2,3,0,0,0,0,0,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,2,4,1,0,0,1,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,3,1,4,2,1,3,4,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,3,2,2,0,2,0,2,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,3,3,2,0,0,1,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,3,4,0,0,0,0,0,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,4,1,1,1,0,1,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,4,2,1,0,0,1,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,4,3,1,0,0,0,1,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,1,4,4,0,0,0,0,0,,,2017,RMD,4,1,104 RMD_17
+104,PM,Brian Perkins,,2,1,1,3,0,1,1,2,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,1,2,3,1,0,2,3,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,1,3,1,1,0,0,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,1,4,2,0,0,1,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,2,1,2,1,2,2,2,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,2,2,0,0,0,0,0,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,2,3,1,0,0,1,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,2,4,0,0,0,0,0,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,3,1,4,0,0,2,4,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,3,2,1,0,0,1,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,3,3,1,0,1,0,0,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,3,4,0,0,0,0,0,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,4,1,2,0,0,0,2,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,4,2,1,0,0,1,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,4,3,3,1,2,1,1,,,2017,RMD,5,1,104 RMD_17
+104,PM,Brian Perkins,,2,4,4,0,0,0,0,0,,,2017,RMD,5,1,104 RMD_17
+105,AM,Kip Goldman,,1,1,1,2,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,1,2,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,1,3,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,1,4,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,2,1,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,2,2,1,0,1,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,2,3,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,2,4,1,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,3,1,1,0,1,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,3,2,2,1,2,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,3,3,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,3,4,2,0,1,0,1,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,4,1,1,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,4,2,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,4,3,0,0,0,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,1,4,4,1,0,1,0,0,,,2017,RHD,7,1,105 RHD_17
+105,AM,Kip Goldman,,2,1,1,1,0,1,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,1,2,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,1,3,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,1,4,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,2,1,2,2,2,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,2,2,1,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,2,3,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,2,4,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,3,1,1,0,1,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,3,2,1,1,1,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,3,3,0,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,3,4,2,0,1,0,1,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,4,1,1,0,0,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,4,2,1,0,1,0,0,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,4,3,1,0,0,1,1,,,2017,RHD,8,1,105 RHD_17
+105,AM,Kip Goldman,,2,4,4,1,0,1,0,0,,,2017,RHD,8,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,1,1,2,0,1,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,1,2,2,1,1,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,1,3,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,1,4,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,2,1,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,2,2,1,0,1,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,2,3,1,0,0,1,1,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,2,4,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,3,1,1,1,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,3,2,1,0,1,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,3,3,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,3,4,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,4,1,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,4,2,2,1,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,4,3,0,0,0,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,1,4,4,1,0,1,0,0,,,2017,RHD,4,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,1,1,1,0,1,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,1,2,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,1,3,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,1,4,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,2,1,1,0,1,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,2,2,1,0,1,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,2,3,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,2,4,1,0,0,0,1,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,3,1,2,1,2,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,3,2,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,3,3,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,3,4,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,4,1,2,0,1,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,4,2,0,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,4,3,4,1,3,0,0,,,2017,RHD,5,1,105 RHD_17
+105,PM,Ezekiel Escamilla,,2,4,4,1,0,0,0,0,,,2017,RHD,5,1,105 RHD_17
+106,AM,Mackenzie Keller,,1,1,1,9,4,6,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,1,2,5,0,2,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,1,3,7,3,1,1,1,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,1,4,2,0,2,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,2,1,3,1,3,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,2,2,4,1,3,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,2,3,8,2,0,0,1,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,2,4,2,0,2,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,3,1,2,1,0,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,3,2,5,0,3,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,3,3,5,0,0,0,1,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,3,4,1,0,0,0,1,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,4,1,1,0,0,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,4,2,8,3,4,1,2,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,4,3,6,0,2,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,1,4,4,2,0,2,0,0,,,2017,5sMA,7,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,1,1,1,0,0,1,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,1,2,5,1,4,0,1,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,1,3,4,1,1,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,1,4,1,0,0,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,2,1,5,1,1,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,2,2,9,0,2,0,1,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,2,3,16,6,4,2,2,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,2,4,2,0,0,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,3,1,19,6,14,2,2,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,3,2,5,0,2,0,1,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,3,3,15,7,4,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,3,4,1,0,0,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,4,1,8,3,5,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,4,2,3,1,0,0,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,4,3,11,5,2,1,0,,,2017,5sMA,8,1,106 5sMA_17
+106,AM,Mackenzie Keller,,2,4,4,1,0,0,0,1,,,2017,5sMA,8,1,106 5sMA_17
+106,PM,Kolby Granville,,1,1,1,10,2,3,0,3,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,1,2,7,2,1,0,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,1,3,4,2,0,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,1,4,8,1,1,0,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,2,1,6,2,1,0,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,2,2,4,1,2,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,2,3,7,0,1,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,2,4,13,1,1,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,3,1,3,0,2,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,3,2,7,0,2,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,3,3,4,1,1,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,3,4,6,0,0,0,3,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,4,1,9,1,3,0,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,4,2,7,3,1,1,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,4,3,4,0,0,0,1,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,1,4,4,5,1,0,0,0,,,2017,5sMA,4,1,106 5sMA_17
+106,PM,Kolby Granville,,2,1,1,10,0,3,0,1,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,1,2,14,0,4,1,1,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,1,3,8,3,1,1,1,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,1,4,11,4,2,1,2,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,2,1,5,1,3,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,2,2,5,0,0,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,2,3,5,3,1,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,2,4,1,0,1,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,3,1,3,1,2,0,1,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,3,2,5,1,4,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,3,3,0,0,0,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,3,4,3,0,1,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,4,1,10,6,4,1,3,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,4,2,6,2,3,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,4,3,3,0,2,0,0,,,2017,5sMA,5,1,106 5sMA_17
+106,PM,Kolby Granville,,2,4,4,12,2,5,0,0,,,2017,5sMA,5,1,106 5sMA_17
+109,PM,Ezekiel Escamilla,,1,1,1,0,0,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,1,2,1,0,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,1,3,4,0,1,0,1,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,1,4,6,2,1,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,2,1,1,0,0,0,1,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,2,2,3,0,1,0,1,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,2,3,7,3,2,1,1,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,2,4,4,1,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,3,1,5,1,2,1,1,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,3,2,0,0,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,3,3,1,0,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,3,4,4,1,2,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,4,1,2,0,0,1,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,4,2,0,0,0,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,4,3,2,1,1,0,0,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,1,4,4,4,0,0,2,3,,,2017,5sHD,4,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,1,1,2,0,1,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,1,2,1,0,1,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,1,3,3,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,1,4,2,0,0,1,1,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,2,1,2,1,0,2,2,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,2,2,3,2,2,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,2,3,1,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,2,4,1,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,3,1,3,2,2,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,3,2,0,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,3,3,3,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,3,4,1,0,1,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,4,1,4,1,1,0,1,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,4,2,3,0,0,0,0,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,4,3,5,1,0,2,3,,,2017,5sHD,5,1,1095sHD_17
+109,PM,Ezekiel Escamilla,,2,4,4,9,3,1,0,0,,,2017,5sHD,5,1,1095sHD_17
+111,AM,Tim McKinstry,,1,1,1,4,2,1,0,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,1,2,3,1,0,2,3,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,1,3,7,3,1,0,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,1,4,2,1,0,0,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,2,1,2,1,0,0,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,2,2,3,1,0,1,2,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,2,3,13,3,0,0,0,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,2,4,0,0,0,0,0,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,3,1,5,1,0,0,2,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,3,2,3,1,0,2,3,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,3,3,8,3,3,0,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,3,4,2,1,0,1,2,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,4,1,2,1,1,1,1,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,4,2,6,2,0,4,5,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,4,3,8,3,4,0,0,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,1,4,4,1,1,0,0,0,,,2017,10sMA,7,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,1,1,3,1,1,0,1,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,1,2,2,2,0,2,2,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,1,3,7,4,1,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,1,4,0,0,0,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,2,1,3,3,1,2,3,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,2,2,5,3,2,2,3,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,2,3,8,3,1,2,3,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,2,4,0,0,0,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,3,1,10,1,5,2,3,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,3,2,0,0,0,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,3,3,21,10,3,0,2,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,3,4,2,2,0,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,4,1,13,1,0,7,8,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,4,2,5,3,0,3,5,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,4,3,33,9,5,0,0,,,2017,10sMA,8,1,111 10sMA_17
+111,AM,Tim McKinstry,,2,4,4,3,0,0,2,2,,,2017,10sMA,8,1,111 10sMA_17
+111,PM,Mike Battle,,1,1,1,10,2,0,3,6,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,1,2,3,1,0,0,3,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,1,3,6,4,1,0,0,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,1,4,26,9,3,4,4,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,2,1,8,2,1,2,7,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,2,2,7,2,1,3,4,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,2,3,11,3,0,2,3,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,2,4,17,7,3,1,2,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,3,1,3,0,0,0,3,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,3,2,7,2,3,0,4,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,3,3,4,2,0,0,0,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,3,4,21,9,4,3,5,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,4,1,2,1,0,0,0,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,4,2,2,0,0,0,1,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,4,3,4,1,0,1,2,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,1,4,4,8,4,0,0,1,,,2017,10sMA,4,1,111 10sMA_17
+111,PM,Mike Battle,,2,1,1,7,2,5,0,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,1,2,4,0,3,0,0,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,1,3,0,0,0,0,0,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,1,4,1,1,0,1,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,2,1,5,0,3,0,0,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,2,2,1,0,0,0,0,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,2,3,3,1,0,1,3,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,2,4,1,0,0,0,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,3,1,16,7,12,1,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,3,2,8,5,7,0,0,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,3,3,3,0,1,1,3,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,3,4,2,0,0,1,2,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,4,1,10,2,7,0,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,4,2,2,0,0,1,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,4,3,1,0,0,0,1,,,2017,10sMA,5,1,111 10sMA_17
+111,PM,Mike Battle,,2,4,4,0,0,0,0,0,,,2017,10sMA,5,1,111 10sMA_17
+113,AM,David Blakeman,,1,1,1,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,1,2,2,0,2,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,1,3,4,0,2,0,1,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,1,4,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,2,1,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,2,2,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,2,3,6,5,1,1,1,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,2,4,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,3,1,2,0,0,1,2,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,3,2,1,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,3,3,4,3,1,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,3,4,2,0,1,1,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,4,1,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,4,2,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,4,3,9,4,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,1,4,4,0,0,0,0,0,,,2017,13sMA,7,1,113 13sMA_17
+113,AM,David Blakeman,,2,1,1,3,2,1,2,3,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,1,2,0,0,0,0,0,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,1,3,8,2,1,0,0,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,1,4,2,1,2,1,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,2,1,4,1,0,2,2,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,2,2,1,0,0,1,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,2,3,9,5,2,0,2,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,2,4,0,0,0,0,0,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,3,1,2,2,2,0,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,3,2,2,0,1,0,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,3,3,12,3,5,1,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,3,4,2,1,0,1,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,4,1,4,0,1,0,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,4,2,1,0,0,1,1,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,4,3,24,6,3,6,6,,,2017,13sMA,8,1,113 13sMA_17
+113,AM,David Blakeman,,2,4,4,1,0,0,0,0,,,2017,13sMA,8,1,113 13sMA_17
+114,AM,William Terrance,,1,1,1,2,0,2,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,1,2,0,0,0,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,1,3,0,0,0,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,1,4,1,0,0,1,1,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,2,1,5,2,3,0,2,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,2,2,2,0,1,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,2,3,2,0,0,0,2,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,2,4,1,0,0,0,1,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,3,1,2,0,2,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,3,2,2,0,1,0,1,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,3,3,0,0,0,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,3,4,3,0,1,1,2,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,4,1,4,2,3,0,1,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,4,2,2,0,0,1,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,4,3,4,1,1,1,3,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,1,4,4,2,2,1,0,0,,,2017,13sHD,7,1,114 13sHD_17
+114,AM,William Terrance,,2,1,1,2,2,1,1,1,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,1,2,1,1,1,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,1,3,6,2,1,0,1,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,1,4,0,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,2,1,4,1,1,0,2,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,2,2,1,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,2,3,1,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,2,4,2,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,3,1,2,1,1,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,3,2,1,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,3,3,6,2,2,0,1,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,3,4,0,0,0,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,4,1,5,2,3,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,4,2,1,0,1,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,4,3,6,2,1,0,1,,,2017,13sHD,8,1,114 13sHD_17
+114,AM,William Terrance,,2,4,4,3,1,1,0,0,,,2017,13sHD,8,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,1,1,1,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,1,2,3,0,0,1,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,1,3,2,0,1,0,1,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,1,4,9,3,3,0,2,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,2,1,4,0,0,2,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,2,2,1,0,1,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,2,3,0,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,2,4,9,3,3,3,2,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,3,1,2,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,3,2,2,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,3,3,1,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,3,4,5,2,1,2,2,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,4,1,1,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,4,2,2,0,0,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,4,3,2,1,1,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,1,4,4,4,0,1,0,0,,,2017,13sHD,4,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,1,1,2,0,1,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,1,2,1,1,1,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,1,3,2,1,0,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,1,4,6,2,1,1,2,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,2,1,1,1,0,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,2,2,3,0,2,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,2,3,0,0,0,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,2,4,5,0,0,1,1,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,3,1,3,2,2,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,3,2,1,0,0,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,3,3,1,1,0,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,3,4,1,0,1,1,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,4,1,1,0,0,1,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,4,2,2,1,1,0,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,4,3,3,0,1,1,0,,,2017,13sHD,5,1,114 13sHD_17
+114,PM,Tiffany Bruno,,2,4,4,4,1,1,2,2,,,2017,13sHD,5,1,114 13sHD_17
+115,AM,"Lauren Kuby, Chris Messer",,1,1,1,1,0,1,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,1,2,4,0,1,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,1,3,1,0,0,1,1,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,1,4,5,1,1,2,2,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,2,1,6,2,2,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,2,2,9,2,0,6,5,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,2,3,6,3,1,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,2,4,16,5,0,4,9,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,3,1,8,2,1,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,3,2,4,0,0,3,1,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,3,3,7,0,0,1,2,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,3,4,5,1,0,0,2,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,4,1,4,1,3,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,4,2,7,1,0,0,2,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,4,3,7,3,0,0,0,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,1,4,4,7,1,0,0,3,,,2017,UCA,7,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,1,1,4,2,0,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,1,2,4,3,3,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,1,3,5,1,2,0,1,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,1,4,6,0,0,0,4,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,2,1,8,3,2,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,2,2,15,4,3,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,2,3,13,3,2,0,3,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,2,4,16,4,0,1,8,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,3,1,7,2,2,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,3,2,24,7,3,5,10,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,3,3,7,1,0,1,2,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,3,4,22,9,2,8,12,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,4,1,10,2,0,0,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,4,2,50,14,3,4,4,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,4,3,23,3,2,2,0,,,2017,UCA,8,1,115_UCA_17
+115,AM,"Lauren Kuby, Chris Messer",,2,4,4,62,19,0,24,29,,,2017,UCA,8,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,1,1,10,4,0,0,0,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,1,2,17,5,3,7,8,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,1,3,14,4,0,2,2,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,1,4,9,2,0,6,6,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,2,1,29,4,0,0,0,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,2,2,43,8,0,5,13,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,2,3,21,5,1,2,8,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,2,4,27,3,3,17,19,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,3,1,11,4,1,0,0,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,3,2,22,5,2,1,5,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,3,3,5,1,0,0,0,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,3,4,8,2,1,4,6,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,4,1,14,4,1,0,0,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,4,2,16,3,1,2,4,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,4,3,7,1,1,0,3,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,1,4,4,10,0,0,9,8,,,2017,UCA,4,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,1,1,15,2,3,0,0,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,1,2,18,1,3,0,5,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,1,3,8,2,0,1,3,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,1,4,12,3,1,8,10,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,2,1,12,0,2,0,0,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,2,2,21,3,3,0,0,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,2,3,8,0,0,2,3,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,2,4,7,3,1,3,4,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,3,1,13,5,2,0,0,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,3,2,22,3,3,1,5,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,3,3,4,1,0,0,2,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,3,4,17,4,0,9,12,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,4,1,25,4,3,0,0,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,4,2,22,3,0,1,7,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,4,3,24,8,2,2,4,,,2017,UCA,5,1,115_UCA_17
+115,PM,"Michael Morgan, Stevie",,2,4,4,34,6,4,10,15,,,2017,UCA,5,1,115_UCA_17
+116,AM,Stevie,,1,1,1,0,0,0,0,0,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,1,2,2,1,0,0,1,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,1,3,3,2,1,1,2,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,1,4,4,1,2,1,3,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,2,1,1,0,0,1,1,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,2,2,0,0,0,0,0,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,2,3,2,2,0,1,2,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,2,4,6,0,1,4,4,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,3,1,1,0,1,1,1,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,3,2,0,0,0,0,0,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,3,3,2,2,0,1,2,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,3,4,6,0,1,4,4,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,4,1,1,0,0,0,0,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,4,2,0,0,0,0,0,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,4,3,2,0,1,0,1,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,1,4,4,5,0,0,4,5,,,2017,UDL,7,1,116 UDL_17
+116,AM,Stevie,,2,1,1,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,1,2,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,1,3,2,0,0,1,2,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,1,4,2,1,0,1,1,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,2,1,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,2,2,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,2,3,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,2,4,9,1,0,7,9,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,3,1,1,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,3,2,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,3,3,2,1,0,0,2,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,3,4,28,13,1,20,21,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,4,1,3,1,0,1,1,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,4,2,0,0,0,0,0,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,4,3,2,0,0,0,2,,,2017,UDL,8,1,116 UDL_17
+116,AM,Stevie,,2,4,4,21,7,1,14,16,,,2017,UDL,8,1,116 UDL_17
+117,AM,Mike Morningstar,,1,1,1,3,1,0,0,2,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,1,2,3,1,0,0,3,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,1,3,4,1,0,1,2,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,1,4,8,5,1,5,5,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,2,1,10,8,0,1,10,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,2,2,8,7,1,1,8,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,2,3,5,2,0,4,4,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,2,4,21,6,0,16,19,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,3,1,2,1,0,0,2,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,3,2,3,0,0,3,3,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,3,3,0,0,0,0,0,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,3,4,17,3,0,14,15,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,4,1,2,1,1,1,2,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,4,2,3,2,0,2,3,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,4,3,7,3,1,2,4,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,1,4,4,16,3,0,14,16,,,2017,URR,7,1,117 URR_17
+117,AM,Mike Morningstar,,2,1,1,3,0,0,0,3,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,1,2,3,1,0,1,3,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,1,3,2,1,0,0,1,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,1,4,18,6,0,14,17,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,2,1,4,1,0,0,3,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,2,2,3,3,2,1,2,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,2,3,7,5,0,0,5,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,2,4,12,4,1,7,11,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,3,1,8,1,0,3,8,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,3,2,4,0,0,2,4,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,3,3,3,0,0,0,1,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,3,4,25,11,1,18,21,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,4,1,8,1,0,3,8,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,4,2,5,2,0,4,5,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,4,3,6,1,0,2,3,,,2017,URR,8,1,117 URR_17
+117,AM,Mike Morningstar,,2,4,4,51,22,0,40,49,,,2017,URR,8,1,117 URR_17
+118,AM,Sarah Grumbley,,1,1,1,7,4,5,0,0,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,1,2,3,0,0,1,1,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,1,3,3,1,0,1,3,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,1,4,1,0,0,0,0,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,2,1,6,3,2,0,2,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,2,2,9,3,2,4,5,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,2,3,19,4,3,2,4,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,2,4,2,1,0,1,1,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,3,1,3,0,1,2,2,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,3,2,4,0,1,0,0,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,3,3,7,1,1,1,1,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,3,4,0,0,0,0,0,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,4,1,3,0,0,2,2,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,4,2,7,4,3,1,1,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,4,3,9,4,1,1,3,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,1,4,4,2,0,0,1,1,,,2017,UMA,7,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,1,1,1,0,0,0,0,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,1,2,5,0,1,2,3,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,1,3,7,0,0,0,3,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,1,4,1,1,0,1,1,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,2,1,9,3,2,2,2,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,2,2,8,4,1,5,4,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,2,3,15,7,2,2,2,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,2,4,3,0,0,2,2,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,3,1,21,4,14,0,0,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,3,2,6,1,2,3,3,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,3,3,9,1,3,2,3,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,3,4,5,0,0,2,2,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,4,1,5,1,1,0,0,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,4,2,10,6,1,4,4,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,4,3,46,9,3,8,13,,,2017,UMA,8,1,118 UMA_17
+118,AM,Sarah Grumbley,,2,4,4,3,0,0,2,2,,,2017,UMA,8,1,118 UMA_17
+118,PM,Kelly Nelson,,1,1,1,10,3,2,4,6,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,1,2,7,1,0,2,6,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,1,3,9,1,0,1,3,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,1,4,19,5,1,6,12,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,2,1,15,6,0,6,11,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,2,2,8,1,1,4,5,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,2,3,10,0,0,2,10,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,2,4,23,9,1,10,13,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,3,1,7,2,0,2,5,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,3,2,13,1,3,2,6,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,3,3,8,0,0,4,6,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,3,4,22,5,1,5,12,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,4,1,5,1,0,1,1,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,4,2,9,0,3,4,4,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,4,3,9,1,2,5,8,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,1,4,4,9,1,3,4,6,,,2017,UMA,4,1,118 UMA_17
+118,PM,Kelly Nelson,,2,1,1,10,2,0,6,7,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,1,2,6,3,0,2,3,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,1,3,5,0,1,0,3,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,1,4,10,2,1,4,6,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,2,1,5,1,2,2,3,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,2,2,17,2,4,5,10,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,2,3,4,0,0,1,4,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,2,4,11,2,0,2,4,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,3,1,8,2,2,3,2,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,3,2,7,1,0,3,4,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,3,3,7,0,2,0,6,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,3,4,15,4,0,5,10,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,4,1,10,2,0,4,6,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,4,2,6,0,1,2,2,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,4,3,6,0,1,2,5,,,2017,UMA,5,1,118 UMA_17
+118,PM,Kelly Nelson,,2,4,4,24,6,3,15,16,,,2017,UMA,5,1,118 UMA_17
+119,AM,Mike Mornigstar,,1,1,1,1,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,1,2,0,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,1,3,3,1,0,0,1,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,1,4,0,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,2,1,3,1,0,1,2,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,2,2,2,1,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,2,3,10,2,2,1,1,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,2,4,3,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,3,1,3,1,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,3,2,1,0,0,1,1,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,3,3,6,2,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,3,4,0,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,4,1,1,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,4,2,0,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,4,3,7,2,0,1,2,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,1,4,4,1,0,0,0,0,,,2017,UAA,7,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,1,1,1,0,0,0,1,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,1,2,1,0,0,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,1,3,4,0,0,1,1,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,1,4,0,0,0,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,2,1,1,0,1,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,2,2,3,0,1,0,1,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,2,3,10,6,0,1,1,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,2,4,2,0,0,0,1,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,3,1,0,0,0,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,3,2,1,1,1,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,3,3,8,1,2,3,3,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,3,4,5,0,1,2,2,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,4,1,1,1,1,0,0,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,4,2,6,1,1,1,4,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,4,3,30,4,4,9,11,,,2017,UAA,8,1,119 UAA_17
+119,AM,Mike Mornigstar,,2,4,4,2,0,0,0,0,,,2017,UAA,8,1,119 UAA_17
+119,PM,William Terrance,,1,1,1,3,0,0,2,3,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,1,2,4,0,2,2,2,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,1,3,6,1,2,2,2,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,1,4,10,1,2,1,4,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,2,1,3,1,1,0,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,2,2,1,0,0,0,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,2,3,9,1,1,4,4,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,2,4,9,2,3,1,2,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,3,1,7,1,0,2,5,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,3,2,5,0,1,1,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,3,3,4,0,0,0,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,3,4,16,3,2,4,5,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,4,1,2,0,0,0,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,4,2,2,0,0,0,0,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,4,3,7,0,2,1,1,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,1,4,4,9,0,2,2,3,,,2017,UAA,4,1,119 UAA_17
+119,PM,William Terrance,,2,1,1,0,0,0,0,0,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,1,2,3,1,1,2,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,1,3,2,0,0,1,1,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,1,4,13,5,1,5,6,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,2,1,2,1,0,0,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,2,2,3,0,1,1,1,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,2,3,6,0,1,0,0,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,2,4,13,5,1,6,7,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,3,1,5,1,0,1,4,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,3,2,5,3,0,0,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,3,3,6,0,0,2,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,3,4,13,5,0,6,7,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,4,1,4,2,0,1,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,4,2,6,0,0,3,5,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,4,3,7,2,1,2,2,,,2017,UAA,5,1,119 UAA_17
+119,PM,William Terrance,,2,4,4,31,7,4,3,5,,,2017,UAA,5,1,119 UAA_17
+120,AM,Mike Mornigstar,,1,1,1,0,0,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,1,2,3,1,0,1,2,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,1,3,6,1,0,1,1,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,1,4,0,0,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,2,1,0,0,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,2,2,3,0,0,2,2,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,2,3,9,2,0,2,3,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,2,4,4,1,1,1,1,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,3,1,2,1,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,3,2,1,0,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,3,3,3,0,0,1,1,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,3,4,1,0,1,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,4,1,1,0,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,4,2,4,0,0,2,2,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,4,3,4,1,0,0,0,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,1,4,4,2,0,0,1,1,,,2017,URS,7,1,120 URS_17
+120,AM,Mike Mornigstar,,2,1,1,0,0,0,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,1,2,0,0,0,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,1,3,3,0,0,1,2,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,1,4,0,0,0,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,2,1,1,0,0,0,1,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,2,2,2,1,0,1,1,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,2,3,6,1,2,0,3,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,2,4,1,0,1,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,3,1,1,0,1,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,3,2,6,1,1,1,2,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,3,3,8,5,2,1,2,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,3,4,3,1,0,1,2,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,4,1,1,1,0,0,0,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,4,2,22,4,0,13,15,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,4,3,23,5,0,6,8,,,2017,URS,8,1,120 URS_17
+120,AM,Mike Mornigstar,,2,4,4,4,1,0,1,1,,,2017,URS,8,1,120 URS_17
+120,PM,Mike Mornigstar,,1,1,1,2,0,1,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,1,2,5,1,0,3,3,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,1,3,6,1,0,1,1,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,1,4,10,2,1,1,7,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,2,1,1,1,0,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,2,2,5,0,1,2,2,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,2,3,12,1,1,2,6,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,2,4,19,3,3,4,4,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,3,1,1,0,0,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,3,2,6,1,2,3,4,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,3,3,6,0,1,0,2,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,3,4,14,4,2,2,5,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,4,1,1,0,0,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,4,2,1,1,0,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,4,3,5,0,2,0,0,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,1,4,4,5,3,1,1,1,,,2017,URS,4,1,120 URS_17
+120,PM,Mike Mornigstar,,2,1,1,0,0,0,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,1,2,3,0,1,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,1,3,3,1,0,1,1,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,1,4,4,0,1,2,3,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,2,1,3,1,0,0,1,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,2,2,2,0,0,2,2,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,2,3,1,0,0,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,2,4,6,2,1,1,2,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,3,1,0,0,0,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,3,2,1,1,0,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,3,3,2,1,0,1,1,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,3,4,6,0,0,2,4,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,4,1,1,1,0,0,1,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,4,2,2,0,0,0,1,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,4,3,4,2,1,0,0,,,2017,URS,5,1,120 URS_17
+120,PM,Mike Mornigstar,,2,4,4,16,5,3,4,7,,,2017,URS,5,1,120 URS_17
+121,PM,Ezekiel Escamilla,,1,1,1,2,1,0,0,0,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,1,2,0,0,0,0,0,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,1,3,0,0,0,0,0,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,1,4,2,1,1,1,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,2,1,2,0,0,1,2,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,2,2,1,0,1,0,0,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,2,3,6,1,2,2,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,2,4,10,2,0,4,7,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,3,1,8,1,1,2,2,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,3,2,1,0,0,1,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,3,3,2,0,0,0,2,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,3,4,4,1,0,0,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,4,1,3,0,1,1,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,4,2,2,1,1,0,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,4,3,3,1,0,0,0,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,1,4,4,4,0,1,1,1,,,2017,UHD,4,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,1,1,1,0,0,1,1,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,1,2,1,1,1,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,1,3,5,0,0,3,3,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,1,4,4,0,0,1,3,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,2,1,1,1,1,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,2,2,0,0,0,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,2,3,2,0,0,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,2,4,3,1,0,1,1,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,3,1,3,1,1,0,1,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,3,2,1,0,1,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,3,3,0,0,0,0,0,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,3,4,8,1,0,0,4,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,4,1,8,2,1,1,3,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,4,2,3,0,1,1,1,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,4,3,1,1,1,1,1,,,2017,UHD,5,1,121 UHD_17
+121,PM,Ezekiel Escamilla,,2,4,4,5,1,0,0,2,,,2017,UHD,5,1,121 UHD_17
+125,AM,Jeff Caslake,,1,1,1,1,1,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,1,2,0,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,1,3,0,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,1,4,6,2,6,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,2,1,0,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,2,2,1,0,1,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,2,3,1,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,2,4,5,0,5,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,3,1,3,0,2,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,3,2,4,3,1,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,3,3,3,0,2,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,3,4,3,0,3,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,4,1,1,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,4,2,1,0,0,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,4,3,3,1,2,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,1,4,4,6,2,4,0,0,,,2017,WCLD,7,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,1,1,0,0,0,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,1,2,5,2,2,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,1,3,1,1,1,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,1,4,8,2,5,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,2,1,5,3,2,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,2,2,0,0,0,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,2,3,2,0,1,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,2,4,5,1,3,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,3,1,2,1,1,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,3,2,2,0,0,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,3,3,0,0,0,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,3,4,6,2,6,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,4,1,1,0,0,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,4,2,2,1,1,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,4,3,2,0,2,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,AM,Jeff Caslake,,2,4,4,4,0,4,0,0,,,2017,WCLD,8,1,125 WCLD_17
+125,PM,Steve Bass,,1,1,1,0,0,0,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,1,2,1,0,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,1,3,4,0,3,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,1,4,3,0,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,2,1,2,1,2,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,2,2,1,1,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,2,3,7,1,6,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,2,4,2,1,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,3,1,1,0,0,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,3,2,1,0,0,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,3,3,4,1,3,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,3,4,5,2,2,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,4,1,2,1,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,4,2,5,0,4,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,4,3,3,0,2,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,1,4,4,4,3,1,0,0,,,2017,WCLD,4,1,125 WCLD_17
+125,PM,Steve Bass,,2,1,1,0,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,1,2,2,1,1,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,1,3,4,2,1,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,1,4,1,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,2,1,0,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,2,2,3,1,3,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,2,3,12,3,4,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,2,4,4,1,3,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,3,1,2,1,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,3,2,0,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,3,3,7,5,6,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,3,4,0,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,4,1,1,0,1,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,4,2,1,0,0,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,4,3,10,2,7,0,0,,,2017,WCLD,5,1,125 WCLD_17
+125,PM,Steve Bass,,2,4,4,2,0,1,0,0,,,2017,WCLD,5,1,125 WCLD_17
+128,AM,Kip Goldman,,1,1,1,1,1,1,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,1,2,0,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,1,3,0,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,1,4,1,0,1,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,2,1,3,0,1,1,1,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,2,2,3,1,0,1,2,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,2,3,1,0,1,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,2,4,2,1,1,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,3,1,2,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,3,2,0,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,3,3,0,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,3,4,1,0,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,4,1,3,1,1,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,4,2,2,1,0,1,2,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,4,3,3,1,0,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,1,4,4,3,1,2,0,0,,,2017,AdMD,7,1,128 AdMD_17
+128,AM,Kip Goldman,,2,1,1,1,0,0,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,1,2,1,0,0,0,1,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,1,3,1,0,1,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,1,4,4,2,2,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,2,1,2,0,1,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,2,2,1,0,1,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,2,3,0,0,0,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,2,4,2,1,2,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,3,1,2,2,0,0,1,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,3,2,1,1,0,0,1,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,3,3,0,0,0,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,3,4,1,0,0,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,4,1,1,0,1,0,1,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,4,2,2,0,0,1,1,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,4,3,0,0,0,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,AM,Kip Goldman,,2,4,4,1,0,1,0,0,,,2017,AdMD,8,1,128 AdMD_17
+128,PM,William Terrance,,1,1,1,0,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,1,2,2,0,2,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,1,3,1,0,1,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,1,4,1,1,0,0,1,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,2,1,0,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,2,2,2,1,1,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,2,3,5,3,5,0,1,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,2,4,0,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,3,1,0,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,3,2,3,1,1,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,3,3,2,1,2,0,1,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,3,4,0,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,4,1,1,0,0,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,4,2,1,0,1,0,0,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,4,3,1,0,0,1,1,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,1,4,4,1,1,0,0,1,,,2017,AdMD,4,1,128 AdMD_17
+128,PM,William Terrance,,2,1,1,1,0,1,1,1,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,1,2,3,1,0,1,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,1,3,2,1,2,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,1,4,0,0,0,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,2,1,4,1,0,2,4,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,2,2,3,1,0,1,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,2,3,3,0,1,0,1,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,2,4,1,0,0,0,1,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,3,1,0,0,0,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,3,2,2,1,2,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,3,3,0,0,0,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,3,4,0,0,0,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,4,1,1,0,0,1,1,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,4,2,1,0,1,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,4,3,2,0,2,0,0,,,2017,AdMD,5,1,128 AdMD_17
+128,PM,William Terrance,,2,4,4,0,0,0,0,0,,,2017,AdMD,5,1,128 AdMD_17
+129,AM,Kathy Runck,,1,1,1,2,0,0,0,1,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,1,2,2,0,0,0,2,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,1,3,2,0,2,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,1,4,2,0,0,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,2,1,1,0,0,0,1,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,2,2,2,0,1,0,2,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,2,3,1,0,1,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,2,4,0,0,0,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,3,1,0,0,0,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,3,2,3,0,0,1,2,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,3,3,1,1,0,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,3,4,1,0,1,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,4,1,1,0,0,0,1,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,4,2,1,0,0,0,1,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,4,3,8,1,5,0,1,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,1,4,4,1,1,1,0,0,,,2017,AdRR,7,1,129 AdRR_17
+129,AM,Kathy Runck,,2,1,1,1,0,0,0,1,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,1,2,0,0,0,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,1,3,4,0,1,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,1,4,1,1,0,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,2,1,0,0,0,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,2,2,3,1,0,3,3,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,2,3,4,0,2,0,1,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,2,4,0,0,0,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,3,1,3,0,0,0,3,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,3,2,4,0,0,0,4,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,3,3,7,5,5,0,1,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,3,4,1,0,1,0,0,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,4,1,3,0,0,0,3,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,4,2,5,3,1,1,4,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,4,3,9,1,2,0,1,,,2017,AdRR,8,1,129 AdRR_17
+129,AM,Kathy Runck,,2,4,4,2,1,0,0,1,,,2017,AdRR,8,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,1,1,3,0,1,0,3,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,1,2,3,1,0,3,3,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,1,3,1,1,1,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,1,4,2,1,1,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,2,1,3,1,1,1,3,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,2,2,5,1,0,1,5,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,2,3,3,0,1,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,2,4,1,1,1,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,3,1,5,0,0,1,5,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,3,2,3,0,0,3,3,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,3,3,1,0,0,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,3,4,2,0,0,0,1,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,4,1,1,0,0,1,1,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,4,2,3,1,1,1,3,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,4,3,2,2,1,0,1,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,1,4,4,1,1,0,0,0,,,2017,AdRR,4,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,1,1,4,1,1,1,4,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,1,2,2,1,0,1,2,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,1,3,1,0,0,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,1,4,7,0,3,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,2,1,3,0,0,0,3,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,2,2,5,1,0,3,5,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,2,3,8,1,5,1,1,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,2,4,1,0,0,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,3,1,3,0,1,0,3,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,3,2,3,2,0,0,3,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,3,3,4,1,3,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,3,4,3,1,2,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,4,1,6,0,1,3,5,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,4,2,2,0,0,1,2,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,4,3,13,3,12,0,0,,,2017,AdRR,5,1,129 AdRR_17
+129,PM,Mark Eastwood,,2,4,4,2,0,1,0,0,,,2017,AdRR,5,1,129 AdRR_17
+130,AM,Raymond Frey,,1,1,1,1,0,1,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,1,2,1,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,1,3,1,0,0,1,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,1,4,1,0,0,1,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,2,1,0,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,2,2,0,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,2,3,1,1,0,0,1,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,2,4,1,0,1,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,3,1,2,0,1,1,1,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,3,2,1,0,1,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,3,3,1,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,3,4,0,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,4,1,5,4,3,0,3,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,4,2,0,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,4,3,0,0,0,0,0,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,1,4,4,1,0,0,0,1,,,2017,AdCW,7,1,130 AdCW_17
+130,AM,Raymond Frey,,2,1,1,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,1,2,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,1,3,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,1,4,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,2,1,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,2,2,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,2,3,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,2,4,2,1,2,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,3,1,1,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,3,2,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,3,3,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,3,4,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,4,1,1,0,1,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,4,2,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,4,3,0,0,0,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,AM,Raymond Frey,,2,4,4,2,0,2,0,0,,,2017,AdCW,8,1,130 AdCW_17
+130,PM,Scott Williams,,1,1,1,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,1,2,1,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,1,3,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,1,4,3,2,2,1,2,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,2,1,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,2,2,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,2,3,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,2,4,2,0,0,1,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,3,1,2,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,3,2,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,3,3,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,3,4,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,4,1,1,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,4,2,1,1,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,4,3,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,1,4,4,0,0,0,0,0,,,2017,AdCW,4,1,130 AdCW_17
+130,PM,Scott Williams,,2,1,1,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,1,2,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,1,3,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,1,4,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,2,1,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,2,2,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,2,3,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,2,4,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,3,1,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,3,2,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,3,3,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,3,4,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,4,1,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,4,2,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,4,3,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+130,PM,Scott Williams,,2,4,4,0,0,0,0,0,,,2017,AdCW,5,1,130 AdCW_17
+131,AM,Michael Morgan,,1,1,1,0,0,0,0,0,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,1,2,12,0,0,4,11,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,1,3,3,0,0,2,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,1,4,9,5,1,2,6,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,2,1,7,1,0,3,7,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,2,2,3,0,0,1,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,2,3,2,0,0,1,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,2,4,10,3,2,2,5,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,3,1,4,1,0,1,3,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,3,2,1,1,0,1,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,3,3,1,0,0,0,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,3,4,3,0,1,0,2,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,4,1,19,4,3,8,16,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,4,2,1,0,0,0,1,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,4,3,4,0,0,2,3,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,1,4,4,11,5,0,5,9,,,2017,ApRR,7,1,131 ApRR_17
+131,AM,Michael Morgan,,2,1,1,4,3,0,1,4,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,1,2,1,0,0,1,1,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,1,3,3,1,0,2,2,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,1,4,7,4,4,2,4,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,2,1,18,3,4,5,18,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,2,2,5,0,0,0,4,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,2,3,2,2,0,2,2,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,2,4,11,5,1,1,5,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,3,1,33,13,1,4,33,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,3,2,2,0,0,1,2,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,3,3,1,1,0,0,0,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,3,4,25,9,0,14,19,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,4,1,29,6,2,2,28,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,4,2,3,1,0,1,3,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,4,3,2,0,0,0,0,,,2017,ApRR,8,1,131 ApRR_17
+131,AM,Michael Morgan,,2,4,4,39,14,2,15,25,,,2017,ApRR,8,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,1,1,6,3,0,3,6,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,1,2,13,4,0,2,13,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,1,3,20,10,0,9,14,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,1,4,8,3,0,3,7,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,2,1,4,2,0,2,2,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,2,2,25,5,3,7,25,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,2,3,27,7,4,12,18,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,2,4,8,3,0,4,7,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,3,1,6,2,0,1,6,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,3,2,9,3,1,1,8,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,3,3,13,7,0,5,10,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,3,4,2,0,1,1,0,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,4,1,12,2,1,2,9,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,4,2,13,3,2,0,13,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,4,3,16,5,0,6,10,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,1,4,4,8,3,1,8,8,,,2017,ApRR,4,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,1,1,12,3,1,2,11,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,1,2,14,8,0,3,14,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,1,3,16,3,3,5,11,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,1,4,6,2,0,3,5,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,2,1,7,1,0,2,6,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,2,2,14,5,1,3,14,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,2,3,18,6,1,8,12,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,2,4,10,2,0,4,7,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,3,1,5,1,1,2,5,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,3,2,14,1,4,4,14,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,3,3,12,4,2,4,6,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,3,4,8,6,0,1,6,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,4,1,7,1,1,1,6,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,4,2,17,3,3,5,17,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,4,3,16,7,2,8,12,,,2017,ApRR,5,1,131 ApRR_17
+131,PM,Mike Morningstar,,2,4,4,14,6,1,6,12,,,2017,ApRR,5,1,131 ApRR_17
+132,PM,Stevie Milne,,1,1,1,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,1,2,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,1,3,7,1,1,3,4,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,1,4,8,1,1,2,4,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,2,1,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,2,2,2,0,1,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,2,3,12,4,2,6,6,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,2,4,10,2,0,0,3,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,3,1,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,3,2,4,0,1,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,3,3,13,1,4,5,6,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,3,4,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,4,1,0,0,0,0,0,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,4,2,2,0,0,0,1,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,4,3,13,2,4,5,5,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,1,4,4,4,0,0,0,1,,,2017,ApDL,4,1,132 ApDL_17
+132,PM,Stevie Milne,,2,1,1,0,0,0,0,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,1,2,3,0,0,0,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,1,3,13,5,0,5,5,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,1,4,7,1,2,0,1,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,2,1,0,0,0,0,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,2,2,3,0,1,1,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,2,3,6,3,1,1,1,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,2,4,3,0,0,2,2,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,3,1,0,0,0,0,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,3,2,3,1,1,1,2,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,3,3,9,2,2,6,6,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,3,4,7,0,0,3,4,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,4,1,1,1,1,0,0,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,4,2,3,1,0,0,1,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,4,3,12,1,1,6,6,,,2017,ApDL,5,1,132 ApDL_17
+132,PM,Stevie Milne,,2,4,4,4,0,0,2,2,,,2017,ApDL,5,1,132 ApDL_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,1,1,22,8,9,0,3,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,1,2,1,0,1,0,1,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,1,3,2,1,1,1,1,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,1,4,10,3,5,0,2,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,2,1,23,5,7,3,3,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,2,2,1,0,1,0,0,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,2,3,3,3,3,0,0,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,2,4,16,8,1,3,8,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,3,1,23,6,9,1,1,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,3,2,0,0,0,0,0,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,3,3,1,0,1,0,0,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,3,4,3,2,1,0,0,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,4,1,37,14,14,3,3,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,4,2,2,1,1,0,1,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,4,3,3,3,1,1,1,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,1,4,4,7,4,1,1,3,,,2017,ApCA,7,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,1,1,29,5,12,0,2,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,1,2,0,0,0,0,0,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,1,3,4,2,2,0,1,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,1,4,4,2,4,0,0,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,2,1,30,6,10,2,4,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,2,2,4,1,3,0,0,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,2,3,3,1,1,0,0,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,2,4,8,2,2,1,2,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,3,1,41,17,15,1,3,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,3,2,15,2,13,0,0,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,3,3,4,1,1,2,2,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,3,4,23,13,3,2,5,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,4,1,105,41,23,2,11,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,4,2,2,1,0,1,1,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,4,3,13,5,1,2,6,,,2017,ApCA,8,2,133 ApCA_17
+133,AM,Jeff Caslake. Mark Eastwood,,2,4,4,44,15,2,10,15,,,2017,ApCA,8,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,1,1,8,0,2,0,1,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,1,2,22,4,3,1,1,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,1,3,11,2,3,3,6,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,1,4,7,2,0,3,3,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,2,1,11,4,1,1,3,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,2,2,38,8,8,5,7,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,2,3,19,10,1,2,3,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,2,4,12,6,1,1,6,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,3,1,11,3,1,1,1,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,3,2,29,15,9,2,2,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,3,3,8,4,0,2,1,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,3,4,6,2,1,2,3,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,4,1,7,0,0,1,3,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,4,2,24,10,5,2,2,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,4,3,5,4,0,1,2,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,1,4,4,1,0,0,0,0,,,2017,ApCA,4,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,1,1,3,0,0,0,1,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,1,2,37,8,15,3,4,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,1,3,8,2,2,0,3,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,1,4,4,3,0,1,2,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,2,1,3,1,1,0,1,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,2,2,31,9,13,3,4,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,2,3,8,1,1,2,2,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,2,4,9,2,2,5,5,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,3,1,7,1,2,0,2,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,3,2,37,15,12,2,3,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,3,3,6,4,0,1,2,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,3,4,10,4,0,3,5,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,4,1,16,4,2,0,1,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,4,2,45,12,10,8,10,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,4,3,15,8,3,6,8,,,2017,ApCA,5,2,133 ApCA_17
+133,PM,"Ariel Briscoe, Tom Walling",,2,4,4,12,6,1,4,8,,,2017,ApCA,5,2,133 ApCA_17
+134,AM,Mark Eastwood,,1,1,1,5,1,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,1,2,0,0,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,1,3,1,0,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,1,4,9,5,2,0,5,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,2,1,9,1,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,2,2,1,0,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,2,3,2,2,0,1,2,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,2,4,22,8,3,6,9,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,3,1,2,0,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,3,2,2,1,1,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,3,3,2,0,0,0,1,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,3,4,7,1,1,4,3,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,4,1,14,3,2,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,4,2,4,1,0,0,0,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,4,3,4,3,1,1,1,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,1,4,4,10,4,1,3,7,,,2017,ApPDS,7,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,1,1,10,3,1,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,1,2,6,0,3,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,1,3,6,3,2,0,3,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,1,4,8,4,2,3,5,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,2,1,15,2,0,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,2,2,0,0,0,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,2,3,6,1,3,1,5,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,2,4,16,7,3,7,10,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,3,1,34,15,1,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,3,2,2,0,0,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,3,3,3,1,0,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,3,4,43,16,1,24,22,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,4,1,56,17,3,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,4,2,13,3,0,0,0,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,4,3,6,3,0,1,3,,,2017,ApPDS,8,1,134 ApPDS_17
+134,AM,Mark Eastwood,,2,4,4,61,16,2,20,23,,,2017,ApPDS,8,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,1,1,16,7,0,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,1,2,31,10,0,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,1,3,22,5,2,6,11,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,1,4,14,5,0,2,5,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,2,1,23,3,1,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,2,2,33,10,1,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,2,3,33,10,3,8,17,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,2,4,19,5,0,9,17,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,3,1,8,1,0,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,3,2,23,9,2,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,3,3,29,12,0,4,15,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,3,4,8,3,0,5,6,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,4,1,8,1,0,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,4,2,17,5,0,0,0,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,4,3,6,2,0,2,5,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,1,4,4,11,3,1,5,5,,,2017,ApPDS,4,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,1,1,16,2,2,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,1,2,17,6,0,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,1,3,21,7,2,4,12,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,1,4,8,3,0,4,7,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,2,1,11,5,1,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,2,2,21,6,1,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,2,3,21,6,1,4,11,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,2,4,13,4,0,9,9,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,3,1,9,2,1,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,3,2,21,8,0,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,3,3,15,7,2,4,9,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,3,4,17,6,0,8,12,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,4,1,17,3,0,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,4,2,45,9,0,0,0,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,4,3,39,14,0,11,30,,,2017,ApPDS,5,1,134 ApPDS_17
+134,PM,Mark Eastwood,,2,4,4,22,8,0,9,12,,,2017,ApPDS,5,1,134 ApPDS_17
+135,AM,kip goldman,,1,1,1,1,0,0,0,1,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,1,2,0,0,0,0,0,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,1,3,2,0,0,0,0,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,1,4,3,1,0,0,0,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,2,1,7,1,1,7,2,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,2,2,3,0,1,1,3,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,2,3,2,1,1,1,0,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,2,4,23,8,3,4,6,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,3,1,10,5,1,7,6,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,3,2,1,0,0,0,1,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,3,3,5,4,1,4,2,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,3,4,5,4,0,0,1,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,4,1,5,3,0,2,4,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,4,2,5,1,1,1,5,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,4,3,2,0,0,1,1,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,1,4,4,15,3,1,1,4,,,2017,LRR,7,1,135 LeRR_17
+135,AM,kip goldman,,2,1,1,5,0,0,4,4,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,1,2,2,0,0,1,2,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,1,3,2,0,0,1,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,1,4,15,5,5,2,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,2,1,1,0,0,0,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,2,2,2,0,0,1,2,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,2,3,2,0,0,1,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,2,4,14,4,1,1,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,3,1,6,2,0,5,4,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,3,2,1,0,0,0,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,3,3,5,1,0,1,1,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,3,4,16,2,1,0,0,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,4,1,22,6,0,9,18,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,4,2,0,0,0,0,0,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,4,3,7,0,1,0,0,,,2017,LRR,8,1,135 LeRR_17
+135,AM,kip goldman,,2,4,4,92,26,3,4,6,,,2017,LRR,8,1,135 LeRR_17
+136,AM,Nancy Buell,,1,1,1,15,4,3,0,11,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,1,2,2,0,0,2,2,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,1,3,0,0,0,0,0,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,1,4,2,0,0,0,2,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,2,1,11,3,1,0,10,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,2,2,1,0,0,0,0,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,2,3,2,0,0,0,2,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,2,4,2,0,0,0,2,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,3,1,12,1,2,2,9,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,3,2,3,0,0,2,3,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,3,3,3,0,0,0,3,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,3,4,1,0,0,0,1,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,4,1,10,6,0,1,9,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,4,2,5,1,0,2,5,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,4,3,2,1,0,0,1,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,1,4,4,8,3,3,0,7,,,2017,SpRR,7,1,136 SpRR_17
+136,AM,Nancy Buell,,2,1,1,16,3,2,1,15,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,1,2,10,2,3,3,10,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,1,3,1,0,0,0,0,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,1,4,4,1,0,0,4,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,2,1,13,1,3,2,11,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,2,2,2,1,0,0,2,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,2,3,1,1,0,0,0,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,2,4,14,6,1,0,13,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,3,1,22,5,2,1,22,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,3,2,0,0,0,0,0,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,3,3,1,0,0,0,1,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,3,4,8,4,1,0,8,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,4,1,58,9,6,0,51,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,4,2,5,1,0,0,5,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,4,3,2,0,0,0,0,,,2017,SpRR,8,1,136 SpRR_17
+136,AM,Nancy Buell,,2,4,4,45,10,2,0,35,,,2017,SpRR,8,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,1,1,11,2,0,5,11,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,1,2,16,2,2,5,16,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,1,3,12,1,1,5,3,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,1,4,1,0,0,0,1,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,2,1,17,3,1,3,17,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,2,2,18,1,3,5,18,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,2,3,17,3,1,2,2,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,2,4,0,0,0,0,0,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,3,1,8,0,0,1,8,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,3,2,16,7,3,4,16,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,3,3,15,2,1,3,3,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,3,4,0,0,0,0,0,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,4,1,14,4,2,3,13,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,4,2,12,3,3,5,12,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,4,3,8,1,1,2,2,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,1,4,4,1,0,0,0,1,,,2017,SpRR,4,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,1,1,13,3,3,0,12,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,1,2,14,5,1,3,14,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,1,3,8,2,0,0,0,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,1,4,8,1,0,2,7,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,2,1,9,0,1,2,8,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,2,2,13,4,1,4,13,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,2,3,18,4,2,3,2,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,2,4,2,0,0,1,2,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,3,1,11,0,3,3,9,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,3,2,9,1,1,4,9,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,3,3,8,4,1,2,2,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,3,4,0,0,0,0,0,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,4,1,12,2,0,1,12,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,4,2,23,4,3,7,23,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,4,3,32,9,2,4,4,,,2017,SpRR,5,1,136 SpRR_17
+136,PM,Jeff Caslake,,2,4,4,3,1,0,0,2,,,2017,SpRR,5,1,136 SpRR_17
+137,AM,Kristian Doak,,1,1,1,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,1,2,1,0,1,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,1,3,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,1,4,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,2,1,1,1,0,0,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,2,2,2,1,0,1,2,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,2,3,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,2,4,1,0,0,1,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,3,1,3,0,0,1,3,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,3,2,2,0,1,1,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,3,3,1,0,0,0,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,3,4,1,0,1,0,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,4,1,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,4,2,1,0,0,0,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,4,3,0,0,0,0,0,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,1,4,4,1,0,0,1,1,,,2017,BPD,7,1,137 BPD_17
+137,AM,Kristian Doak,,2,1,1,1,0,0,1,1,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,1,2,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,1,3,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,1,4,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,2,1,1,0,0,0,1,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,2,2,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,2,3,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,2,4,1,0,0,0,1,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,3,1,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,3,2,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,3,3,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,3,4,1,0,0,0,1,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,4,1,1,0,1,1,1,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,4,2,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,4,3,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,AM,Kristian Doak,,2,4,4,0,0,0,0,0,,,2017,BPD,8,1,137 BPD_17
+137,PM,Kristian Doak,,1,1,1,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,1,2,1,0,1,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,1,3,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,1,4,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,2,1,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,2,2,2,0,0,1,2,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,2,3,1,0,0,1,1,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,2,4,1,0,0,1,1,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,3,1,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,3,2,2,0,1,1,1,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,3,3,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,3,4,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,4,1,0,0,0,0,0,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,4,2,2,0,0,0,2,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,4,3,1,0,0,1,1,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,1,4,4,2,1,0,1,2,,,2017,BPD,4,1,137 BPD_17
+137,PM,Kristian Doak,,2,1,1,2,0,1,0,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,1,2,1,1,1,1,1,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,1,3,0,0,0,0,0,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,1,4,2,0,0,0,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,2,1,4,1,3,0,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,2,2,2,1,1,1,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,2,3,0,0,0,0,0,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,2,4,2,1,1,1,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,3,1,0,0,0,0,0,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,3,2,2,0,1,0,2,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,3,3,1,0,0,0,1,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,3,4,0,0,0,0,0,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,4,1,0,0,0,0,0,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,4,2,1,0,0,0,1,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,4,3,2,0,2,0,1,,,2017,BPD,5,1,137 BPD_17
+137,PM,Kristian Doak,,2,4,4,2,1,0,1,2,,,2017,BPD,5,1,137 BPD_17
+138,AM,Jeff Caslake,,1,1,1,4,2,0,1,4,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,1,2,0,0,0,0,0,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,1,3,1,0,0,0,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,1,4,1,0,0,0,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,2,1,6,1,2,2,6,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,2,2,2,0,0,1,2,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,2,3,1,1,0,1,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,2,4,3,2,1,1,3,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,3,1,2,1,1,1,2,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,3,2,5,2,1,1,5,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,3,3,2,0,1,1,2,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,3,4,2,0,1,0,2,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,4,1,5,1,0,1,5,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,4,2,1,0,0,0,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,4,3,1,0,0,0,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,1,4,4,1,0,0,1,1,,,2017,BRR,7,1,138 BRR_17
+138,AM,Jeff Caslake,,2,1,1,4,0,1,1,4,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,1,2,2,1,0,1,2,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,1,3,1,0,0,0,1,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,1,4,4,1,1,2,4,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,2,1,4,0,1,1,4,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,2,2,2,0,0,1,2,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,2,3,2,0,1,1,2,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,2,4,3,1,0,2,3,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,3,1,7,0,1,0,7,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,3,2,3,0,1,1,3,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,3,3,3,0,0,1,3,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,3,4,3,0,0,1,3,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,4,1,4,0,0,1,4,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,4,2,4,0,0,1,4,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,4,3,2,1,1,1,2,,,2017,BRR,8,1,138 BRR_17
+138,AM,Jeff Caslake,,2,4,4,2,0,0,2,2,,,2017,BRR,8,1,138 BRR_17
+139,AM,Kristian Doak,,1,1,1,12,4,4,1,1,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,1,2,1,0,1,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,1,3,4,0,1,0,3,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,1,4,0,0,0,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,2,1,18,3,8,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,2,2,3,0,1,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,2,3,2,1,1,2,2,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,2,4,0,0,0,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,3,1,19,7,8,0,1,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,3,2,1,1,0,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,3,3,0,0,0,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,3,4,0,0,0,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,4,1,14,3,4,0,0,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,4,2,1,0,0,0,1,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,4,3,2,0,0,1,2,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,1,4,4,2,0,0,1,1,,,2017,BCA,7,1,139 BCA_17
+139,AM,Kristian Doak,,2,1,1,25,4,7,0,2,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,1,2,4,1,1,1,1,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,1,3,4,1,0,0,3,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,1,4,6,1,1,2,5,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,2,1,27,12,17,0,3,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,2,2,3,0,1,0,0,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,2,3,4,3,1,1,4,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,2,4,3,1,1,1,3,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,3,1,41,11,16,0,4,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,3,2,3,0,1,0,0,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,3,3,3,2,0,1,2,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,3,4,8,1,1,3,6,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,4,1,69,18,18,1,1,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,4,2,5,3,2,0,0,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,4,3,6,2,1,2,6,,,2017,BCA,8,1,139 BCA_17
+139,AM,Kristian Doak,,2,4,4,5,0,0,1,4,,,2017,BCA,8,1,139 BCA_17
+139,PM,Kristian Doak,,1,1,1,10,2,3,1,3,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,1,2,19,6,6,1,5,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,1,3,1,0,0,0,0,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,1,4,4,2,1,2,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,2,1,12,2,2,0,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,2,2,25,5,8,1,5,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,2,3,1,0,0,0,0,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,2,4,3,0,0,1,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,3,1,6,2,1,0,1,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,3,2,32,10,10,1,4,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,3,3,3,0,1,1,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,3,4,6,1,1,1,6,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,4,1,6,2,0,2,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,4,2,16,7,6,0,1,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,4,3,7,2,1,2,4,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,1,4,4,3,1,0,2,2,,,2017,BCA,4,1,139 BCA_17
+139,PM,Kristian Doak,,2,1,1,8,0,1,1,1,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,1,2,24,4,11,1,2,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,1,3,4,1,0,0,3,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,1,4,5,1,0,1,4,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,2,1,1,0,1,0,0,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,2,2,24,3,16,2,4,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,2,3,3,0,1,0,2,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,2,4,1,1,1,0,1,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,3,1,9,2,2,0,2,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,3,2,28,10,8,1,1,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,3,3,3,1,0,1,2,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,3,4,2,0,0,1,2,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,4,1,9,2,1,0,0,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,4,2,42,11,12,3,8,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,4,3,1,0,0,0,1,,,2017,BCA,5,1,139 BCA_17
+139,PM,Kristian Doak,,2,4,4,2,0,0,1,1,,,2017,BCA,5,1,139 BCA_17
+140,AM,Ken St John,,1,1,1,1,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,1,2,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,1,3,1,0,1,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,1,4,1,0,0,0,1,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,2,1,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,2,2,2,0,0,2,1,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,2,3,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,2,4,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,3,1,1,0,0,0,1,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,3,2,1,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,3,3,2,1,1,1,2,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,3,4,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,4,1,1,0,0,0,1,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,4,2,2,0,1,1,1,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,4,3,0,0,0,0,0,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,1,4,4,3,0,1,1,3,,,2017,SPD,7,1,140 SPD_17
+140,AM,Ken St John,,2,1,1,1,0,1,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,1,2,1,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,1,3,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,1,4,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,2,1,2,0,1,1,1,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,2,2,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,2,3,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,2,4,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,3,1,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,3,2,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,3,3,1,0,1,0,1,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,3,4,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,4,1,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,4,2,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,4,3,1,0,0,1,1,,,2017,SPD,8,1,140 SPD_17
+140,AM,Ken St John,,2,4,4,0,0,0,0,0,,,2017,SPD,8,1,140 SPD_17
+140,PM,Ken St John,,1,1,1,1,0,0,0,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,1,2,3,0,0,2,2,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,1,3,2,0,0,0,2,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,1,4,1,0,0,0,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,2,1,0,0,0,0,0,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,2,2,1,0,1,0,0,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,2,3,5,1,1,3,4,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,2,4,1,0,0,1,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,3,1,1,0,0,1,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,3,2,1,0,0,1,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,3,3,2,0,0,2,2,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,3,4,2,0,0,2,2,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,4,1,1,0,0,1,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,4,2,0,0,0,0,0,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,4,3,1,0,0,0,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,1,4,4,1,0,1,0,1,,,2017,SPD,4,1,140 SPD_17
+140,PM,Ken St John,,2,1,1,1,0,0,1,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,1,2,1,0,1,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,1,3,1,0,0,0,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,1,4,0,0,0,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,2,1,1,0,1,0,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,2,2,3,0,2,0,2,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,2,3,1,0,0,0,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,2,4,0,0,0,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,3,1,1,0,0,1,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,3,2,1,0,1,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,3,3,1,0,0,0,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,3,4,2,0,0,0,2,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,4,1,1,0,1,0,1,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,4,2,1,0,1,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,4,3,0,0,0,0,0,,,2017,SPD,5,1,140 SPD_17
+140,PM,Ken St John,,2,4,4,0,0,0,0,0,,,2017,SPD,5,1,140 SPD_17
+141,AM,Mike Battle,,1,1,1,3,0,0,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,1,2,0,0,0,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,1,3,2,0,0,2,2,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,1,4,2,1,1,0,1,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,2,1,9,1,6,0,1,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,2,2,0,0,0,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,2,3,2,0,0,1,2,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,2,4,1,0,1,0,1,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,3,1,5,1,4,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,3,2,0,0,0,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,3,3,2,1,1,1,2,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,3,4,1,0,0,0,1,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,4,1,5,0,5,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,4,2,2,0,1,1,2,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,4,3,2,1,0,0,2,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,1,4,4,0,0,0,0,0,,,2017,SCA,7,1,141 SCA_17
+141,AM,Mike Battle,,2,1,1,5,2,2,1,2,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,1,2,9,4,3,0,7,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,1,3,2,1,0,0,1,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,1,4,16,5,5,2,2,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,2,1,1,0,0,0,1,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,2,2,5,0,0,1,3,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,2,3,5,0,1,0,0,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,2,4,4,1,3,1,0,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,3,1,8,4,2,1,3,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,3,2,2,1,1,2,2,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,3,3,6,3,1,2,3,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,3,4,12,4,1,1,1,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,4,1,4,1,0,1,2,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,4,2,10,0,5,2,5,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,4,3,7,2,1,2,2,,,2017,SCA,8,1,141 SCA_17
+141,AM,Mike Battle,,2,4,4,20,9,5,3,6,,,2017,SCA,8,1,141 SCA_17
+142,AM,Mike Battle,,1,1,1,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,1,2,1,0,0,1,1,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,1,3,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,1,4,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,2,1,1,1,1,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,2,2,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,2,3,1,1,0,0,1,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,2,4,2,0,0,2,2,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,3,1,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,3,2,3,2,1,1,2,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,3,3,1,0,1,1,1,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,3,4,2,0,1,1,2,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,4,1,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,4,2,1,0,0,0,1,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,4,3,4,2,0,1,4,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,1,4,4,0,0,0,0,0,,,2017,SRR,7,1,142 SRR_17
+142,AM,Mike Battle,,2,1,1,0,0,0,0,0,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,1,2,1,1,0,0,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,1,3,1,0,0,1,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,1,4,1,0,1,0,0,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,2,1,1,0,0,1,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,2,2,0,0,0,0,0,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,2,3,2,1,0,1,2,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,2,4,3,0,0,1,3,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,3,1,2,0,1,0,2,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,3,2,1,0,0,0,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,3,3,1,0,0,1,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,3,4,3,2,1,2,3,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,4,1,3,0,0,1,3,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,4,2,1,0,0,1,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,4,3,1,0,0,0,1,,,2017,SRR,8,1,142 SRR_17
+142,AM,Mike Battle,,2,4,4,0,0,0,0,0,,,2017,SRR,8,1,142 SRR_17
+143,AM,Kelly Nelson,,1,1,1,2,0,2,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,1,2,2,1,1,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,1,3,2,0,0,0,2,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,1,4,3,0,0,2,3,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,2,1,6,2,2,2,3,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,2,2,0,0,0,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,2,3,1,1,0,0,1,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,2,4,1,0,1,0,1,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,3,1,7,1,5,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,3,2,1,1,1,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,3,3,1,1,1,0,1,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,3,4,1,0,1,0,1,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,4,1,1,0,1,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,4,2,0,0,0,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,4,3,0,0,0,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,1,4,4,0,0,0,0,0,,,2017,SHD,7,1,143 SHD_17
+143,AM,Kelly Nelson,,2,1,1,2,2,2,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,1,2,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,1,3,1,0,0,0,1,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,1,4,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,2,1,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,2,2,2,0,1,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,2,3,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,2,4,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,3,1,5,2,2,0,2,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,3,2,1,0,0,1,1,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,3,3,2,1,2,0,2,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,3,4,3,0,1,1,3,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,4,1,1,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,4,2,2,0,1,0,0,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,4,3,1,0,0,0,1,,,2017,SHD,8,1,143 SHD_17
+143,AM,Kelly Nelson,,2,4,4,0,0,0,0,0,,,2017,SHD,8,1,143 SHD_17
+143,PM,Mike Morningstar,,1,1,1,0,0,0,0,0,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,1,2,3,0,0,0,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,1,3,0,0,0,0,0,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,1,4,1,0,0,1,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,2,1,4,2,0,1,4,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,2,2,6,2,1,0,3,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,2,3,3,0,0,0,3,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,2,4,0,0,0,0,0,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,3,1,1,0,1,0,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,3,2,2,0,1,0,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,3,3,3,0,1,2,2,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,3,4,2,0,0,1,2,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,4,1,1,0,1,1,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,4,2,6,1,4,0,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,4,3,2,0,0,1,2,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,1,4,4,1,0,0,0,1,,,2017,SHD,4,1,143 SHD_17
+143,PM,Mike Morningstar,,2,1,1,2,0,0,0,1,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,1,2,3,1,1,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,1,3,0,0,0,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,1,4,2,0,0,0,2,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,2,1,2,2,2,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,2,2,3,2,2,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,2,3,3,0,0,1,3,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,2,4,1,1,0,0,1,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,3,1,2,0,1,0,1,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,3,2,3,1,1,2,2,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,3,3,0,0,0,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,3,4,5,1,0,0,5,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,4,1,0,0,0,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,4,2,2,0,1,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,4,3,0,0,0,0,0,,,2017,SHD,5,1,143 SHD_17
+143,PM,Mike Morningstar,,2,4,4,1,0,0,0,1,,,2017,SHD,5,1,143 SHD_17
+144,AM,Kelly Nelson,,1,1,1,0,0,0,0,0,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,1,2,1,1,0,0,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,1,3,0,0,0,0,0,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,1,4,1,0,0,0,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,2,1,1,1,1,1,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,2,2,2,1,1,0,2,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,2,3,1,1,0,0,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,2,4,1,1,1,1,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,3,1,1,0,0,0,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,3,2,2,0,0,0,2,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,3,3,1,1,0,1,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,3,4,2,0,0,0,2,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,4,1,2,0,2,0,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,4,2,0,0,0,0,0,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,4,3,0,0,0,0,0,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,1,4,4,1,0,0,1,1,,,2017,SMA,7,1,144 SMA_17
+144,AM,Kelly Nelson,,2,1,1,1,1,0,1,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,1,2,0,0,0,0,0,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,1,3,1,1,0,1,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,1,4,0,0,0,0,0,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,2,1,3,0,2,0,3,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,2,2,1,0,1,1,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,2,3,1,0,0,0,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,2,4,4,0,1,2,4,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,3,1,5,1,1,5,5,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,3,2,3,0,2,0,2,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,3,3,5,1,0,4,5,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,3,4,0,0,0,0,0,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,4,1,1,0,0,0,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,4,2,1,0,0,0,1,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,4,3,2,0,0,0,2,,,2017,SMA,8,1,144 SMA_17
+144,AM,Kelly Nelson,,2,4,4,1,0,0,0,1,,,2017,SMA,8,1,144 SMA_17
+144,PM,Jeff Caslake,,1,1,1,1,0,0,1,1,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,1,2,2,0,0,1,2,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,1,3,3,0,0,0,3,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,1,4,1,0,0,0,1,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,2,1,3,1,0,1,3,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,2,2,1,0,0,0,1,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,2,3,3,0,0,1,3,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,2,4,5,2,0,2,5,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,3,1,2,0,1,1,1,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,3,2,4,2,2,1,3,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,3,3,2,0,0,1,2,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,3,4,4,3,0,2,4,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,4,1,4,1,0,4,4,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,4,2,2,0,0,2,2,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,4,3,1,1,0,1,1,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,1,4,4,4,1,1,1,4,,,2017,SMA,4,1,144 SMA_17
+144,PM,Jeff Caslake,,2,1,1,0,0,0,0,0,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,1,2,4,2,1,0,4,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,1,3,0,0,0,0,0,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,1,4,4,1,0,2,4,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,2,1,0,0,0,0,0,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,2,2,5,1,3,0,3,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,2,3,2,0,0,1,2,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,2,4,2,1,0,0,2,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,3,1,4,0,0,2,4,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,3,2,2,1,0,0,2,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,3,3,3,0,0,0,3,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,3,4,3,1,1,2,3,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,4,1,1,0,0,0,1,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,4,2,7,0,2,1,7,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,4,3,1,0,0,0,1,,,2017,SMA,5,1,144 SMA_17
+144,PM,Jeff Caslake,,2,4,4,4,2,0,2,4,,,2017,SMA,5,1,144 SMA_17
+145,AM,Laura Kajfez,,1,1,1,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,1,2,2,0,2,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,1,3,1,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,1,4,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,2,1,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,2,2,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,2,3,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,2,4,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,3,1,2,0,0,0,2,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,3,2,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,3,3,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,3,4,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,4,1,2,0,0,0,2,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,4,2,0,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,4,3,1,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,1,4,4,1,0,0,0,0,,,2017,AdMA,7,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,1,1,2,0,2,1,2,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,1,2,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,1,3,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,1,4,2,0,1,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,2,1,1,0,0,0,1,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,2,2,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,2,3,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,2,4,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,3,1,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,3,2,1,0,0,1,1,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,3,3,1,0,1,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,3,4,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,4,1,1,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,4,2,0,0,0,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,4,3,4,1,1,1,1,,,2017,AdMA,8,1,145 AdMA_17
+145,AM,Laura Kajfez,,2,4,4,3,0,2,0,0,,,2017,AdMA,8,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,1,1,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,1,2,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,1,3,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,1,4,1,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,2,1,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,2,2,2,1,1,0,1,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,2,3,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,2,4,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,3,1,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,3,2,3,0,1,0,1,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,3,3,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,3,4,0,0,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,4,1,1,0,1,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,4,2,1,0,0,1,1,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,4,3,2,1,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,1,4,4,2,1,0,0,0,,,2017,AdMA,4,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,1,1,0,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,1,2,1,0,0,0,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,1,3,0,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,1,4,1,0,0,1,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,2,1,1,1,0,1,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,2,2,7,2,3,0,3,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,2,3,3,0,1,1,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,2,4,0,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,3,1,4,1,0,2,3,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,3,2,1,0,0,0,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,3,3,1,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,3,4,2,0,0,0,1,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,4,1,0,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,4,2,4,0,2,0,4,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,4,3,12,3,8,0,0,,,2017,AdMA,5,1,145 AdMA_17
+145,PM,Ariel Briscoe,,2,4,4,0,0,0,0,0,,,2017,AdMA,5,1,145 AdMA_17
+149,PM,Angie Fretz,,1,1,1,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,1,2,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,1,3,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,1,4,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,2,1,1,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,2,2,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,2,3,2,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,2,4,2,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,3,1,2,0,1,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,3,2,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,3,3,1,0,1,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,3,4,1,0,1,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,4,1,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,4,2,0,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,4,3,1,0,0,0,0,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,1,4,4,1,0,0,1,1,,,2017,GCW,4,1,149 GCW_17
+149,PM,Angie Fretz,,2,1,1,3,0,2,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,1,2,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,1,3,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,1,4,2,1,0,2,1,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,2,1,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,2,2,1,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,2,3,3,1,2,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,2,4,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,3,1,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,3,2,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,3,3,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,3,4,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,4,1,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,4,2,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,4,3,3,0,2,0,0,,,2017,GCW,5,1,149 GCW_17
+149,PM,Angie Fretz,,2,4,4,0,0,0,0,0,,,2017,GCW,5,1,149 GCW_17
+154,PM,Stevie,,1,1,1,6,2,1,2,6,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,1,2,12,2,1,5,10,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,1,3,22,5,0,0,0,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,1,4,6,2,0,0,2,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,2,1,9,1,1,3,8,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,2,2,31,5,1,13,27,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,2,3,29,9,1,0,0,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,2,4,5,0,1,0,2,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,3,1,7,3,1,3,6,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,3,2,22,5,3,7,15,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,3,3,30,4,2,0,0,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,3,4,6,0,0,0,2,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,4,1,11,6,1,8,10,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,4,2,7,2,0,3,6,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,4,3,12,2,1,0,0,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,1,4,4,8,1,1,0,1,,,2017,TeRR,4,1,154 TeRR_17
+154,PM,Stevie,,2,1,1,10,0,2,7,9,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,1,2,8,2,0,2,8,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,1,3,23,5,1,0,0,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,1,4,3,0,1,0,1,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,2,1,8,2,0,4,7,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,2,2,7,3,0,5,7,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,2,3,21,4,4,0,0,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,2,4,7,1,0,0,3,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,3,1,9,3,1,5,8,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,3,2,7,1,0,4,7,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,3,3,20,3,1,0,0,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,3,4,9,0,0,0,4,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,4,1,15,7,1,6,12,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,4,2,16,3,2,9,15,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,4,3,24,3,2,0,0,,,2017,TeRR,5,1,154 TeRR_17
+154,PM,Stevie,,2,4,4,11,2,0,0,3,,,2017,TeRR,5,1,154 TeRR_17
+159,AM,David Huizingh,,1,1,1,0,0,0,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,1,2,2,1,0,0,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,1,3,0,0,0,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,1,4,1,0,0,1,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,2,1,0,0,0,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,2,2,1,1,0,0,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,2,3,1,0,1,0,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,2,4,3,0,0,0,3,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,3,1,3,0,0,2,2,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,3,2,1,0,0,0,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,3,3,0,0,0,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,3,4,0,0,0,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,4,1,1,1,1,0,0,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,4,2,2,0,0,1,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,4,3,1,0,1,0,1,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,1,4,4,3,0,0,0,2,,,2017,BMD,7,1,159 BMD_17
+159,AM,David Huizingh,,2,1,1,1,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,1,2,0,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,1,3,0,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,1,4,1,1,1,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,2,1,1,0,0,1,1,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,2,2,0,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,2,3,2,1,0,0,2,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,2,4,7,3,1,3,7,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,3,1,1,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,3,2,1,0,0,1,1,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,3,3,0,0,0,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,3,4,3,0,1,1,3,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,4,1,1,0,1,0,1,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,4,2,2,1,2,0,0,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,4,3,3,1,0,0,3,,,2017,BMD,8,1,159 BMD_17
+159,AM,David Huizingh,,2,4,4,1,0,0,0,1,,,2017,BMD,8,1,159 BMD_17
+160,AM,Nancy Buell,,1,1,1,2,1,1,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,1,2,3,1,1,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,1,3,1,1,0,1,1,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,1,4,1,0,0,1,1,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,2,1,1,0,1,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,2,2,1,1,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,2,3,0,0,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,2,4,2,1,0,1,2,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,3,1,2,1,2,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,3,2,5,1,3,2,2,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,3,3,0,0,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,3,4,0,0,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,4,1,1,0,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,4,2,0,0,0,0,0,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,4,3,1,0,0,1,1,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,1,4,4,1,1,0,1,1,,,2017,BHD,7,1,160 BHD_17
+160,AM,Nancy Buell,,2,1,1,6,4,5,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,1,2,2,1,2,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,1,3,1,0,1,0,1,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,1,4,1,0,0,0,1,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,2,1,1,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,2,2,0,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,2,3,0,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,2,4,0,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,3,1,1,0,1,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,3,2,1,0,1,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,3,3,0,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,3,4,1,0,1,0,1,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,4,1,1,0,1,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,4,2,1,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,4,3,1,0,0,1,1,,,2017,BHD,8,1,160 BHD_17
+160,AM,Nancy Buell,,2,4,4,0,0,0,0,0,,,2017,BHD,8,1,160 BHD_17
+160,PM,Linda Weinberg,,1,1,1,1,1,1,0,0,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,1,2,3,1,1,1,2,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,1,3,4,0,0,1,3,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,1,4,2,0,0,0,2,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,2,1,0,0,0,0,0,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,2,2,3,1,1,2,3,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,2,3,1,0,0,0,0,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,2,4,0,0,0,0,0,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,3,1,3,1,2,0,2,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,3,2,3,0,0,0,1,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,3,3,1,0,0,0,1,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,3,4,1,0,1,0,1,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,4,1,1,0,1,0,1,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,4,2,3,2,1,0,2,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,4,3,1,0,0,0,1,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,1,4,4,0,0,0,0,0,,,2017,BHD,4,1,160 BHD_17
+160,PM,Linda Weinberg,,2,1,1,0,0,0,0,0,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,1,2,4,1,1,0,3,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,1,3,0,0,0,0,0,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,1,4,2,0,0,1,2,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,2,1,3,2,2,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,2,2,3,1,1,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,2,3,1,0,0,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,2,4,1,0,0,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,3,1,1,1,1,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,3,2,1,0,1,0,0,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,3,3,0,0,0,0,0,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,3,4,1,0,0,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,4,1,3,0,1,1,2,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,4,2,2,0,0,1,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,4,3,1,0,0,0,1,,,2017,BHD,5,1,160 BHD_17
+160,PM,Linda Weinberg,,2,4,4,6,1,1,2,3,,,2017,BHD,5,1,160 BHD_17
+164,AM,Brenda Pickard,,1,1,1,4,1,0,0,4,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,1,2,0,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,1,3,1,0,1,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,1,4,1,0,0,0,1,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,2,1,1,0,1,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,2,2,2,0,0,0,1,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,2,3,0,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,2,4,0,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,3,1,1,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,3,2,0,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,3,3,0,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,3,4,1,1,0,1,1,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,4,1,2,2,1,0,1,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,4,2,1,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,4,3,1,0,1,0,1,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,1,4,4,1,0,0,0,0,,,2017,SMD,7,1,164 SMD_17
+164,AM,Brenda Pickard,,2,1,1,1,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,1,2,1,0,0,0,1,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,1,3,2,0,0,0,2,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,1,4,0,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,2,1,1,0,1,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,2,2,0,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,2,3,1,0,0,0,1,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,2,4,2,1,0,1,2,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,3,1,0,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,3,2,0,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,3,3,0,0,0,0,0,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,3,4,1,0,0,0,1,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,4,1,2,0,0,0,2,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,4,2,1,0,0,0,1,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,4,3,1,0,0,1,1,,,2017,SMD,8,1,164 SMD_17
+164,AM,Brenda Pickard,,2,4,4,1,0,0,1,1,,,2017,SMD,8,1,164 SMD_17
+164,PM,Karen Allen,,1,1,1,1,0,0,0,0,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,1,2,3,0,1,0,3,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,1,3,3,0,0,0,1,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,1,4,3,0,1,0,3,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,2,1,1,0,0,1,1,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,2,2,7,1,2,0,4,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,2,3,1,0,0,0,1,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,2,4,1,0,0,1,1,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,3,1,2,0,0,2,2,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,3,2,4,1,1,1,3,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,3,3,0,0,0,0,0,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,3,4,0,0,0,0,0,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,4,1,2,1,0,1,2,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,4,2,3,0,1,0,2,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,4,3,1,0,0,1,1,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,1,4,4,0,0,0,0,0,,,2017,SMD,4,1,164 SMD_17
+164,PM,Karen Allen,,2,1,1,5,1,0,3,5,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,1,2,5,1,1,0,3,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,1,3,5,0,1,0,5,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,1,4,0,0,0,0,0,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,2,1,1,0,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,2,2,7,2,0,2,7,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,2,3,3,0,0,1,2,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,2,4,1,0,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,3,1,3,0,1,0,2,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,3,2,7,1,1,2,3,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,3,3,1,0,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,3,4,1,1,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,4,1,3,1,2,0,0,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,4,2,1,1,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,4,3,1,0,0,0,1,,,2017,SMD,5,1,164 SMD_17
+164,PM,Karen Allen,,2,4,4,0,0,0,0,0,,,2017,SMD,5,1,164 SMD_17
+173,AM,William Terrance,,1,1,1,6,0,0,1,6,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,1,2,2,0,1,1,1,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,1,3,2,0,0,1,1,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,1,4,6,0,2,1,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,2,1,3,0,0,0,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,2,2,7,1,0,3,7,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,2,3,2,0,0,1,2,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,2,4,6,0,2,1,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,3,1,1,1,1,0,0,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,3,2,3,0,0,0,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,3,3,0,0,0,0,0,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,3,4,6,2,2,0,2,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,4,1,3,1,2,1,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,4,2,1,0,0,1,1,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,4,3,1,0,0,0,0,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,1,4,4,5,0,1,1,3,,,2017,ApMD,7,1,173 ApMD_17
+173,AM,William Terrance,,2,1,1,5,0,3,2,5,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,1,2,5,0,2,1,3,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,1,3,0,0,0,0,0,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,1,4,6,1,2,0,4,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,2,1,6,1,2,4,6,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,2,2,3,1,0,3,3,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,2,3,5,2,2,3,5,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,2,4,8,0,2,1,2,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,3,1,3,1,0,1,2,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,3,2,1,0,0,1,1,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,3,3,3,1,0,2,2,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,3,4,13,2,1,3,9,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,4,1,7,1,0,3,5,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,4,2,7,0,0,5,7,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,4,3,1,0,0,0,0,,,2017,ApMD,8,1,173 ApMD_17
+173,AM,William Terrance,,2,4,4,18,6,1,2,9,,,2017,ApMD,8,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,1,1,4,0,1,2,3,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,1,2,3,1,0,0,2,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,1,3,7,2,0,6,6,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,1,4,2,0,0,1,2,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,2,1,3,1,1,1,3,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,2,2,3,0,1,0,2,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,2,3,10,1,2,2,6,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,2,4,2,2,0,0,0,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,3,1,1,0,0,1,1,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,3,2,0,0,0,0,0,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,3,3,17,0,4,8,10,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,3,4,5,0,0,1,4,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,4,1,4,0,0,0,4,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,4,2,4,0,1,2,3,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,4,3,11,1,3,3,6,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,1,4,4,1,0,0,0,0,,,2017,ApMD,4,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,1,1,4,2,1,0,4,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,1,2,2,0,1,0,2,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,1,3,9,3,1,3,5,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,1,4,4,0,0,0,4,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,2,1,3,1,0,1,3,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,2,2,0,0,0,0,0,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,2,3,7,3,1,3,5,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,2,4,2,0,0,1,2,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,3,1,1,0,0,0,1,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,3,2,7,1,3,1,3,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,3,3,9,1,2,3,5,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,3,4,1,0,0,0,0,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,4,1,2,0,0,2,2,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,4,2,1,0,0,1,1,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,4,3,14,2,1,9,13,,,2017,ApMD,5,1,173 ApMD_17
+173,PM,Jeff Caslake,,2,4,4,1,0,0,0,0,,,2017,ApMD,5,1,173 ApMD_17
+174,AM,Kathryn Hopkins,,1,1,1,2,1,1,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,1,2,1,0,1,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,1,3,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,1,4,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,2,1,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,2,2,2,1,0,0,1,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,2,3,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,2,4,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,3,1,3,2,3,0,1,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,3,2,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,3,3,0,0,0,0,0,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,3,4,2,1,1,0,2,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,4,1,1,0,1,1,1,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,4,2,4,1,1,0,3,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,4,3,1,0,0,0,1,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,1,4,4,1,0,1,0,1,,,2017,BaMD,7,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,1,1,1,0,0,1,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,1,2,3,1,1,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,1,3,1,0,0,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,1,4,1,0,0,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,2,1,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,2,2,1,0,0,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,2,3,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,2,4,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,3,1,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,3,2,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,3,3,1,0,0,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,3,4,1,1,0,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,4,1,2,1,1,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,4,2,1,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,4,3,0,0,0,0,0,,,2017,BaMD,8,1,174 BaMD_17
+174,AM,Kathryn Hopkins,,2,4,4,2,0,1,0,1,,,2017,BaMD,8,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,1,1,3,1,1,0,2,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,1,2,1,0,0,1,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,1,3,1,0,1,0,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,1,4,2,0,0,1,2,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,2,1,1,0,0,0,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,2,2,0,0,0,0,0,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,2,3,2,0,0,0,2,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,2,4,1,0,0,0,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,3,1,1,0,0,0,0,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,3,2,4,1,0,1,4,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,3,3,4,1,0,3,4,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,3,4,0,0,0,0,0,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,4,1,2,0,0,1,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,4,2,2,0,1,0,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,4,3,3,0,0,2,3,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,1,4,4,1,0,0,0,1,,,2017,BaMD,4,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,1,1,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,1,2,2,0,0,1,1,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,1,3,1,0,1,0,1,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,1,4,1,0,0,0,1,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,2,1,4,0,2,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,2,2,1,0,1,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,2,3,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,2,4,1,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,3,1,2,1,1,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,3,2,1,0,1,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,3,3,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,3,4,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,4,1,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,4,2,1,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,4,3,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+174,PM,Tim McKinstry,,2,4,4,0,0,0,0,0,,,2017,BaMD,5,1,174 BaMD_17
+175,AM,Stevie,,1,1,1,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,1,2,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,1,3,1,1,1,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,1,4,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,2,1,1,0,0,1,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,2,2,2,0,1,0,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,2,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,2,4,2,0,0,1,2,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,3,1,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,3,2,2,0,0,2,2,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,3,3,2,1,2,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,3,4,1,0,0,0,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,4,1,1,0,0,1,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,4,2,2,1,0,2,2,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,4,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,1,4,4,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Stevie,,2,1,1,1,0,0,1,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,1,2,2,1,1,0,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,1,3,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,1,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,2,1,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,2,2,1,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,2,3,1,1,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,2,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,3,1,3,0,1,2,2,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,3,2,2,0,1,1,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,3,3,1,0,0,1,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,3,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,4,1,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,4,2,1,1,0,1,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,4,3,3,2,0,0,3,,,2017,GMD,8,1,175 GMD_17
+175,AM,Stevie,,2,4,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,1,1,1,1,1,0,0,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,1,2,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,1,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,1,4,1,0,1,0,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,2,1,3,2,1,2,2,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,2,2,2,1,1,0,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,2,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,2,4,2,0,1,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,3,1,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,3,2,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,3,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,3,4,1,0,1,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,4,1,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,4,2,1,0,0,1,1,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,4,3,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,1,4,4,0,0,0,0,0,,,2017,GMD,7,1,175 GMD_17
+175,AM,Ruth Condon,,2,1,1,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,1,2,1,1,0,0,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,1,3,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,1,4,1,0,1,1,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,2,1,1,1,1,0,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,2,2,3,1,2,1,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,2,3,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,2,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,3,1,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,3,2,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,3,3,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,3,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,4,1,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,4,2,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,4,3,1,1,0,0,1,,,2017,GMD,8,1,175 GMD_17
+175,AM,Ruth Condon,,2,4,4,0,0,0,0,0,,,2017,GMD,8,1,175 GMD_17
+175,PM,Steve Bass,,1,1,1,0,0,0,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,1,2,1,0,0,1,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,1,3,0,0,0,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,1,4,2,0,0,1,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,2,1,2,1,1,0,2,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,2,2,0,0,0,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,2,3,1,0,0,0,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,2,4,1,1,1,1,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,3,1,2,0,0,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,3,2,0,0,0,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,3,3,2,0,0,0,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,3,4,2,0,0,2,2,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,4,1,1,0,0,0,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,4,2,1,0,1,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,4,3,1,0,1,0,0,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,1,4,4,2,0,1,1,1,,,2017,GMD,4,1,175 GMD_17
+175,PM,Steve Bass,,2,1,1,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,1,2,3,1,0,2,2,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,1,3,2,1,0,2,2,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,1,4,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,2,1,2,0,1,0,1,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,2,2,1,0,0,0,1,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,2,3,1,0,1,0,1,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,2,4,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,3,1,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,3,2,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,3,3,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,3,4,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,4,1,2,0,1,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,4,2,3,2,1,0,2,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,4,3,1,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+175,PM,Steve Bass,,2,4,4,0,0,0,0,0,,,2017,GMD,5,1,175 GMD_17
+178,AM,Cliff Andserson,,1,1,1,1,0,0,0,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,1,2,1,0,0,0,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,1,3,1,0,0,0,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,1,4,0,0,0,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,2,1,2,0,0,0,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,2,2,3,0,0,2,3,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,2,3,0,0,0,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,2,4,2,0,0,1,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,3,1,0,0,0,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,3,2,2,0,1,0,2,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,3,3,1,1,0,1,1,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,3,4,1,1,0,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,4,1,0,0,0,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,4,2,2,0,0,1,2,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,4,3,3,1,0,2,3,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,1,4,4,1,0,1,0,0,,,2017,CuSR,7,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,1,1,1,0,0,0,1,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,1,2,1,0,0,1,1,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,1,3,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,1,4,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,2,1,1,0,0,0,1,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,2,2,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,2,3,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,2,4,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,3,1,1,0,0,0,1,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,3,2,4,1,0,1,4,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,3,3,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,3,4,1,0,0,0,1,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,4,1,3,0,0,2,3,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,4,2,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,4,3,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,AM,Cliff Andserson,,2,4,4,0,0,0,0,0,,,2017,CuSR,8,1,178 CuSR_17
+178,PM,Richard Inman,,1,1,1,2,0,0,1,2,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,1,2,4,0,0,0,4,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,1,3,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,1,4,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,2,1,2,0,0,0,2,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,2,2,1,0,0,0,1,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,2,3,1,0,0,1,1,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,2,4,1,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,3,1,5,0,1,4,5,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,3,2,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,3,3,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,3,4,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,4,1,3,0,1,1,3,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,4,2,1,1,0,0,1,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,4,3,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,1,4,4,0,0,0,0,0,,,2017,CuSR,4,1,178 CuSR_17
+178,PM,Richard Inman,,2,1,1,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,1,2,3,1,0,0,3,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,1,3,2,1,0,0,2,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,1,4,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,2,1,3,2,0,1,3,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,2,2,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,2,3,1,0,1,1,1,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,2,4,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,3,1,2,0,1,1,2,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,3,2,3,0,0,1,3,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,3,3,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,3,4,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,4,1,1,0,0,1,1,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,4,2,2,1,0,1,2,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,4,3,2,1,0,0,2,,,2017,CuSR,5,1,178 CuSR_17
+178,PM,Richard Inman,,2,4,4,0,0,0,0,0,,,2017,CuSR,5,1,178 CuSR_17
