@@ -1,7 +1,11 @@
 #Calc number of recorders
 nRecorders <- function(rawdata, dataPrefix, outPath) {
-  rectemp <- tolower(rawdata$Recorder) #use lower case to avoid case differences that should be insignificant
+  rectemp <- tolower(rawdata$Recorder[rawdata$recStatus==TRUE]) 
+  #use lower case to avoid case differences that should be insignificant
+  rectempNA <- tolower(rawdata$Recorder[rawdata$recStatus==FALSE])
+  #rectempNA <- rawdata$Recorder[rawdata$recStatus==FALSE]
   Recorders <- sort(unique(unlist(rectemp, use.names=FALSE)),decreasing=FALSE)
+  RecordersNA <- sort(unique(unlist(rectempNA, use.names=FALSE)),decreasing=FALSE) #blank recorder
   rtypo1 <- character(0)
   grepdist <- c(0.2, 0.05) #use higher and lower values; 
     #lower (2nd listed) is final calc with names output, higher is output for user consideration
@@ -27,8 +31,10 @@ nRecorders <- function(rawdata, dataPrefix, outPath) {
   }
   writeLines("Review the recorder special output")
   writeLines(paste0("Output recorder count used typos and team counts for grepdist = ", grepdist[2], collapse = ""))
+  writeLines(paste0("Number of missing recorder names = ", length(RecordersNA)))
+  print(RecordersNA)
   nteam<-length(rteam) 
-  nRec <- length(Recorders) + nteam - ntypo
+  nRec <- length(Recorders) + nteam - ntypo + length(RecordersNA)
   write.csv(rtypo, file = paste0(outPath, dataPrefix, "_rtypo.csv", collapse = ""))
   write.csv(rteam, file = paste0(outPath, dataPrefix, "_rteam.csv", collapse = ""))
   write.csv(Recorders, file = paste0(outPath, dataPrefix, "_recorders.csv", collapse = ""))

@@ -15,8 +15,8 @@ library(ggmap)
 rm(list=ls())
 inPath <- "DataIn/"
 outPath <- "DataOut/"
-infile <- "2016_Geoplot.csv" #NOTE: subsequent variable "bcyear" uses year as first 4 characters of this file
-bcyear <- substr(infile,1,4)
+dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_Geoplot.csv: ") 
+infile <- paste0(inPath, dataPrefix, "_Geoplot.csv", collapse="") #e.g., "2014_Geoplot.csv"
 #setwd("C:/RWD/BikeCount")
 
 # alternative: execute and read filename from command line:
@@ -61,15 +61,15 @@ titleAry <- c("Total Count\nper Hour",
               "Fraction of\nRiders Using\nSidewalk",
               "Fraction of\nRiders Wearing\nHelmets",
               "All Locations")
-titleAry <- paste0(titleAry, " (", bcyear, ")")
+titleAry <- paste0(titleAry, " (", dataPrefix, ")")
 fileAry <- c("per_hour",
              "wrongway",
              "sidewalk",
              "helmet",
              "AllLoc")
-fileAry <- paste0(fileAry, "_", bcyear, ".png")
+fileAry <- paste0(fileAry, "_", dataPrefix, ".png")
 #
-geo_plot("black", titleAry[1], paste0(outPath, fileAry[1]), count_data, "Total_per_hr", locctr, ggzoomAttrib)
+geo_plot("black", titleAry[1], paste0(outPath, fileAry[1]), count_data, "TotPerHr", locctr, ggzoomAttrib)
 
 # wrong way
 geo_plot("red", titleAry[2], paste0(outPath, fileAry[2]), count_data, "Wrongway", locctr, ggzoomAttrib)
