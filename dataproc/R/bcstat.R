@@ -101,12 +101,6 @@ print(unique(bkdata$LocTime[bkdata$SwErr == TRUE]))
 # all.x: if TRUE, then extra rows will be added to the output, one for each row in x that has no matching row in y. 
 # These rows will have NAs in those columns that are usually filled with values from y.
 #
-##{DELETE}
-##Tallies by location
-##nTime <- data.frame(table(bkdata$LocID))
-##names(nTime) <- c("LocID","Freq")
-##{END DELETE}
-#
 #Tallies by location + AM or PM, divided by nTime to get "per hour"
 #Create a data frame with 1 row per counted LocID & Time
 LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #FUN=sum is meaningless
@@ -115,6 +109,8 @@ names(LocCounted) <- c("LocID","Time") #reassign column names
 #add columns which are TRUE or FALSE
 LocCounted$AM <- LocCounted$Time == "AM"
 LocCounted$PM <- LocCounted$Time == "PM"
+#
+#divby2 is calculated based on bkdata
 divby2 <- data.frame(table(bkdata$LocTime))
 names(divby2) <- c("LocTime","Freq")
 divby2 <- divby2[divby2$Freq>1,]
@@ -123,7 +119,7 @@ divby2$LocID <- as.integer(substr(divby2$LocTime,1,3))
 divby2$Time <- substr(divby2$LocTime,4,5)
 #
 #External file divbyfile overrides internal calculation of duplicates
-#Either way, team counts must be combined in bcdata input to give correct results
+#Either way, team counts (which are not "duplicates") must be combined in bcdata input to give correct results
 if (bdivby) {
   bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all=TRUE, sort=TRUE) #sort=FALSE doesn't keep original order
 #  bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all.x=TRUE, sort=TRUE) #sort=FALSE doesn't keep original order
