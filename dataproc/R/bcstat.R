@@ -12,6 +12,7 @@ library(ggmap) #for Geoplot
 #Note: user must start R in the correct directory
 #setwd("C:/DataAnalysis/dataproc/R") #better to avoid setwd; not robust to different users
 source("recorders.R")
+print("**Team counts must be combined prior to running this code (to get correct results)**")
 dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
 inPath <- "DataIn/"
 outPath <- paste0("DataOut/", dataPrefix, "/")
@@ -65,6 +66,7 @@ if(file.exists(divbyfile)) {
 #divby fields: LocID	Time	Invalid	DivBy
   divby <- read.csv(divbyfile)
   bdivby = TRUE
+  print("Using external file for duplicate calculation (overrides internal calculation)")
 } else bdivby <- FALSE
 #
 #Stats
@@ -77,6 +79,7 @@ nLoc <- length(unique(rawdata$LocID))
 #
 #Merge rawdata with locdata; coerces cordon, traffic, collisions, etc. into rawdata sequence
 bkdata <- merge(rawdata,locdata,by="LocID",all=TRUE)
+bkdata <- bkdata[!is.na(bkdata$Time),] #removes LocIDs that aren't counted for the current year
 #Set Sw, Ww to zero if sidewalk ignore = 1 for the appropriate direction
 bkdata$LocTime <- paste0(bkdata$LocID, bkdata$Time)
 bkdata$SwErr <- with(bkdata, {
@@ -97,13 +100,39 @@ print(unique(bkdata$LocTime[bkdata$SwErr == TRUE]))
 # all.x=TRUE allows a partial divby list
 # all.x: if TRUE, then extra rows will be added to the output, one for each row in x that has no matching row in y. 
 # These rows will have NAs in those columns that are usually filled with values from y.
+#
+##{DELETE}
+##Tallies by location
+##nTime <- data.frame(table(bkdata$LocID))
+##names(nTime) <- c("LocID","Freq")
+##{END DELETE}
+#
+#Tallies by location + AM or PM, divided by nTime to get "per hour"
+#Create a data frame with 1 row per counted LocID & Time
+LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #FUN=sum is meaningless
+#this gives a data frame with column names Group.1, Group.2
+names(LocCounted) <- c("LocID","Time") #reassign column names
+#add columns which are TRUE or FALSE
+LocCounted$AM <- LocCounted$Time == "AM"
+LocCounted$PM <- LocCounted$Time == "PM"
+divby2 <- data.frame(table(bkdata$LocTime))
+names(divby2) <- c("LocTime","Freq")
+divby2 <- divby2[divby2$Freq>1,]
+divby2$DivBy <- divby2$Freq/32
+divby2$LocID <- as.integer(substr(divby2$LocTime,1,3))
+divby2$Time <- substr(divby2$LocTime,4,5)
+#
+#External file divbyfile overrides internal calculation of duplicates
+#Either way, team counts must be combined in bcdata input to give correct results
 if (bdivby) {
-  bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all.x=TRUE, sort=FALSE)
+  bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all=TRUE, sort=TRUE) #sort=FALSE doesn't keep original order
+#  bkdata <- merge(bkdata, divby, by=c("LocID","Time"), all.x=TRUE, sort=TRUE) #sort=FALSE doesn't keep original order
   # missing LocId's from divby list are assigned DivBy=1, Invalid=FALSE
   bkdata$DivBy[is.na(bkdata$DivBy)] <- 1 #change from NA to 1
   bkdata$Invalid[is.na(bkdata$Invalid)] <- FALSE #change from NA to FALSE
 } else {
-  bkdata$DivBy <- 1 #no divby file; set divby=1, i.e., assume there are no duplicates
+  bkdata <- merge(bkdata, divby2, by=c("LocID","Time"), all=TRUE, sort=TRUE) #sort=FALSE doesn't keep original order
+##OLD#bkdata$DivBy <- 1 #no divby file; set divby=1, i.e., assume there are no duplicates
   bkdata$Invalid <- FALSE #note: Invalid is not currently used
 }
 #FLAG MISSING DATA IN Count and attributes
@@ -123,6 +152,12 @@ bkdata$Sidewalk[is.na(bkdata$Sidewalk)] <- 0
 #print("NA detected in input data; replaced with 0")
 print("NA replaced with 0 for the following LocID")
 print(bkdata$LocID[bkdata$naDetect == TRUE])
+#
+#Within bkdata, AM and PM are split into different rows
+#the number of rows in the AM set is not necessarily the same as that in the PM set
+#Count the number of times each location was counted (AM or PM gives 1; AM and PM gives 2)
+LocTimes <- with(LocCounted,aggregate(LocID, by=list(LocID), FUN=length)) 
+names(LocTimes)<-c("LocID","nTime") #reassign column names
 #
 #account for duplicates (t for transformed, e.g., corrected for duplicates)
 bkdata$tCount<-bkdata$Count/bkdata$DivBy
@@ -156,16 +191,13 @@ summdir$Wrongway <- summdir$tWrongway/summdir$tCount
 summdir$Sidewalk <- summdir$tSidewalk/summdir$tCount
 #note: if tCount==0 then result is NaN which is fine, e.g., LocID 112 EW
 #
-#Tallies by location
-nTime <- data.frame(table(bkdata$LocID))
-names(nTime) <- c("LocID","Freq")
 summ$Count <- summ$tCount
 summ$Female <- summ$tGender/summ$tCount
 summ$Helmet <- summ$tHelmet/summ$tCount
 summ$Wrongway <- summ$tWrongway/summ$tCount
 summ$Sidewalk <- summ$tSidewalk/summ$tCount
-summ <- merge(summ, nTime, by="LocID")
-summ$TotPerHr <- summ$Count / summ$Freq * 32 / 2 #Count = tCount from a previous formula (corrected for dupes)
+summ <- merge(summ, LocTimes, by="LocID")
+summ$TotPerHr <- summ$Count / summ$nTime / 2 #Count = tCount from a previous formula (corrected for dupes)
 summ$TotPerHr[summ$TotPerHr==0] <- NA
 #32 rows per session, 2 hours per session
 summ <- merge(summ, locdata, by="LocID")
@@ -178,19 +210,6 @@ HelmetF <- sum(bkdata$tHelmet)/nCount
 WrongwayF <- sum(bkdata$tWrongway)/nCount
 SidewalkF <- sum(bkdata$tSidewalk)/nCount
 #
-#Tallies by location + AM or PM, divided by nTime to get "per hour"
-#Create a data frame with 1 row per counted LocID & Time
-LocCounted <- with(bkdata,aggregate(bkdata$LocID, by=list(LocID,Time), FUN=sum)[,1:2]) #FUN=sum is meaningless
-#this gives a data frame with column names Group.1, Group.2
-names(LocCounted) <- c("LocID","Time") #reassign column names
-#add columns which are TRUE or FALSE
-LocCounted$AM <- LocCounted$Time == "AM"
-LocCounted$PM <- LocCounted$Time == "PM"
-#Within bkdata, AM and PM are split into different rows
-#the number of rows in the AM set is not necessarily the same as that in the PM set
-#Count the number of times each location was counted (AM or PM gives 1; AM and PM gives 2)
-LocTimes <- with(LocCounted,aggregate(LocID, by=list(LocID), FUN=length)) 
-names(LocTimes)<-c("LocID","nTime") #reassign column names
 # merge this data to enable total per hour (was rounded)
 summdir <- merge(summdir, LocTimes,by="LocID")
 summdir$TotPerHr <- summdir$Count / summdir$nTime / 2 #Count = tCount from a previous formula (corrected for dupes)
