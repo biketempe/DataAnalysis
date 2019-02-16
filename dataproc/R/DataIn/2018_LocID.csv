@@ -1,86 +1,79 @@
 LocID,LocEW,LocNS,Cordon,NB_ASU_in,SB_ASU_in,EB_ASU_in,WB_ASU_in,NBLane,SBLane,EBLane,WBLane,NBZip,SBZip,Zone,DistASU,Traffic,TrafficNS,TrafficEW,Latitude,Longitude,NBswSkip,SBswSkip,EBswSkip,WBswSkip,LocNameShort,LocEWshort,LocNSshort,Node1,Node2,Node3,Node4
-101,Washington/Curry,Mill Ave,0,,,,,3,0,3,0,1,1,3,0.6,11352,10368,11352,33.437574,-111.943254,,,,,Curry & Mill,Curry,Mill,11,12,,
-102,Rio Salado Pkwy,Mill Ave,1,,1,1,,3,3,3,3,1,1,3,0,24622,15577,24622,33.42969,-111.94045,,,,,Rio Sal. & Mill,Rio Sal.,Mill,25,20,17,
-103,Rio Salado Pkwy,Rural Rd,1,,1,,1,0,0,3,3,1,1,1,0,51749,51749,24622,33.42885,-111.92628,,,,,Rio Sal. & Rural,Rio Sal.,Rural,26,27,25,18
-104,Rio Salado Pkwy,McClintock Dr,0,,,,,0,0,3,3,1,1,,1,33538,32685,33538,33.429145,-111.908898,,,,,Rio Sal. & McClntk,Rio Sal.,McClntk,28,31,19,27
-105,Rio Salado Pkwy,Hardy Dr,0,,,,,3,4,1,1,1,1,,0.83,12444,7686,12444,33.430948,-111.95246,,,,,Rio Sal. & Hardy,Rio Sal.,Hardy,20,34,16,
-106,5th St,Mill Ave,1,,,1,,3,3,3,3,1,1,3,0,15577,15577,8068,33.425445,-111.939799,,,,,5th & Mill,5th,Mill,24,23,17,
-107,5th St,Forest Ave,0,,,,,0,0,3,3,1,1,,0,8068,,8068,33.425445,-111.936499,,,,,5th & Forest,5th,Forest,24,,,
-108,5th St,Farmer Ave,0,,,,,0,0,3,3,1,1,,0.25,4004,,4004,33.425445,-111.944099,,,,,5th & Farmer,5th,Farmer,23,,,
-109,5th St,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,7686,7686,4504,33.425545,-111.952199,,,,,5th & Hardy,5th,Hardy,23,22,34,
-110,5th St,Priest Dr,0,,,,,1,1,0,3,1,1,,1.24,34169,34169,4504,33.4256,-111.96095,,,,,5th & Priest,5th,Priest,22,21,,
-111,10th St,Mill Ave,1,,,1,,0,0,2,3,1,1,3,0,27094,27094,,33.418945,-111.939799,,,,,10th & Mill,10th,Mill,49,,,
-112,Superstition Fwy,College Ave,0,,,,,2,3,0,0,2,2,,2,1860,1860,,33.38595,-111.93508,1,1,1,1,60 Fwy & College,60 Fwy,College,101,90,,
-113,13th St,Mill Ave,1,1,,1,,1,0,3,3,1,1,3,0,27094,27094,4911,33.414645,-111.939799,,,,,13th & Mill,13th,Mill,58,49,59,
-114,13th St,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,9884,9884,4911,33.414645,-111.951999,,,,,13th & Hardy,13th,Hardy,58,51,50,
-115,University Dr,College Ave,0,,,,,5,3,3,3,1,1,,0,30051,5561,30051,33.421845,-111.934799,1,,,,Univ & College,Univ,College,33,38,,
-116,University Dr,Dorsey Ln,0,,,,,2,0,3,3,1,1,,0.5,34703,,34703,33.42202,-111.91768,,,,,Univ & Dorsey,Univ,Dorsey,32,,,
-117,University Dr,Rural Rd,1,,,,1,0,0,3,3,1,1,2,0,40479,40479,34703,33.422045,-111.926299,,,,,Univ & Rural,Univ,Rural,32,46,26,38
-118,University Dr,Mill Ave,1,,,1,,0,3,3,3,1,1,3,0,31195,27094,31195,33.421945,-111.939799,,,,,Univ & Mill,Univ,Mill,38,49,17,37
-119,University Dr,Ash Ave,0,,,,,0,3,3,3,1,1,,0.11,31195,,31195,33.421945,-111.942199,,,,,Univ & Ash,Univ,Ash,37,,,
-120,University Dr,Roosevelt St,0,,,,,3,2,3,3,1,1,,0.43,31195,,31195,33.4219,-111.94727,,,,,Univ & Rsvlt,Univ,Rsvlt,37,,,
-121,University Dr,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,31195,9884,31195,33.421845,-111.952199,,,,,Univ & Hardy,Univ,Hardy,50,34,37,
+101,Washington/Curry,Mill Ave,0,,,,,3,0,3,0,1,1,3,0.6,12870,12870,12111,33.437574,-111.943254,,,,,Curry & Mill,Curry,Mill,11,12,,
+102,Rio Salado Pkwy,Mill Ave,1,,1,1,,3,3,3,3,1,1,3,0,16813,16813,#N/A,33.42969,-111.94045,,,,,Rio Sal. & Mill,Rio Sal.,Mill,25,20,17,
+103,Rio Salado Pkwy,Rural Rd,1,,1,,1,0,0,3,3,1,1,1,0,44461,44461,#N/A,33.42885,-111.92628,,,,,Rio Sal. & Rural,Rio Sal.,Rural,26,27,25,18
+104,Rio Salado Pkwy,McClintock Dr,0,,,,,0,0,3,3,1,1,,1,#N/A,#N/A,#N/A,33.429145,-111.908898,,,,,Rio Sal. & McClntk,Rio Sal.,McClntk,28,31,19,27
+105,Rio Salado Pkwy,Hardy Dr,0,,,,,3,4,1,1,1,1,,0.83,#N/A,#N/A,#N/A,33.430948,-111.95246,,,,,Rio Sal. & Hardy,Rio Sal.,Hardy,20,34,16,
+106,5th St,Mill Ave,1,,,1,,3,3,3,3,1,1,3,0,16813,16813,#N/A,33.425445,-111.939799,,,,,5th & Mill,5th,Mill,24,23,17,
+107,5th St,Forest Ave,0,,,,,0,0,3,3,1,1,,0,7277,#N/A,7277,33.425445,-111.936499,,,,,5th & Forest,5th,Forest,24,,,
+108,5th St,Farmer Ave,0,,,,,0,0,3,3,1,1,,0.25,4389,#N/A,4389,33.425445,-111.944099,,,,,5th & Farmer,5th,Farmer,23,,,
+109,5th St,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,7686,7686,#N/A,33.425545,-111.952199,,,,,5th & Hardy,5th,Hardy,23,22,34,
+110,5th St,Priest Dr,0,,,,,1,1,0,3,1,1,,1.24,35090,35090,#N/A,33.4256,-111.96095,,,,,5th & Priest,5th,Priest,22,21,,
+111,10th St,Mill Ave,1,,,1,,0,0,2,3,1,1,3,0,27094,27094,#N/A,33.418945,-111.939799,,,,,10th & Mill,10th,Mill,49,,,
+112,Superstition Fwy,College Ave,0,,,,,2,3,0,0,2,2,,2,#N/A,#N/A,#N/A,33.38595,-111.93508,1,1,1,1,60 Fwy & College,60 Fwy,College,101,90,,
+113,13th St,Mill Ave,1,1,,1,,1,0,3,3,1,1,3,0,27094,27094,#N/A,33.414645,-111.939799,,,,,13th & Mill,13th,Mill,58,49,59,
+114,13th St,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,8840,8840,#N/A,33.414645,-111.951999,,,,,13th & Hardy,13th,Hardy,58,51,50,
+115,University Dr,College Ave,0,,,,,5,3,3,3,1,1,,0,36499,#N/A,36499,33.421845,-111.934799,1,,,,Univ & College,Univ,College,33,38,,
+116,University Dr,Dorsey Ln,0,,,,,2,0,3,3,1,1,,0.5,34703,#N/A,34703,33.42202,-111.91768,,,,,Univ & Dorsey,Univ,Dorsey,32,,,
+117,University Dr,Rural Rd,1,,,,1,0,0,3,3,1,1,2,0,#N/A,#N/A,#N/A,33.422045,-111.926299,,,,,Univ & Rural,Univ,Rural,32,46,26,38
+118,University Dr,Mill Ave,1,,,1,,0,3,3,3,1,1,3,0,#N/A,#N/A,#N/A,33.421945,-111.939799,,,,,Univ & Mill,Univ,Mill,38,49,17,37
+119,University Dr,Ash Ave,0,,,,,0,3,3,3,1,1,,0.11,32345,#N/A,32345,33.421945,-111.942199,,,,,Univ & Ash,Univ,Ash,37,,,
+120,University Dr,Roosevelt St,0,,,,,3,2,3,3,1,1,,0.43,32345,#N/A,32345,33.4219,-111.94727,,,,,Univ & Rsvlt,Univ,Rsvlt,37,,,
+121,University Dr,Hardy Dr,0,,,,,3,3,3,3,1,1,,0.72,32345,#N/A,32345,33.421845,-111.952199,,,,,Univ & Hardy,Univ,Hardy,50,34,37,
 122,McKellips Rd,Greenbelt Path,0,,,,,4,4,3,3,1,1,1,2.2,14760,0,14760,33.45128,-111.91303,1,1,,,McKlps & Greenbelt,McKlps,Greenbelt,3,,,
-123,Western Canal,Rural Rd,0,,,,,0,0,4,4,3,3,6,4,37093,37093,,33.35663,-111.92854,,,1,1,Canal & Rural,Canal,Rural,115,,,
-124,Western Canal,McClintock Dr,0,,,,,3,3,4,4,3,3,6,5,29155,29155,,33.35677,-111.91153,,,1,1,Canal & McClntk,Canal,McClntk,118,,,
-125,Western Canal,Lakeshore Dr,0,,,,,2,3,4,4,3,3,6,4.5,0,0,0,33.35628,-111.92068,,,1,1,Canal & Lakeshore,Canal,Lakeshore,,,,
-126,Baseline Rd,Western Canal,0,,,,,4,4,0,0,3,3,6,2.9,42459,,42459,33.377958,-111.945448,1,1,,,Baseline & Western,Baseline,Western,104,,,
-127,Elliot Rd,McClintock Dr,0,,,,,3,3,0,0,4,3,6,5.5,33820,27297,33820,33.349147,-111.911297,,,,,Elliot & McClntk,Elliot,McClntk,130,138,128,131
-128,Alameda Dr,McClintock Dr,0,,,,,3,3,2,2,2,2,,2,30881,30881,,33.400146,-111.908998,,,,,Alameda & McClntk,Alameda,McClntk,71,,,
-129,Alameda Dr,Rural Rd,0,,,,,0,0,2,2,2,2,,1,40703,40703,2174,33.400246,-111.926098,,,,,Alameda & Rural,Alameda,Rural,75,74,,
-130,Alameda Dr,Country Club Wy,0,,,,,2,0,2,2,2,2,,2.5,,,,33.400346,-111.900497,,,,,Alameda & CntryClub,Alameda,CntryClub,,,,
-131,Apache Blvd,Rural Rd,1,1,,,1,0,0,3,3,1,1,2,0,45442,45442,21727,33.414645,-111.926098,,,,,Apache & Rural,Apache,Rural,45,61,46,48
-132,Apache Blvd,S Dorsey Ln,0,,,,,0,0,3,3,1,1,2,0.5,19385,,19385,33.414745,-111.917698,,,,,Apache & Dorsey,Apache,Dorsey,45,,,
-133,Apache Blvd,College Ave,1,1,,,,3,3,3,3,1,1,2,0,21727,5047,21727,33.414545,-111.934699,,,,,Apache & College,Apache,College,60,48,,
-134,Apache Blvd,Paseo Del Saber,1,1,,,,5,5,3,3,1,1,2,0,21727,0,21727,33.414696,-111.92914,1,1,,,Apache & Paseo,Apache,Paseo,48,,,
-135,Lemon St,Rural Rd,1,,,,1,0,0,3,3,1,1,2,0,40479,40479,,33.416745,-111.926198,,,,,Lemon & Rural,Lemon,Rural,46,,,
-136,Spence St,Rural Rd,0,,,,,0,0,4,0,1,1,2,0,45442,45442,,33.412845,-111.926198,,,,,Spence & Rural,Spence,Rural,61,,,
-137,Broadway Rd,Priest Dr,0,,,,,3,3,0,0,2,1,,1.75,40732,33085,40732,33.407545,-111.960699,,,,,Bway & Priest,Bway,Priest,56,81,52,55
-138,Broadway Rd,Rural Rd,0,,,,,0,0,0,0,2,1,,0.5,45442,45442,32423,33.407445,-111.926098,,,,,Bway & Rural,Bway,Rural,63,74,61,62
-139,Broadway Rd,College Ave,0,,,,,3,3,0,0,2,1,,0.5,25755,5047,25755,33.407445,-111.934699,,,,,Bway & College,Bway,College,76,60,62,
-140,Southern Ave,Priest Dr,0,,,,,3,3,0,0,2,2,,2.75,41984,41984,31853,33.392845,-111.960709,,,,,So. & Priest,So.,Priest,85,154,81,84
-141,Southern Ave,College Ave,0,,,,,3,3,0,0,2,2,,1.5,33369,2860,33369,33.392846,-111.934798,,,,,So. & College,So.,College,90,76,86,
-142,Southern Ave,Rural Rd,0,,,,,0,0,0,0,2,2,,1.5,45241,45241,33369,33.392946,-111.926198,,,,,So. & Rural,So.,Rural,73,91,74,86
-143,Southern Ave,Hardy Dr,0,,,,,3,3,0,0,2,2,,2.22,31641,13042,31641,33.392846,-111.951999,,,,,So. & Hardy,So.,Hardy,105,79,85,
-144,Southern Ave,Mill Ave,0,,,,,1,1,0,0,2,2,3,1.5,33369,31988,33369,33.392846,-111.939499,,,,,So. & Mill,So.,Mill,86,89,77,85
-145,Alameda Dr,Mill Ave,0,,,,,1,1,2,2,2,2,3,1,31988,31988,2174,33.4001,-111.9397,,,,,Alameda & Mill,Alameda,Mill,75,77,,
-146,Broadway Rd,Mill Ave,0,,,,,1,1,0,0,2,1,3,0.5,35399,31988,35399,33.407345,-111.939699,,,,,Bway & Mill,Bway,Mill,62,77,56,59
-147,Baseline Rd,Mill Ave,0,,,,,3,1,0,0,3,2,3,2.5,34276,24210,34276,33.378146,-111.939298,,,,,Baseline & Mill,Baseline,Mill,100,112,102,
-148,Guadalupe Rd,Kyrene Rd,0,,,,,3,3,3,3,3,3,6,2.87,26421,26421,22687,33.363546,-111.945898,,,,,Guad & Kyrene,Guad,Kyrene,122,126,111,123
-149,Guadalupe Rd,Country Club Wy,0,,,,,3,3,3,3,3,3,6,5,24378,,24378,33.3638,-111.9026,,,,,Guad & CntryClub,Guad,CntryClub,120,,,
-150,Guadalupe Rd,Lakeshore Dr,0,,,,,3,3,3,3,3,3,6,4.5,20605,,20605,33.363647,-111.919797,,,,,Guad & Lakeshore,Guad,Lakeshore,121,,,
-151,University Dr,Forest Ave,0,,,,,0,0,3,3,1,1,3,0,30051,,30051,33.421845,-111.936499,,,,,Univ & Forest,Univ,Forest,38,,,
+123,Western Canal,Rural Rd,0,,,,,0,0,4,4,3,3,6,4,32806,32806,#N/A,33.35663,-111.92854,,,1,1,Canal & Rural,Canal,Rural,115,,,
+124,Western Canal,McClintock Dr,0,,,,,3,3,4,4,3,3,6,5,29155,29155,#N/A,33.35677,-111.91153,,,1,1,Canal & McClntk,Canal,McClntk,118,,,
+125,Western Canal,Lakeshore Dr,0,,,,,2,3,4,4,3,3,6,4.5,0,#N/A,#N/A,33.35628,-111.92068,,,1,1,Canal & Lakeshore,Canal,Lakeshore,,,,
+126,Baseline Rd,Western Canal,0,,,,,4,4,0,0,3,3,6,2.9,34793,#N/A,34793,33.377958,-111.945448,1,1,,,Baseline & Western,Baseline,Western,104,,,
+127,Elliot Rd,McClintock Dr,0,,,,,3,3,0,0,4,3,6,5.5,#N/A,#N/A,#N/A,33.349147,-111.911297,,,,,Elliot & McClntk,Elliot,McClntk,130,138,128,131
+128,Alameda Dr,McClintock Dr,0,,,,,3,3,2,2,2,2,,2,30881,30881,#N/A,33.400146,-111.908998,,,,,Alameda & McClntk,Alameda,McClntk,71,,,
+129,Alameda Dr,Rural Rd,0,,,,,0,0,2,2,2,2,,1,38719,38719,#N/A,33.400246,-111.926098,,,,,Alameda & Rural,Alameda,Rural,75,74,,
+130,Alameda Dr,Country Club Wy,0,,,,,2,0,2,2,2,2,,2.5,#N/A,#N/A,#N/A,33.400346,-111.900497,,,,,Alameda & CntryClub,Alameda,CntryClub,,,,
+131,Apache Blvd,Rural Rd,1,1,,,1,0,0,3,3,1,1,2,0,#N/A,#N/A,#N/A,33.414645,-111.926098,,,,,Apache & Rural,Apache,Rural,45,61,46,48
+132,Apache Blvd,S Dorsey Ln,0,,,,,0,0,3,3,1,1,2,0.5,15777,#N/A,15777,33.414745,-111.917698,,,,,Apache & Dorsey,Apache,Dorsey,45,,,
+133,Apache Blvd,College Ave,1,1,,,,3,3,3,3,1,1,2,0,21727,#N/A,21727,33.414545,-111.934699,,,,,Apache & College,Apache,College,60,48,,
+134,Apache Blvd,Paseo Del Saber,1,1,,,,5,5,3,3,1,1,2,0,21727,#N/A,21727,33.414696,-111.92914,1,1,,,Apache & Paseo,Apache,Paseo,48,,,
+135,Lemon St,Rural Rd,1,,,,1,0,0,3,3,1,1,2,0,38694,38694,#N/A,33.416745,-111.926198,,,,,Lemon & Rural,Lemon,Rural,46,,,
+136,Spence St,Rural Rd,0,,,,,0,0,4,0,1,1,2,0,43512,43512,#N/A,33.412845,-111.926198,,,,,Spence & Rural,Spence,Rural,61,,,
+137,Broadway Rd,Priest Dr,0,,,,,3,3,0,0,2,1,,1.75,#N/A,#N/A,#N/A,33.407545,-111.960699,,,,,Bway & Priest,Bway,Priest,56,81,52,55
+138,Broadway Rd,Rural Rd,0,,,,,0,0,0,0,2,1,,0.5,#N/A,#N/A,#N/A,33.407445,-111.926098,,,,,Bway & Rural,Bway,Rural,63,74,61,62
+139,Broadway Rd,College Ave,0,,,,,3,3,0,0,2,1,,0.5,32224,#N/A,32224,33.407445,-111.934699,,,,,Bway & College,Bway,College,76,60,62,
+140,Southern Ave,Priest Dr,0,,,,,3,3,0,0,2,2,,2.75,#N/A,#N/A,#N/A,33.392845,-111.960709,,,,,So & Priest,So,Priest,85,154,81,84
+141,Southern Ave,College Ave,0,,,,,3,3,0,0,2,2,,1.5,30005,#N/A,30005,33.392846,-111.934798,,,,,So & College,So,College,90,76,86,
+142,Southern Ave,Rural Rd,0,,,,,0,0,0,0,2,2,,1.5,#N/A,#N/A,#N/A,33.392946,-111.926198,,,,,So & Rural,So,Rural,73,91,74,86
+143,Southern Ave,Hardy Dr,0,,,,,3,3,0,0,2,2,,2.22,28817,#N/A,28817,33.392846,-111.951999,,,,,So & Hardy,So,Hardy,105,79,85,
+144,Southern Ave,Mill Ave,0,,,,,1,1,0,0,2,2,3,1.5,#N/A,#N/A,#N/A,33.392846,-111.939499,,,,,So & Mill,So,Mill,86,89,77,85
+145,Alameda Dr,Mill Ave,0,,,,,1,1,2,2,2,2,3,1,29767,29767,#N/A,33.4001,-111.9397,,,,,Alameda & Mill,Alameda,Mill,75,77,,
+146,Broadway Rd,Mill Ave,0,,,,,1,1,0,0,2,1,3,0.5,#N/A,#N/A,#N/A,33.407345,-111.939699,,,,,Bway & Mill,Bway,Mill,62,77,56,59
+147,Baseline Rd,Mill Ave,0,,,,,3,1,0,0,3,2,3,2.5,#N/A,#N/A,#N/A,33.378146,-111.939298,,,,,Baseline & Mill,Baseline,Mill,100,112,102,
+148,Guadalupe Rd,Kyrene Rd,0,,,,,3,3,3,3,3,3,6,2.87,#N/A,#N/A,#N/A,33.363546,-111.945898,,,,,Guad & Kyrene,Guad,Kyrene,122,126,111,123
+149,Guadalupe Rd,Country Club Wy,0,,,,,3,3,3,3,3,3,6,5,24378,#N/A,24378,33.3638,-111.9026,,,,,Guad & CntryClub,Guad,CntryClub,120,,,
+150,Guadalupe Rd,Lakeshore Dr,0,,,,,3,3,3,3,3,3,6,4.5,20605,#N/A,20605,33.363647,-111.919797,,,,,Guad & Lakeshore,Guad,Lakeshore,121,,,
+151,University Dr,Forest Ave,0,,,,,0,0,3,3,1,1,3,0,36499,#N/A,36499,33.421845,-111.936499,,,,,Univ & Forest,Univ,Forest,38,,,
 152,Tempe Lake S.,TCA Bridge,0,,,,,4,4,4,4,,,,0.8,0,0,0,33.4324,-111.94885,1,1,1,1,Lake & TCA Bridge,Lake,TCA Bridge,,,,
 153,Apache Blvd,McAllister Ave,1,1,,,,3,3,3,3,,,,0,21727,2065,21727,33.414678,-111.930599,,,,,Apache & McAllister,Apache,McAllister,48,47,,
-154,Terrace Rd,Rural Rd,1,,,,1,0,0,4,3,,,,0,40479,40479,,33.42018,-111.92627,,,,,Terrace & Rural,Terrace,Rural,46,,,
-155,University Dr,McClintock Dr,0,,,,,0,0,3,3,1,1,,1,37413,32685,37413,33.422,-111.9091,,,,,Univ & McClntk,Univ,McClntk,30,40,31,32
-156,Crosscut Canal,Mill Ave,0,,,,,3,3,4,-1,,,,0.7,15577,15577,0,33.438908,-111.943848,1,1,,,Crosscut & Mill,Crosscut,Mill,11,17,,
-157,Curry Rd,College Ave,0,,,,,3,3,3,3,,,,1.1,16270,6636,16270,33.440289,-111.930861,,,,,Curry & College,Curry,College,9,5,10,
-158,Washington St,Priest Dr,0,,,,,3,3,3,3,,,,1.5,25458,25458,14472,33.4426,-111.9566,,,,,Wash & Priest,Wash,Priest,12,15,13,14
-159,Broadway Rd,McClintock Dr,0,,,,,3,3,0,0,,,,1.5,32423,30881,32423,33.407433,-111.909107,,,,,Bway & McClntk,Bway,McClntk,65,71,63,64
-160,Broadway Rd,Hardy Dr,0,,,,,3,3,0,0,,,,1.3,35399,13042,35399,33.407397,-111.952164,,,,,Bway & Hardy,Bway,Hardy,79,50,56,
-161,University Dr,Price Rd,0,,,,,0,0,3,3,,,,2,37413,11371,37413,33.422013,-111.891954,,,,,Univ & Price,Univ,Price,41,42,29,30
-162,Broadway Rd,Roosevelt St,0,,,,,3,3,0,0,,,,1.1,35399,6703,35399,33.40738,-111.94783,,,,,Bway & Rsvlt,Bway,Rsvlt,78,57,56,
-163,University Dr,Farmer Ave,0,,,,,3,3,3,3,,,,0.2,31195,,31195,33.421894,-111.944266,,,,,Univ & Farmer,Univ,Farmer,37,,,
-164,Southern Ave,McClintock Dr,0,,,,,3,3,0,0,,,,2.5,35624,35624,28796,33.39295,-111.90912,,,,,So. & McClntk,So.,McClntk,70,92,71,73
-165,University Dr,Priest Dr,0,,,,,3,1,3,3,,,,1.2,34169,34169,31195,33.421936,-111.960908,,,,,Univ & Priest,Univ,Priest,37,52,21,36
-166,8th St,Dorsey Ln,0,,,,,2,1,3,3,,,,0.5,,,,33.41941,-111.917692,,,,,8th & Dorsey,8th,Dorsey,,,,
-167,Town Lake Path S,Priest Dr,0,,,,,0,0,0,4,,,,2,44869,44869,,33.43343,-111.961085,,,,,TownLakeS & Priest,TownLakeS,Priest,155,,,
-168,Baseline Rd,Priest Dr,0,,,,,3,3,0,0,,,,3.9,44484,23872,44484,33.3783,-111.96315,,,,,Baseline & Priest,Baseline,Priest,106,109,88,107
-169,Baseline Rd,Kyrene Rd,0,,,,,3,4,0,0,,,,3.1,42459,22883,42459,33.3782,-111.946,,,,,Baseline & Kyrene,Baseline,Kyrene,111,103,104,
-170,Knox Rd,Priest Dr,0,,,,,0,0,0,0,,,,7.9,22291,22291,,33.32725,-111.9631,,,,,Knox & Priest,Knox,Priest,145,,,
-171,Knox Rd,Lakeshore Dr,0,,,,,-1,2,2,0,,,,6.6,,,,33.32755,-111.91895,,,,,Knox & Lakeshore,Knox,Lakeshore,,,,
-172,Alameda Dr,College Ave,0,,,,,3,3,2,2,,,,1,2860,2860,2174,33.4002,-111.9349,,,,,Alameda & College,Alameda,College,76,75,,
-173,Apache Blvd,McClintock Dr,0,,,,,0,0,3,3,,,,1,31878,31878,19938,33.4148,-111.9091,,,,,Apache & McClntk,Apache,McClntk,44,64,40,45
-174,Baseline Rd,McClintock Dr,0,,,,,3,3,0,0,,,,3.5,34964,34964,30104,33.3784,-111.9092,,,,,Baseline & McClntk,Baseline,McClntk,95,118,96,97
-175,Guadalupe Rd,McClintock Dr,0,,,,,3,3,3,3,,,,4.5,29155,29155,24378,33.3638,-111.9112,,,,,Guad & McClntk,Guad,McClntk,120,128,118,121
-176,Warner Rd,McClintock Dr,0,,,,,3,3,3,3,,,,5.5,33701,22447,33701,33.33465,-111.91115,,,,,Warner & McClntk,Warner,McClntk,140,148,138,141
-177,La Vieve Ln,McClintock Dr,0,,,,,3,3,2,2,,,,6.8,34964,34964,,33.3315,-111.91115,,,,,LaVieve & McClntk,LaVieve,McClntk,96,,,
-178,Curry Rd,Scottsdale Rd,0,,,,,0,0,1,1,,,,1,51749,51749,14613,33.4403,-111.92632,,,,,Curry & Scottsdale,Curry,Scottsdale,8,18,6,9
-179,Elliot Rd,Kyrene Branch Canal,0,,,,,,,,,,,,,,,,33.34916,-111.9389,,,,,,,,,,,
-180,N Highland Lateral Canal Trail,Avenida del Yaqui,0,,,,,,,,,,,,,,,,33.3754,-111.9632,,,,,,,,,,,
-181,Western Canal,Priest Dr,0,,,,,,,,,,,,,,,,33.38653,-111.96073,,,,,,,,,,,
-182,Apache Blvd,Tempe Canal Trail,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-183,Southern Ave,Tempe Canal Trail,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-184,Broadway Rd,Tempe Canal Trail,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-185,Guadalupe Rd,N Highland Lateral Canal Trail,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,Terrace Rd,Rural Rd,1,,,,1,0,0,4,3,,,,0,38694,38694,#N/A,33.42018,-111.92627,,,,,Terrace & Rural,Terrace,Rural,46,,,
+155,University Dr,McClintock Dr,0,,,,,0,0,3,3,1,1,,1,#N/A,#N/A,#N/A,33.422,-111.9091,,,,,Univ & McClntk,Univ,McClntk,30,40,31,32
+156,Crosscut Canal,Mill Ave,0,,,,,3,3,4,-1,,,,0.7,16813,16813,0,33.438908,-111.943848,1,1,,,Crosscut & Mill,Crosscut,Mill,11,17,,
+157,Curry Rd,College Ave,0,,,,,3,3,3,3,,,,1.1,#N/A,#N/A,#N/A,33.440289,-111.930861,,,,,Curry & College,Curry,College,9,5,10,
+158,Washington St,Priest Dr,0,,,,,3,3,3,3,,,,1.5,#N/A,#N/A,#N/A,33.4426,-111.9566,,,,,Wash & Priest,Wash,Priest,12,15,13,14
+159,Broadway Rd,McClintock Dr,0,,,,,3,3,0,0,,,,1.5,#N/A,#N/A,#N/A,33.407433,-111.909107,,,,,Bway & McClntk,Bway,McClntk,65,71,63,64
+160,Broadway Rd,Hardy Dr,0,,,,,3,3,0,0,,,,1.3,31510,#N/A,31510,33.407397,-111.952164,,,,,Bway & Hardy,Bway,Hardy,79,50,56,
+161,University Dr,Price Rd,0,,,,,0,0,3,3,,,,2,#N/A,#N/A,#N/A,33.422013,-111.891954,,,,,Univ & Price,Univ,Price,41,42,29,30
+162,Broadway Rd,Roosevelt St,0,,,,,3,3,0,0,,,,1.1,31510,#N/A,31510,33.40738,-111.94783,,,,,Bway & Rsvlt,Bway,Rsvlt,78,57,56,
+163,University Dr,Farmer Ave,0,,,,,3,3,3,3,,,,0.2,32345,#N/A,32345,33.421894,-111.944266,,,,,Univ & Farmer,Univ,Farmer,37,,,
+164,Southern Ave,McClintock Dr,0,,,,,3,3,0,0,,,,2.5,#N/A,#N/A,#N/A,33.39295,-111.90912,,,,,So & McClntk,So,McClntk,70,92,71,73
+165,University Dr,Priest Dr,0,,,,,3,1,3,3,,,,1.2,#N/A,#N/A,#N/A,33.421936,-111.960908,,,,,Univ & Priest,Univ,Priest,37,52,21,36
+166,8th St,Dorsey Ln,0,,,,,2,1,3,3,,,,0.5,#N/A,#N/A,#N/A,33.41941,-111.917692,,,,,8th & Dorsey,8th,Dorsey,,,,
+167,Town Lake Path S,Priest Dr,0,,,,,0,0,0,4,,,,2,38486,38486,#N/A,33.43343,-111.961085,,,,,TownLakeS & Priest,TownLakeS,Priest,155,,,
+168,Baseline Rd,Priest Dr,0,,,,,3,3,0,0,,,,3.9,#N/A,#N/A,#N/A,33.3783,-111.96315,,,,,Baseline & Priest,Baseline,Priest,106,109,88,107
+169,Baseline Rd,Kyrene Rd,0,,,,,3,4,0,0,,,,3.1,#N/A,#N/A,#N/A,33.3782,-111.946,,,,,Baseline & Kyrene,Baseline,Kyrene,111,103,104,
+170,Knox Rd,Priest Dr,0,,,,,0,0,0,0,,,,7.9,28027,28027,#N/A,33.32725,-111.9631,,,,,Knox & Priest,Knox,Priest,145,,,
+171,Knox Rd,Lakeshore Dr,0,,,,,-1,2,2,0,,,,6.6,#N/A,#N/A,#N/A,33.32755,-111.91895,,,,,Knox & Lakeshore,Knox,Lakeshore,,,,
+172,Alameda Dr,College Ave,0,,,,,3,3,2,2,,,,1,4728,4728,1994,33.4002,-111.9349,,,,,Alameda & College,Alameda,College,76,75,,
+173,Apache Blvd,McClintock Dr,0,,,,,0,0,3,3,,,,1,#N/A,#N/A,#N/A,33.4148,-111.9091,,,,,Apache & McClntk,Apache,McClntk,44,64,40,45
+174,Baseline Rd,McClintock Dr,0,,,,,3,3,0,0,,,,3.5,#N/A,#N/A,#N/A,33.3784,-111.9092,,,,,Baseline & McClntk,Baseline,McClntk,95,118,96,97
+175,Guadalupe Rd,McClintock Dr,0,,,,,3,3,3,3,,,,4.5,#N/A,#N/A,#N/A,33.3638,-111.9112,,,,,Guad & McClntk,Guad,McClntk,120,128,118,121
+176,Warner Rd,McClintock Dr,0,,,,,3,3,3,3,,,,5.5,#N/A,#N/A,#N/A,33.33465,-111.91115,,,,,Warner & McClntk,Warner,McClntk,140,148,138,141
+177,La Vieve Ln,McClintock Dr,0,,,,,3,3,2,2,,,,6.8,34964,34964,#N/A,33.3315,-111.91115,,,,,LaVieve & McClntk,LaVieve,McClntk,96,,,
+178,Curry Rd,Scottsdale Rd,0,,,,,0,0,1,1,,,,1,#N/A,#N/A,#N/A,33.4403,-111.92632,,,,,Curry & Scottsdale,Curry,Scottsdale,8,18,6,9
