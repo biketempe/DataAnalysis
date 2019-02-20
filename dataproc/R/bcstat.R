@@ -4,16 +4,25 @@
 #assumes duplicates have been averaged in _BCdata, with dup's (both instances) in separate file _BCdata_Dup if dup's exist
 userinput <- "N"
 while (!(tolower(userinput) == "y" | userinput == "")) {userinput <- readline("OK to clear workspace? [Y]")}
-rm(list=ls()) #remove (almost) everything in the working environment
+rm(list=ls()) 
+#remove (almost) everything in the working environment
+#Note: user must start R in the correct directory
+#setwd("C:/DataAnalysis/dataproc/R") #better to avoid setwd; not robust to different users
+print("**Team counts must be combined prior to running this code (to get correct results)**")
+dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
+if(!exists("dataPrefix")) dataPrefix <- 2018 #debug step for 2018 analysis
+source("recorders.R")
 require(graphics)
 library(stringr) # interface to common string operations
 library(plyr)
 library(ggmap) #for Geoplot
-#Note: user must start R in the correct directory
-#setwd("C:/DataAnalysis/dataproc/R") #better to avoid setwd; not robust to different users
-source("recorders.R")
-print("**Team counts must be combined prior to running this code (to get correct results)**")
-dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
+#get API key @ https://developers.google.com/places/web-service/get-api-key
+APIfile <- "GoogleAPIkey.txt"
+key <- readChar(APIfile, file.info(APIfile)$size)
+register_google(key = key)
+#Note: works with ggmap_3.0.0 but not ggmap_2.5.1
+#https://stackoverflow.com/questions/53275443/unable-to-use-register-google-in-r
+#
 inPath <- "DataIn/"
 outPath <- paste0("DataOut/", dataPrefix, "/")
 #input files
