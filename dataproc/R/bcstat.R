@@ -10,6 +10,8 @@ rm(list=ls())
 #setwd("C:/DataAnalysis/dataproc/R") #better to avoid setwd; not robust to different users
 print("**Team counts must be combined prior to running this code (to get correct results)**")
 dataPrefix <- readline("Enter the file prefix to be analyzed, e.g., 2014 for input file 2014_bcdata.csv: ") 
+#
+#for running portion of code manually, start here (bypasses user input)
 if(!exists("dataPrefix")) dataPrefix <- 2018 #debug step for 2018 analysis
 source("recorders.R")
 require(graphics)
@@ -297,6 +299,8 @@ lastYear <- as.numeric(substr(dataPrefix,1,4)) - 1
 outLast <- paste0("DataOut/", lastYear, "/")
 repsummfilelast <- paste0(outLast, lastYear, "_RepSumm.csv")
 #if last year's file exists, append to it; else make a new file with 1 data row; either way, rename col headers
+#to incorporate additional PAG data line, edit last year's file in last year's dataout folder
+#  or just add it to the current output manually, but that would be overwritten each time code is run.
 if(file.exists(repsummfilelast)) {
   repsumm <- read.csv(repsummfilelast)
   names(reportnew) <- names(repsumm)
@@ -312,6 +316,8 @@ write.csv(repsumm, file = repsummfile, row.names = FALSE)
 geocol <- c("LocID","TotPerHr","Female","Helmet","Wrongway","Sidewalk","Latitude","Longitude")
 Geoplot <- summ[,geocol]
 write.csv(Geoplot, file = paste0(outPath, dataPrefix, "_Geoplot.csv"), row.names = FALSE)
+#
+#Attribute plots
 # Copied (with mod) from "attribute_plots_CA.R"
 Geoplot$unity = 0.2 #equal markers just to show the locations
 lat_limit <- c(33.32725, 33.45128)
